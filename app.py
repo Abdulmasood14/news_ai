@@ -371,37 +371,49 @@ def show_dashboard(processor):
                     st.session_state.selected_company = company
                     st.rerun()
                 
-                # Blue contrast glacier effect styling
+                # Modern gradient card styling similar to the image
                 st.markdown(f"""
                 <style>
                     div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"] {{
-                        background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(29, 78, 216, 0.1));
-                        backdrop-filter: blur(15px);
-                        border: 1px solid rgba(59, 130, 246, 0.3);
-                        border-radius: 20px;
-                        color: #60a5fa;
+                        background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #ff6b9d 100%);
+                        backdrop-filter: blur(10px);
+                        border: none;
+                        border-radius: 25px;
+                        color: #ffffff;
                         text-align: center;
-                        box-shadow: 0 10px 40px rgba(59, 130, 246, 0.2);
-                        transition: all 0.4s ease;
-                        min-height: 180px;
-                        font-size: 24px;
+                        box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3);
+                        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+                        min-height: 200px;
+                        font-size: 26px;
                         font-weight: 700;
-                        text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
-                        background-image: 
-                            linear-gradient(135deg, rgba(59, 130, 246, 0.1), rgba(29, 78, 216, 0.05)),
-                            radial-gradient(circle at 30% 30%, rgba(147, 197, 253, 0.1), transparent 50%);
+                        text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+                        position: relative;
+                        overflow: hidden;
+                    }}
+                    
+                    div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"]:before {{
+                        content: '';
+                        position: absolute;
+                        top: 0;
+                        left: -100%;
+                        width: 100%;
+                        height: 100%;
+                        background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+                        transition: left 0.5s;
                     }}
                     
                     div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"]:hover {{
-                        transform: translateY(-12px) scale(1.02);
-                        box-shadow: 0 15px 50px rgba(59, 130, 246, 0.3);
-                        background: linear-gradient(135deg, rgba(59, 130, 246, 0.25), rgba(29, 78, 216, 0.15));
-                        border: 1px solid rgba(59, 130, 246, 0.5);
-                        color: #93c5fd;
+                        transform: translateY(-15px) scale(1.03);
+                        box-shadow: 0 25px 50px rgba(102, 126, 234, 0.4);
+                        background: linear-gradient(135deg, #764ba2 0%, #667eea 50%, #ff6b9d 100%);
+                    }}
+                    
+                    div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"]:hover:before {{
+                        left: 100%;
                     }}
                     
                     div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"]:active {{
-                        transform: translateY(-6px) scale(1.01);
+                        transform: translateY(-8px) scale(1.01);
                     }}
                 </style>
                 """, unsafe_allow_html=True)
