@@ -330,25 +330,13 @@ def show_dashboard(processor):
     """Display main dashboard with company cards"""
     st.markdown("<h1 class='main-header'>Company Data Scraper Dashboard</h1>", unsafe_allow_html=True)
     
-    # Summary statistics
+    # Summary statistics - Show only Total Companies
     stats = processor.get_summary_stats()
     
-    col1, col2, col3, col4, col5 = st.columns(5)
-    
-    with col1:
-        st.metric("Total Companies", stats['total_companies'])
-    
+    # Center the single metric
+    col1, col2, col3 = st.columns([1, 1, 1])
     with col2:
-        st.metric("Successful Extractions", stats['successful_extractions'])
-    
-    with col3:
-        st.metric("Success Rate", f"{stats['success_rate']:.1f}%")
-    
-    with col4:
-        st.metric("Total Links", f"{stats['total_links']:,}")
-    
-    with col5:
-        st.metric("Total Text Length", f"{stats['total_text_length']:,}")
+        st.metric("Total Companies", stats['total_companies'])
     
     st.markdown("---")
     
@@ -361,33 +349,14 @@ def show_dashboard(processor):
         st.warning("No company data found. Please ensure CSV files are in the 'scraper_csv_outputs' directory.")
         return
     
-    # Create cards in grid layout
-    cols_per_row = 3
+    # Create cards in grid layout with bigger size (2 columns instead of 3)
+    cols_per_row = 2
     for i in range(0, len(companies), cols_per_row):
         cols = st.columns(cols_per_row)
         
         for j, company in enumerate(companies[i:i+cols_per_row]):
             with cols[j]:
                 data = processor.get_company_data(company)
-                
-                # Safely get status and convert to string
-                status_raw = data.get('summary', {}).get('status', 'Unknown')
-                status = str(status_raw) if status_raw is not None else 'Unknown'
-                
-                # Determine status color
-                if status.lower() == 'completed':
-                    status_class = 'status-success'
-                elif 'error' in status.lower():
-                    status_class = 'status-error'
-                else:
-                    status_class = 'status-warning'
-                
-                # Get last modified date
-                last_modified = data.get('last_modified', 'Unknown')
-                if hasattr(last_modified, 'strftime'):
-                    last_modified_str = last_modified.strftime('%Y-%m-%d')
-                else:
-                    last_modified_str = 'Unknown'
                 
                 # Create clickable card using button with custom styling
                 card_key = f"card_{company}_{i}_{j}"
@@ -402,34 +371,37 @@ def show_dashboard(processor):
                     st.session_state.selected_company = company
                     st.rerun()
                 
-                # Glacier effect and dark styling
+                # Blue contrast glacier effect styling
                 st.markdown(f"""
                 <style>
                     div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"] {{
-                        background: rgba(255, 255, 255, 0.1);
-                        backdrop-filter: blur(10px);
-                        border: 1px solid rgba(255, 255, 255, 0.2);
-                        border-radius: 15px;
-                        color: #ffffff;
+                        background: linear-gradient(135deg, rgba(59, 130, 246, 0.15), rgba(29, 78, 216, 0.1));
+                        backdrop-filter: blur(15px);
+                        border: 1px solid rgba(59, 130, 246, 0.3);
+                        border-radius: 20px;
+                        color: #60a5fa;
                         text-align: center;
-                        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
-                        transition: all 0.3s ease;
-                        min-height: 120px;
-                        font-size: 18px;
-                        font-weight: 600;
-                        text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
-                        background-image: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
+                        box-shadow: 0 10px 40px rgba(59, 130, 246, 0.2);
+                        transition: all 0.4s ease;
+                        min-height: 180px;
+                        font-size: 24px;
+                        font-weight: 700;
+                        text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+                        background-image: 
+                            linear-gradient(135deg, rgba(59, 130, 246, 0.1), rgba(29, 78, 216, 0.05)),
+                            radial-gradient(circle at 30% 30%, rgba(147, 197, 253, 0.1), transparent 50%);
                     }}
                     
                     div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"]:hover {{
-                        transform: translateY(-8px);
-                        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
-                        background: rgba(255, 255, 255, 0.15);
-                        border: 1px solid rgba(255, 255, 255, 0.3);
+                        transform: translateY(-12px) scale(1.02);
+                        box-shadow: 0 15px 50px rgba(59, 130, 246, 0.3);
+                        background: linear-gradient(135deg, rgba(59, 130, 246, 0.25), rgba(29, 78, 216, 0.15));
+                        border: 1px solid rgba(59, 130, 246, 0.5);
+                        color: #93c5fd;
                     }}
                     
                     div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"]:active {{
-                        transform: translateY(-4px);
+                        transform: translateY(-6px) scale(1.01);
                     }}
                 </style>
                 """, unsafe_allow_html=True)
