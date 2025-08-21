@@ -17,31 +17,28 @@ st.set_page_config(
 st.markdown("""
 <style>
     .company-card {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        border-radius: 10px;
-        padding: 20px;
-        margin: 10px;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #ff6b9d 100%);
+        border-radius: 25px;
         color: white;
         text-align: center;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        transition: transform 0.2s;
+        box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3);
+        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        min-height: 200px;
+        font-size: 26px;
+        font-weight: 700;
+        text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+        position: relative;
+        overflow: hidden;
+        padding: 60px 20px;
         cursor: pointer;
+        border: none;
+        margin: 10px 0;
     }
     
     .company-card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
-    }
-    
-    .card-title {
-        font-size: 24px;
-        font-weight: bold;
-        margin-bottom: 10px;
-    }
-    
-    .card-stats {
-        font-size: 14px;
-        opacity: 0.9;
+        transform: translateY(-15px) scale(1.03);
+        box-shadow: 0 25px 50px rgba(102, 126, 234, 0.4);
+        background: linear-gradient(135deg, #764ba2 0%, #667eea 50%, #ff6b9d 100%);
     }
     
     .main-header {
@@ -58,14 +55,6 @@ st.markdown("""
         margin-bottom: 15px;
     }
     
-    .metric-card {
-        background: #f0f2f6;
-        border-radius: 10px;
-        padding: 15px;
-        text-align: center;
-        margin: 5px;
-    }
-    
     .status-success {
         color: #28a745;
         font-weight: bold;
@@ -79,6 +68,21 @@ st.markdown("""
     .status-error {
         color: #dc3545;
         font-weight: bold;
+    }
+    
+    /* Hide Streamlit button styling */
+    div[data-testid="stButton"] > button {
+        background: none !important;
+        border: none !important;
+        padding: 0 !important;
+        color: inherit !important;
+        text-decoration: none !important;
+        cursor: pointer !important;
+        font-family: inherit !important;
+        font-size: inherit !important;
+        margin: 0 !important;
+        width: 100% !important;
+        height: auto !important;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -330,25 +334,13 @@ def show_dashboard(processor):
     """Display main dashboard with company cards"""
     st.markdown("<h1 class='main-header'>Company Data Scraper Dashboard</h1>", unsafe_allow_html=True)
     
-    # Summary statistics
+    # Summary statistics - Show only Total Companies
     stats = processor.get_summary_stats()
     
-    col1, col2, col3, col4, col5 = st.columns(5)
-    
-    with col1:
-        st.metric("Total Companies", stats['total_companies'])
-    
+    # Center the single metric
+    col1, col2, col3 = st.columns([1, 1, 1])
     with col2:
-        st.metric("Successful Extractions", stats['successful_extractions'])
-    
-    with col3:
-        st.metric("Success Rate", f"{stats['success_rate']:.1f}%")
-    
-    with col4:
-        st.metric("Total Links", f"{stats['total_links']:,}")
-    
-    with col5:
-        st.metric("Total Text Length", f"{stats['total_text_length']:,}")
+        st.metric("Total Companies", stats['total_companies'])
     
     st.markdown("---")
     
@@ -361,8 +353,8 @@ def show_dashboard(processor):
         st.warning("No company data found. Please ensure CSV files are in the 'scraper_csv_outputs' directory.")
         return
     
-    # Create cards in grid layout
-    cols_per_row = 3
+    # Create cards in grid layout with bigger size (2 columns instead of 3)
+    cols_per_row = 2
     for i in range(0, len(companies), cols_per_row):
         cols = st.columns(cols_per_row)
         
@@ -370,44 +362,47 @@ def show_dashboard(processor):
             with cols[j]:
                 data = processor.get_company_data(company)
                 
-                # Safely get status and convert to string
-                status_raw = data.get('summary', {}).get('status', 'Unknown')
-                status = str(status_raw) if status_raw is not None else 'Unknown'
-                
-                # Determine status color
-                if status.lower() == 'completed':
-                    status_class = 'status-success'
-                elif 'error' in status.lower():
-                    status_class = 'status-error'
-                else:
-                    status_class = 'status-warning'
-                
-                # Get last modified date
-                last_modified = data.get('last_modified', 'Unknown')
-                if hasattr(last_modified, 'strftime'):
-                    last_modified_str = last_modified.strftime('%Y-%m-%d')
-                else:
-                    last_modified_str = 'Unknown'
-                
-                # Create card
-                card_html = f"""
-                <div class="company-card">
-                    <div class="card-title">{company}</div>
-                    <div class="card-stats">
-                        <p>Status: <span class="{status_class}">{status}</span></p>
-                        <p>Links: {len(data.get('links', []))}</p>
-                        <p>Text Length: {len(str(data.get('text_content', ''))):,} chars</p>
-                        <p>Updated: {last_modified_str}</p>
-                    </div>
-                </div>
-                """
-                
-                st.markdown(card_html, unsafe_allow_html=True)
-                
-                # Button to view details
-                if st.button(f"View Details", key=f"btn_{company}"):
+                # Create a simple button with the company name
+                if st.button(
+                    company,
+                    key=f"card_{company}_{i}_{j}",
+                    help=f"Click to view details for {company}",
+                    use_container_width=True
+                ):
                     st.session_state.selected_company = company
                     st.rerun()
+
+# Add global CSS styling for all buttons to look like gradient cards
+st.markdown("""
+<style>
+    /* Style all Streamlit buttons to look like gradient cards */
+    div[data-testid="stButton"] > button[kind="primary"] {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #ff6b9d 100%) !important;
+        border: none !important;
+        border-radius: 25px !important;
+        color: white !important;
+        text-align: center !important;
+        box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3) !important;
+        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1) !important;
+        min-height: 200px !important;
+        font-size: 26px !important;
+        font-weight: 700 !important;
+        text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2) !important;
+        width: 100% !important;
+        margin: 10px 0 !important;
+    }
+    
+    div[data-testid="stButton"] > button[kind="primary"]:hover {
+        transform: translateY(-15px) scale(1.03) !important;
+        box-shadow: 0 25px 50px rgba(102, 126, 234, 0.4) !important;
+        background: linear-gradient(135deg, #764ba2 0%, #667eea 50%, #ff6b9d 100%) !important;
+    }
+    
+    div[data-testid="stButton"] > button[kind="primary"]:active {
+        transform: translateY(-8px) scale(1.01) !important;
+    }
+</style>
+""", unsafe_allow_html=True)
 
 def show_company_details(processor):
     """Display detailed view for selected company"""
@@ -517,14 +512,12 @@ def show_company_details(processor):
     
     summary = data.get('summary', {})
     
-    col1, col2, col3, col4 = st.columns(4)
+    col1, col2, col3 = st.columns(3)
     with col1:
         st.metric("Status", str(summary.get('status', 'Unknown')))
     with col2:
         st.metric("Total Links", summary.get('total_links', len(data.get('links', []))))
     with col3:
-        st.metric("Text Length", f"{summary.get('text_length', len(str(data.get('text_content', '')))):,}")
-    with col4:
         st.metric("Extraction Date", str(summary.get('extraction_date', 'Unknown')))
     
     # Extracted Links Section
@@ -623,17 +616,6 @@ def show_company_details(processor):
             else:
                 st.markdown(display_text)
         
-        # Text statistics
-        col1, col2, col3, col4 = st.columns(4)
-        with col1:
-            st.metric("Characters", len(text_content))
-        with col2:
-            st.metric("Words", len(text_content.split()))
-        with col3:
-            st.metric("Lines", len(text_content.split('\n')))
-        with col4:
-            st.metric("Paragraphs", len([p for p in text_content.split('\n\n') if p.strip()]))
-        
         # Download text content
         if st.button("Download Text Content"):
             st.download_button(
@@ -657,18 +639,12 @@ def show_company_details(processor):
         with open(data['file_path'], 'r', encoding='utf-8') as f:
             csv_content = f.read()
         
-        col1, col2 = st.columns(2)
-        
-        with col1:
-            st.download_button(
-                label="Download Complete CSV File",
-                data=csv_content,
-                file_name=data['filename'],
-                mime="text/csv"
-            )
-        
-        with col2:
-            st.metric("File Size", f"{len(csv_content):,} characters")
+        st.download_button(
+            label="Download Complete CSV File",
+            data=csv_content,
+            file_name=data['filename'],
+            mime="text/csv"
+        )
 
 if __name__ == "__main__":
     main()
