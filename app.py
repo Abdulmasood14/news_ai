@@ -619,15 +619,11 @@ def show_company_details(processor):
                 st.markdown(display_text)
         
         # Text statistics
-        col1, col2, col3, col4 = st.columns(4)
+        col1, col2 = st.columns(2)
         with col1:
             st.metric("Characters", len(text_content))
         with col2:
             st.metric("Words", len(text_content.split()))
-        with col3:
-            st.metric("Lines", len(text_content.split('\n')))
-        with col4:
-            st.metric("Paragraphs", len([p for p in text_content.split('\n\n') if p.strip()]))
         
         # Download text content
         if st.button("Download Text Content"):
@@ -652,18 +648,12 @@ def show_company_details(processor):
         with open(data['file_path'], 'r', encoding='utf-8') as f:
             csv_content = f.read()
         
-        col1, col2 = st.columns(2)
-        
-        with col1:
-            st.download_button(
-                label="Download Complete CSV File",
-                data=csv_content,
-                file_name=data['filename'],
-                mime="text/csv"
-            )
-        
-        with col2:
-            st.metric("File Size", f"{len(csv_content):,} characters")
+        st.download_button(
+            label="Download Complete CSV File",
+            data=csv_content,
+            file_name=data['filename'],
+            mime="text/csv"
+        )
 
 if __name__ == "__main__":
     main()
