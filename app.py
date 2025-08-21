@@ -392,9 +392,9 @@ def show_dashboard(processor):
                 # Create clickable card using button with custom styling
                 card_key = f"card_{company}_{i}_{j}"
                 
-                # Create the card as a button with full styling
+                # Create the card as a button with only company name
                 if st.button(
-                    label=f"{company}\n\nStatus: {status}\nLinks: {len(data.get('links', []))}\nText Length: {len(str(data.get('text_content', ''))):,} chars\nUpdated: {last_modified_str}",
+                    label=f"{company}",
                     key=card_key,
                     help=f"Click to view details for {company}",
                     use_container_width=True
@@ -402,26 +402,34 @@ def show_dashboard(processor):
                     st.session_state.selected_company = company
                     st.rerun()
                 
-                # Style the button to look like a card using CSS injection
+                # Glacier effect and dark styling
                 st.markdown(f"""
                 <style>
                     div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"] {{
-                        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-                        border-radius: 10px;
-                        color: white;
+                        background: rgba(255, 255, 255, 0.1);
+                        backdrop-filter: blur(10px);
+                        border: 1px solid rgba(255, 255, 255, 0.2);
+                        border-radius: 15px;
+                        color: #ffffff;
                         text-align: center;
-                        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-                        transition: transform 0.2s;
-                        border: none;
-                        min-height: 150px;
-                        font-size: 14px;
-                        line-height: 1.4;
-                        white-space: pre-line;
+                        box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+                        transition: all 0.3s ease;
+                        min-height: 120px;
+                        font-size: 18px;
+                        font-weight: 600;
+                        text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+                        background-image: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05));
                     }}
                     
                     div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"]:hover {{
-                        transform: translateY(-5px);
-                        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+                        transform: translateY(-8px);
+                        box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4);
+                        background: rgba(255, 255, 255, 0.15);
+                        border: 1px solid rgba(255, 255, 255, 0.3);
+                    }}
+                    
+                    div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"]:active {{
+                        transform: translateY(-4px);
                     }}
                 </style>
                 """, unsafe_allow_html=True)
