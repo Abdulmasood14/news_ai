@@ -1,0 +1,35 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+AUBANK,10,1085,2025-08-21 20:38:43,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.caalley.com/news-updates/indian-news/au-small-finance-bank-gets-rbi-approval-to-become-a-universal-bank#:~:text=%E2%80%9CIt%20is%20a%20testament%20to,became%20SFBs%20were%20microfinance%20institutions."
+Link_2,"https://www.caalley.com/news-updates/indian-news/au-small-finance-bank-gets-rbi-approval-to-become-a-universal-bank#:~:text=AU%20Small%20Finance%20Bank%20gets,MD%20&%20CEO%2C%20AU%20SFB."
+Link_3,https://www.aubank.in/maximum-savings-account-1stmay25-maximum-savings-account-1stmay25.pdf
+Link_4,https://www.aubank.in/exclusive-savings-account-1stmay25-exclusive-savings-account-1stmay25.pdf
+Link_5,https://www.aubank.in/press-releases_25-8-AU_Q4FY25_Results%20Press%20release.pdf
+Link_6,https://hdfcsky.com/news/au-small-finance-bank-sbi-life-insurance-to-enter-into-distribution-partnership
+Link_7,"https://www.findoc.com/news/market-news/7/15/1180643#:~:text=AU%20Small%20Finance%20Bank%20has,BACK"
+Link_8,"https://upstox.com/news/market-news/stocks/au-small-finance-bank-shares-rise-over-2percent-ahead-of-fincare-merger/article-75519/#:~:text=The%20merger%20between%20AU%20Small,Bank%20after%20April%201%2C%202024."
+Link_9,"https://www.business-standard.com/topic/small-finance-bank#:~:text=The%20shares%20were%20disposed%20of,were%20acquired%20by%20Paris%2Dbased"
+Link_10,"https://www.aubank.in/about-us/media-centre/press-release#:~:text=AU%20Small%20Finance%20Bank%20launches%20International%20Fund%20Transfers%2C%20Cross%2Dborder,in%20Shergarh%20%2D%20March%2011%2C%202024"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"May 1st, 2025:AU Small Finance Bank updated its schedule of charges for the Maximum and Exclusive Savings Accounts, with the new charges effective from this date.
+
+April 22nd, 2025:AU Small Finance Bank announced its financial results for Q4 and the full fiscal year ended March 31, 2025 (FY25).
+
+April 1st, 2024 (merger effective date):The merger between AU Small Finance Bank and Fincare Small Finance Bank became effective. All Fincare branches began functioning as part of AU Small Finance Bank from this date.
+
+August 7, 2025:AU Small Finance Bank received in-principle approval from the Reserve Bank of India to transition into a Universal Bank.
+
+August 4, 2025:AU Small Finance Bank and SBI Life Insurance announced a distribution partnership for SBI Life Insurance policies through AU's branch network.
+
+July 21, 2025:AU Small Finance Bank reported a 16% rise in Q1 net profit (Q1FY26).
+
+June 29, 2025:Morgan Stanley Asia (Singapore) sold 93.9 lakh shares of AU Small Finance Bank in a block deal on BSE.
+
+AUBANK news and updates on May 1, 2025:
+
+Other recent news and updates:"

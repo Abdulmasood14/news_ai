@@ -1,0 +1,14 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+BANDHANBNK,3,867,2025-08-21 21:02:11,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,https://bandhanbank.com/sites/default/files/2025-04/Press-Release-Q4-FY-24-25.pdf
+Link_2,"https://www.nurcmedianext.com/news-updates/banking/2025/may/01-thursday/#:~:text=Bandhan%20Bank%20picks%20three%20focus,Spencer%20Stuart%20for%20CEO%20hunt"
+Link_3,"https://www.nurcmedianext.com/news-updates/banking/2025/may/01-thursday/#:~:text=%F0%9F%93%9D%20Bank%20lending%20growth%20slows,Banks%20/%20FIIs%20/%20I%2DBanks"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"On May 1, 2025, Bandhan Bank's financial results for Q4 FY24-25 were a key focus. The bank's profit after tax for FY25 stood at ₹2,745 crore, a 23% year-on-year growth . However, net interest income (NII) for Q4 FY25 saw a 4% year-on-year decline, at ₹2,756 crore , and operating profit for the quarter was ₹1,571 crore, compared to ₹1,838 crore in Q4 FY24.
+
+In other news, on the same day, www.nurcmedianext.com reported that Bandhan Bank had identified three focus areas and aimed for a 15-17% growth in advances, with deposit growth outpacing advances. This was significantly higher than the 9.8% growth in advances the bank experienced in FY25. Additionally, IndusInd Bank's CEO stepped down, leading to the formation of an executive committee to manage the bank temporarily. The Competition Commission of India (CCI) dismissed an antitrust case against J&K Bank."

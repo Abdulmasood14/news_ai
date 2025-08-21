@@ -1,0 +1,71 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+ADANIPORTS,8,3914,2025-08-21 20:43:07,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.adaniports.com/newsroom/media-releases#:~:text=APSEZ's%20quarterly%20revenue%20grows%2021,Jan%2008%2C%202025"
+Link_2,https://www.adaniports.com/newsroom/media-releases
+Link_3,"https://www.capitalmarket.com/markets/news/corporate-news/Board-of-Adani-Ports-and-Special-Economic-Zone-recommends-final-dividend/1595699#:~:text=%2C%2010:06)-,Board%20of%20Adani%20Ports%20&%20Special%20Economic%20Zone%20recommends%20final%20dividend,in%20credit%20rating%20from%20Moody's"
+Link_4,"https://www.business-standard.com/markets/capital-market-news/adani-ports-records-17-growth-in-handled-cargo-volumes-in-may-25-125060300176_1.html#:~:text=Adani%20Ports%20records%2017%25%20growth,in%20the%20March%202025%20quarter"
+Link_5,"https://www.business-standard.com/markets/capital-market-news/adani-ports-records-17-growth-in-handled-cargo-volumes-in-may-25-125060300176_1.html#:~:text=1.,in%20the%20March%202025%20quarter"
+Link_6,https://www.adaniports.com/-/media/Project/Ports/Investor/Investor-Downloads/Operational-Highlights/Q4-FY25.pdf
+Link_7,"https://cfo.economictimes.indiatimes.com/news/strategy-operations/adani-ports-pegs-rs-11000-12000-crore-as-capex-spending-in-fy26/120791628#:~:text=3%20min%20read-,Adani%20Ports%20pegs%20Rs%2011%2C000%2D12%2C000%20crore%20as%20capex%20spending,said%20in%20the%20video%20message."
+Link_8,https://www.adaniports.com/newsroom
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"APSEZ announced its financial results for the quarter and twelve months ending March 31, 2025.
+
+The company reported an all-time high Net Profit After Tax (PAT) of ₹11,061 crore for the fiscal year (FY25), up 37% year-over-year.
+
+Revenue from operations for FY25 increased 16% to ₹31,079 crore.
+
+In the January-March 2025 quarter, PAT rose 50% to ₹3,023 crore, while revenue from operations increased 23% to ₹8,488 crore.
+
+The company also recorded an all-time high cargo volume of 450 million tonnes (MMT) in FY25, with Mundra Port becoming the first Indian port to cross 200 MMT in a single year.
+
+APSEZ's board recommended a final dividend of ₹7 per equity share (350%) for FY25, subject to shareholder approval.
+
+Strategic highlights for FY25 included expanding the domestic port footprint with the acquisition of Gopalpur port and commencing operations at Vizhinjam port, India's first fully automated transshipment port.
+
+APSEZ also expanded internationally, starting operations at the Colombo West International Terminal (CWIT) and acquiring North Queensland Export Terminal (NQXT), Australia.
+
+The company signed a 30-year concession agreement to manage a container terminal at Dar es Salaam Port, Tanzania.
+
+Significant progress was made at Haifa Port, including integration with APSEZ processes and signing a union agreement in April 2025, leading to higher productivity and a 36% year-on-year increase in EBITDA.
+
+APSEZ launched a strategic initiative to expand its marine business, acquiring Astro Offshore, which increased its marine fleet to 115 vessels.
+
+The logistics vertical demonstrated strong growth with a 39% year-on-year revenue increase in FY25, expanding into new lines of business like Trucking Management Solution and International Freight Network services.
+
+Operational performance highlights included a 7% year-on-year increase in cargo volume to 450 MMT, driven by containers and liquids and gas.
+
+Adani Ports' all-India cargo market share for FY25 increased to 27%, and container market share rose to 45.5%.
+
+Vizhinjam port crossed the 100,000 monthly TEU milestone in March 2025, just four months after becoming operational.
+
+Logistics handled container volumes of 0.64 Mn TEUs (+8% YoY) and bulk cargo of 21.97 MMT (+9% YoY) in FY25.
+
+Rakes count increased to 132 from 127 in FY24, and warehousing capacity expanded to 3.1 million sq. ft.
+
+Agri silo capacity stood at 1.2 MMT, with construction underway to increase it to 4 MMT.
+
+APSEZ maintained excellent financial discipline, with a net debt to TTM EBITDA ratio of 1.9x (compared to 2.3x in FY24).
+
+Credit ratings from S&P Global Ratings, Moody's Ratings, Fitch Ratings, ICRA, and India Ratings & Research were revised or reaffirmed.
+
+ESG highlights included a commitment to Net Zero by 2040 and the commissioning of 225 MW of renewable capacity.
+
+APSEZ was ranked among the Top 10 global transportation and transportation infrastructure companies in the 2024 S&P Global Corporate Sustainability Assessment and received an ""A-"" (Leadership band) in both climate change and water security assessments by CDP for 2024.
+
+The company maintained its top position in the low carbon transition rating within the port sector by Sustainalytics and received a low ESG risk rating.
+
+APSEZ was included in the Nifty 100 ESG Index and ranked among the Top 12 companies in transportation infrastructure by ISS ESG.
+
+The Adani Mundra Cluster joined the World Economic Forum's 'Transitioning Industrial Clusters' initiative.
+
+APSEZ received several awards and accolades for infrastructure development, cargo handling, quality, and sustainability.
+
+News and updates for Adani Ports and Special Economic Zone Limited (APSEZ) as on May 1, 2025:
+
+It's important to note that some of these results were announced on May 1, 2025, but some of the specific operational performance figures (like May 2025 cargo volume) were released later, in June 2025."

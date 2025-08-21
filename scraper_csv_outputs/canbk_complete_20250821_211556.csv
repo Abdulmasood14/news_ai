@@ -1,0 +1,25 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+CANBK,4,1089,2025-08-21 21:15:56,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,https://canarabank.com/UploadedFiles/Pdf/Monthly%20Nomination%20Basis%20may%202025.pdf
+Link_2,"https://www.nuvamawealth.com/quotes/equity-future/canbk~2025-05-29#:~:text=Canara%20Bank%20Share%20Price,09%20May%202025"
+Link_3,"https://hdfcsky.com/news/canara-bank-reports-rs-4752-cr-net-profit-in-q1-fy26#:~:text=Bengaluru%2C%20July%2024%2C%202025:,marked%20improvement%20in%20asset%20quality."
+Link_4,"https://www.ndtv.com/india-news/these-banks-have-removed-minimum-balance-requirement-check-list-8843706#:~:text=Canara%20Bank%20waived%20the%20average,accounts%20and%20NRI%20savings%20accounts."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Merger of RRBs:The amalgamation of Karnataka Gramin Bank and Karnataka Vikas Grameena Bank was officially effective on May 1, 2025. The newly formed entity is now recognized as an associate of Canara Bank.
+
+IT Procurements/Up-gradations:During the period from 01/05/2025 to 31/05/2025, Canara Bank made several IT procurements and upgrades on a nomination basis. These included:
+
+Mandate Optimization and Enhancement of QR Standee Indent features through M/s Kyndryl Solutions Private Limited.
+
+Implementation of NCMC Wallet Auto Recharge Mandate Creation functionality in Canara ai1 Application through M/s Kyndryl Solutions Pvt. Ltd.
+
+Removal of Minimum Balance Requirement:Canara Bank waived the average monthly balance requirement for all types of savings bank accounts, effective May 2025.
+
+Financial Results for FY25:The Board of Directors of Canara Bank was scheduled to meet on May 8, 2025, to consider and approve the audited standalone and consolidated financial results for the fourth quarter and financial year ended March 31, 2025.
+
+CANBK (Canara Bank) Updates on May 1, 2025:"

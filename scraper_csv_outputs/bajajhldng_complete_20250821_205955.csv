@@ -1,0 +1,41 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+BAJAJHLDNG,4,1743,2025-08-21 20:59:55,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,https://www.bhil.in/pdf/Notice%20of%20Board%20Meeting%20%E2%80%93%2030%20May%202025.pdf
+Link_2,"https://www.bajajfinserv.in/bajaj-finance-q4-results-dividend-stock-split-2025#:~:text=Bajaj%20Finance's%20Q4%20FY2025%20results,expansion%20of%20the%20loan%20book."
+Link_3,https://www.angelone.in/news/bajaj-holdings-and-investment-final-dividend-rs-28-record-date-tomorrow-june-27
+Link_4,"https://money.rediff.com/news/market/bajaj-auto-may-sales-up-8-to-384-621-units/27900120250602#:~:text=Bajaj%20Auto%20reports%208%25%20growth,of%20rediff.com%20India%20Limited."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"The Board of Directors had scheduled a meeting for May 30, 2025.
+
+The key agenda included considering and approving the audited standalone and consolidated financial results for the quarter and financial year ending March 31, 2025.
+
+Additionally, the board was to consider recommending a dividend on equity shares for the financial year ending March 31, 2025.
+
+In compliance with regulations, the trading window for dealing in company securities was closed for designated persons and their relatives from April 1, 2025, to June 1, 2025.
+
+Bajaj Auto reported an 8% year-on-year growth in total sales for May 2025, reaching 384,621 units.
+
+Although released after May 1st, highlights from the financial results include a consolidated Profit After Tax (PAT) of ₹1,725 crore in Q4 FY25 and ₹6,521 crore for the full year FY25.
+
+The standalone PAT was ₹91 crore for Q4 FY25 and ₹1,292 crore for the full year.
+
+The company also declared a final dividend of ₹28 per equity share for FY25, with a record date of June 27, 2025.
+
+As of May 2, 2025, Bajaj Finance's share price was ₹8,862.50. Bajaj Finance announced a 1:2 stock split and a 4:1 bonus issue, with a record date of May 9, 2025.
+
+Based on the information available up to May 1, 2025, here's a summary of the latest news and updates regarding Bajaj Holdings & Investment Limited (BAJAJHLDNG):
+
+Board Meeting and Financial Results (May 30, 2025)
+
+Trading Window Closure
+
+Q4 and Full Year FY25 Results
+
+Other Potentially Relevant Information
+
+Important Note: Some of the information, particularly regarding the full financial results and dividend declaration, was released after May 1, 2025, but is included here for context as it pertains to the period leading up to and including that date."

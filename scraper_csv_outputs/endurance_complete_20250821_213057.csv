@@ -1,0 +1,28 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+ENDURANCE,7,1233,2025-08-21 21:30:57,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.endurancegroup.com/investor-relation/transcript-of-conference-calls-with-investors-analysts/#:~:text=20%2D05%2D2025%20Annual%20Secretarial,Stoferle%20Automotive%20and%20Stoferle%20GmbH"
+Link_2,https://www.endurancegroup.com/wp-content/uploads/2025/02/2025-02-18-Transcript-of-Earnings-Conference-Call-13th-Feb-2025.pdf
+Link_3,"https://groww.in/stocks/endurance-technologies-ltd#:~:text=Financials,passenger%20vehicle%20engine%20mounting%20bracket."
+Link_4,"https://trendlyne.com/latest-news/4797/ENDURANCE/endurance-technologies-ltd/?page=6&qstime=1753760707#:~:text=Endurance%20Technologies%20Ltd%20%2D%20540153%20%2D%20Updates%20On%20The%20Voluntary%20Separation%20Scheme&text=In%20continuation%20to%20our%20letter,2025%20to%2010th%20March%2C%202025.&text=Endurance%20Technologies%20Ltd.,-26%20Feb%202025"
+Link_5,https://scanx.trade/stock-market-news/corporate-actions/endurance-technologies-gears-up-for-major-expansion-in-abs-and-brake-systems/17158824
+Link_6,"https://www.capitalmarket.com/markets/news/hot-pursuit/Endurance-Tech-to-undertake-capex-of-Rs-135-6-crore-for-ABS-and-brake-systems/1631822#:~:text=%2C%2009:54)-,Endurance%20Tech%20to%20undertake%20capex%20of%20Rs%20135.6%20crore%20for,532%2C260%20and%20619%2C500%20units%20respectively."
+Link_7,"https://finance.yahoo.com/quote/ENDURANCE.BO/#:~:text=Endurance%20Technologies%20Limited%20Overview%20Auto%20Parts%20/,original%20equipment%20manufacturers%20in%20India%20and%20internationally."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Acquisition of Maxwell Energy Systems Private Limited:On May 8, 2025, Endurance Technologies announced the acquisition of a 100% stake in Maxwell Energy Systems Private Limited.
+
+Voluntary Separation Scheme (VSS):The company accepted the separation of 57 permanent workmen at its Waluj plant under a VSS, entailing a payout of approximately Rs. 106.35 million.
+
+Capacity Expansion and New Orders:Endurance Technologies is undertaking capital expenditure to expand capacity for its ABS and brake systems, and has won new orders for suspensions and braking systems in FY25, particularly from two-wheeler OEMs and e-scooter manufacturers.
+
+Merger of Italian Subsidiaries:The company planned to merge its three Italian subsidiaries (Endurance Engineering S.r.l, Endurance S.p.A, and Endurance Castings S.p.A) to consolidate operations and improve efficiency,according to scanx.trade.
+
+The Endurance company you are referring to is likely Endurance Technologies Limited , an Indian multinational automotive component manufacturer.
+
+As of May 1, 2025, here's an update on Endurance Technologies:
+
+This information reflects the latest news and updates available around May 1, 2025, specifically pertaining to Endurance Technologies Limited."

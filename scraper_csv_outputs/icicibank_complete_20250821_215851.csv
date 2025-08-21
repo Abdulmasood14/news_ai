@@ -1,0 +1,45 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+ICICIBANK,14,2918,2025-08-21 21:58:51,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.icicibank.com/about-us/article/performance-review-quarter-ended-march-31-2025#:~:text=April%2019%2C%202025,billion)%20at%20March%2031%2C%202025"
+Link_2,"https://www.icicibank.com/notice-board#:~:text=Important%20Notice:,Click%20here%20to%20know%20more."
+Link_3,"https://www.icicibank.com/notice-board#:~:text=Important%20Notice:,Click%20here%20for%20more%20details."
+Link_4,"https://www.icicibank.com/about-us/article/performance-review-quarter-ended-march-31-2025#:~:text=Net%20NPA%20ratio%20declined%20to,consolidated%20financial%20statements%20for%20FY2025."
+Link_5,"https://www.facebook.com/icicibank/posts/inthenews-icici-bank-announced-its-financial-performance-for-q4-fy25-todayhere-a/1094722369349939/#:~:text=%23InTheNews:%20ICICI%20Bank%20announced%20its,performance%20for%20Q4%20FY25%20today."
+Link_6,"https://www.cnbctv18.com/market/icici-bank-q4-results-live-updates-earning-revenue-growth-profits-nii-nim-asset-quality-slippages-liveblog-19590935.htm#:~:text=1%20Min%20Read-,ICICI%20Bank%20Q4%20Results%20Highlights:%20Private%20lender%20ICICI%20Bank%20reported,compared%20to%20the%20previous%20year."
+Link_7,"https://www.torusdigital.com/toruscope/quarterly-results/icici-bank-q4-results-fy-2025/#:~:text=Results%204%20mins-,ICICI%20Bank%20Q4%20Results%20Highlights:%20Net%20Profit%20Rises%2018%25%20YoY,of%20%E2%82%B911%20Per%20Share&text=ICICI%20Bank%2C%20the%20second%2Dlargest,and%204.25%25%20in%20Q3%20FY25."
+Link_8,"https://m.economictimes.com/wealth/save/atm-cash-withdrawal-charges-hiked-from-may-1-2025-check-latest-atm-charges-of-sbi-hdfc-bank-icici-bank-pnb-yes-bank/icici-bank-atm-charges-from-may-1-2025/slideshow/120841251.cms#:~:text=Currently%2C%20customers%20are%20allowed%20five,of%20Use%20&%20Grievance%20Redressal%20Policy"
+Link_9,"https://www.icicibank.com/interest-rates#:~:text=RBI%20Policy%20Repo%20Rate%20and,monthly%20effective%20June%206%2C%202025."
+Link_10,"https://www.icicibank.com/personal-banking/loans/home-loan/interest-rates#:~:text=Loan%20against%20Property%20(LAP)/NRP/LRD%20Interest%20Rates%20*,above%20are%20valid%20till%2031st%20August%2C%202025."
+Link_11,"https://www.icicibank.com/personal-banking/loans/personal-loan/personal-loan-interest-rates#:~:text=Interest%20rates%20on%20a%20Personal,at%2010.60%25*%20per%20annum."
+Link_12,"https://www.icicibank.com/personal-banking/paylater#:~:text=*Important%20Notice,method%20to%20avoid%20service%20disruptions.&text=ICICI%20Bank%20continues%20to%20offer,icicibank.com%20for%20more%20information."
+Link_13,https://www.sharekhan.com/MediaGalary/StockIdea/ICICIBank-Jan25_2025.pdf
+Link_14,"https://www.dnaindia.com/personal-finance/report-new-atm-transaction-rules-from-may-1-sbi-bob-hdfc-icici-bank-notify-new-charges-check-here-3148576#:~:text=How%20much%20will%20the%20customers,charge%20started%20applying%20from%202022."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Financial Results (Q4 FY25):On April 19, 2025, ICICI Bank announced its financial performance for the quarter ended March 31, 2025 (Q4 FY25), reporting an 18% year-on-year increase in standalone profit after tax to ₹12,630 crore. Consolidated profit after tax for the same period increased by 15.7% year-on-year to ₹13,502 crore. The bank also declared a dividend of ₹11 per share for FY25, subject to necessary approvals.
+
+ATM Transaction Charges:From May 1, 2025, customers exceeding their monthly free ATM transaction limits at other bank ATMs will be charged ₹23 per transaction, up from the previous ₹21,according to DNA India. ICICI Bank currently allows five free ATM transactions per month and charges ₹21 for financial and ₹8.50 plus GST for non-financial transactions beyond the limit.
+
+ICICI Securities Delisting:ICICI Securities was delisted from stock exchanges on March 24, 2025, becoming a wholly-owned subsidiary of ICICI Bank.
+
+Analyst Ratings:On January 25, 2025, Sharekhan maintained a positive view on ICICI Bank, citing strong fundamentals and growth prospects.
+
+Discontinuation of PayLater:ICICI Bank is discontinuing its PayLater facility effective May 8, 2025, at 11:59 PM IST due to internal policy revisions.
+
+The ICICI Bank External Benchmark Lending Rate (I-EBLR) is referenced to the RBI Policy Repo Rate (currently 5.50% effective June 6, 2025) and is 9.20% per annum, payable monthly, effective June 6, 2025.
+
+Changes to charges for various account types, including Current Accounts, NRI Savings Accounts, and Savings Accounts, are scheduled to take effect from July 1, 2025, according to the ICICI Bank Notice Board.
+
+The bank's asset quality showed improvement, with the net NPA ratio declining to 0.39% at March 31, 2025. The provisioning coverage ratio on non-performing loans was 76.2% at March 31, 2025.
+
+ICICI Bank offers personal loans with interest rates starting at 10.60% per annum.
+
+ICICI Bank's home loan interest rates are linked to the repo rate and are valid until August 31, 2025.
+
+Other updates:The ICICI Bank External Benchmark Lending Rate (I-EBLR) is referenced to the RBI Policy Repo Rate (currently 5.50% effective June 6, 2025) and is 9.20% per annum, payable monthly, effective June 6, 2025.Changes to charges for various account types, including Current Accounts, NRI Savings Accounts, and Savings Accounts, are scheduled to take effect from July 1, 2025, according to the ICICI Bank Notice Board.The bank's asset quality showed improvement, with the net NPA ratio declining to 0.39% at March 31, 2025. The provisioning coverage ratio on non-performing loans was 76.2% at March 31, 2025.ICICI Bank offers personal loans with interest rates starting at 10.60% per annum.ICICI Bank's home loan interest rates are linked to the repo rate and are valid until August 31, 2025.
+
+Here's a summary of the latest news and updates related to ICICI Bank as of May 1, 2025:"

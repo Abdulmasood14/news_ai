@@ -1,0 +1,24 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+GLAXO,5,1068,2025-08-21 21:40:12,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.haleon.com/news/press-releases/corporate/2025/2025-capital-markets-day#:~:text=We%20are%20now%20focused%20on,(14:00%20CEST)."
+Link_2,"https://www.reuters.com/business/healthcare-pharmaceuticals/consumer-healthcare-group-haleon-raises-medium-term-profit-forecast-2025-05-01/#:~:text=Register-,Haleon%20forecasts%20medium%2Dterm%20profit%20to%20grow%20by%20high%20single,McNamara%20said%20in%20a%20statement."
+Link_3,"https://www.londonstockexchange.com/news-article/HLN/transaction-in-own-shares/17017342#:~:text=in%20Own%20Shares-,London%20Stock%20Exchange,it%20applies%20in%20the%20UK"
+Link_4,https://newsfile.refinitiv.com/getnewsfile/v1/story?guid=urn:newsml:reuters.com:20250501:nRSA0632Ha&default-theme=true
+Link_5,"https://www.stocktitan.net/sec-filings/HLN/6-k-haleon-plc-american-current-report-foreign-issuer-03b2f2e0b659.html#:~:text=%EA%B0%9C%EB%B3%84%20%EA%B1%B0%EB%9E%98%EC%9D%98%20%EC%A0%84%EC%B2%B4%20%EB%82%B4%EC%97%AD,kein%20Angebot%20von%20Wertpapieren%20dar.&text=None."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Haleon Capital Markets Day:Haleon (GSK's former consumer healthcare business) hosted a Capital Markets Day for investors and analysts, providing an update on its strategy and growth outlook.
+
+Haleon Forecasts Medium-term Profit Growth:Haleon, on May 1, 2025, forecast high single-digit percentage growth in its profit from 2026, driven by stable demand and projected cost reductions within its supply chain.
+
+Haleon Stock Transaction:Haleon announced the purchase of 858,714 ordinary shares for cancellation as part of its share buyback program, with transactions occurring on May 1, 2025.
+
+Haleon - Brightseed Collaboration:Haleon and Brightseed announced a strategic collaboration focusing on using AI for small molecule discovery and innovation in human health.
+
+News and updates regarding GlaxoSmithKline (GSK) on May 1, 2025 include:
+
+Note: Other search results mention GSK in a broader context or reference other companies related to GSK. These were excluded as the request specifically asked for news on ""Glaxo"" (referring to GlaxoSmithKline) as on May 1, 2025."

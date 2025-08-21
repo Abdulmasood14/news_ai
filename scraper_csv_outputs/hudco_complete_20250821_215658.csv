@@ -1,0 +1,24 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+HUDCO,5,1213,2025-08-21 21:56:58,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.newsip.in/hudco-sets-board-meeting-for-may-7#:~:text=News%20of%20Business-,HUDCO%20Sets%20Board%20Meeting%20for%20May%207%20to%20Review%20Financial,impact%20on%20future%20market%20performance."
+Link_2,https://www.hudco.org.in/writereaddata/PublicNotice/MPQ2FY25.pdf
+Link_3,"https://www.livemint.com/topic/hudco#:~:text=HUDCO%20to%20consider%20fundraising%20on,to%20%E2%82%B91.28%20lakh%20crore."
+Link_4,"https://www.livemint.com/market/stock-market-news/hudco-to-consider-fundraising-on-may-6-check-details-11745999263518.html#:~:text=Dhanya%20Nagasundaram,firm%20in%20an%20exchange%20filing."
+Link_5,"https://www.marketsmojo.com/news/result-analysis/hudco-reports-strong-financial-results-with-37-76-growth-in-net-sales-for-mar25-2323705#:~:text=Housing%20&%20Urban%20Development%20Corporation%20(HUDCO)%20has%20reported%20its%20financial,and%20get%20FREE%20Premium%20Access."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Board Meeting Scheduled:HUDCO announced that its board of directors would convene on May 7, 2025, to review the annual audited financial results for the fiscal year ending March 2025 and consider the approval of a dividend for shareholders.
+
+Fundraising Plans:According to Mint, HUDCO's Bond Allotment Committee was set to meet on May 6, 2025, to discuss raising up to ₹65,000 crore through bond issuance.
+
+Strong Business Performance:HUDCO reported a significant increase in business activity for FY25, with loan disbursements rising 123% to ₹40,037 crore and loan sanctions surging over 55% to ₹1.28 lakh crore.
+
+Record Sales and Profit:HUDCO achieved its highest quarterly net sales at ₹2,844.99 crore and record operating profit at ₹2,873.10 crore in the quarter ending March 2025. The profit after tax for the nine-month period ending March 2025 grew by 28.75% year-on-year to ₹2,151.39 crore.
+
+Navratna Status:HUDCO was accorded the Navratna status in April 2025. This is the second-highest recognition for Public Sector Undertakings (PSUs) in India, which boosts the company's brand image and provides enhanced operational and financial autonomy.
+
+Latest news and updates regarding HUDCO as on May 1, 2025:"

@@ -1,0 +1,39 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+IRFC,8,1412,2025-08-21 22:06:39,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://irfc.co.in/#:~:text=IRFC%20looks%20to%20diversify%20Revenue,the%20'Navranta'%20Tag%20from%20Centre"
+Link_2,"https://www.news18.com/business/markets/q4-results-this-week-irfc-sbi-vedanta-dmart-among-49-firms-to-announce-earnings-ws-bdl-9314841.html#:~:text=Last%20Updated:%20April%2027%2C%202025,energy%20and%20retail%20sectors%2C%20respectively."
+Link_3,"https://scanx.trade/stock-market-news/stocks/irfc-shares-plummet-50-from-peak-despite-profit-growth-company-expands-infrastructure-financing/17210333#:~:text=01%25-,IRFC,Price%20Decline%20Mar%2017%2C%202025"
+Link_4,https://irfc.co.in/sites/default/files/inline-files/Announcement_under_Regulation_30_%28LODR%29-Press_Release_Media_Release_Q4.pdf
+Link_5,https://irfc.co.in/sites/default/files/inline-files/Disclosure_under_Regulation_51_of_SEBI%28LODR%29_Regulations_Additional_charge_of_Director%28Fin%29.pdf
+Link_6,"https://www.marketscreener.com/quote/stock/INDIAN-RAILWAY-FINANCE-CO-119082036/news/Indian-Railway-Finance-Corporation-Limited-Announces-Directorate-Changes-Effective-May-1-2025-49676065/#:~:text=Indian%20Railway%20Finance%20Corporation%20Limited%20announced%20that,on%20May%201%2C%202025%20with%20the%20superannuation"
+Link_7,"https://groww.in/blog/irfc-q4-profit-dips-eyes-growth-through-diversification#:~:text=For%20FY26%2C%20IRFC%20(%20Indian%20Railway%20Finance,of%20around%20%E2%82%B960%2C000%20crore%20for%20the%20year."
+Link_8,"https://scanx.trade/stock-market-news/orders-deals/irfc-executes-1-125-crore-refinancing-for-bhartiya-rail-bijlee-company/17306535#:~:text=27%25-,IRFC,Renewable%20Energy%20Mar%2025%2C%202025"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Effective May 1, 2025, the post of Director (Finance) at Indian Railway Finance Corporation Ltd. (IRFC) became vacant due to the superannuation of the incumbent, Ms. Shelly Verma.
+
+The Ministry of Railways has assigned the additional charge of Director (Finance) to Mr. Randhir Sahay, ED/F(S), Railway Board, effective from May 1, 2025, until further orders.
+
+IRFC plans to raise ₹60,000 Crore through various instruments in FY2025-26.
+
+IRFC recently received approval to raise $1.17 billion via deep-discount bonds.
+
+IRFC announced its Q4 FY2024-25 results on April 28, 2025.
+
+The company reported strong Q4 results and is aiming for ₹30,000 Crore disbursement for FY2025-26.
+
+IRFC is expanding its financing activities beyond the Ministry of Railways, focusing on infrastructure and logistics ecosystem with railway linkages.
+
+This includes projects like financing NTPC's BOBR rakes and term loan sanction to NTPC Renewable Energy Limited.
+
+IRFC also emerged as the lowest bidder (L1) for a ₹3,167 crore loan for PVUNL's Banhardih Coal Block.
+
+The company signed MoUs with REMCL for renewable energy projects and MMRDA for ₹50,000 crore in infrastructure development, with the aim of enhancing transport and reducing urban congestion.
+
+IRFC, along with IRCTC, received the 'Navratna' tag from the government on March 3, 2025.
+
+This status grants IRFC more freedom to fund entities within the railway ecosystem."

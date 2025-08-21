@@ -1,0 +1,39 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+AJANTPHARM,10,1597,2025-08-21 20:46:59,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.kotaksecurities.com/financial-results/ajanta-pharma-ltd-q4fy25-results/#:~:text=Home%20%3E%20Financial%20Results%20%3E%20Ajanta%20Pharma,stood%20at%2016.1%20during%20Q4FY25."
+Link_2,"https://pharma.economictimes.indiatimes.com/news/pharma-industry/indias-pharma-exports-surge-738-in-may-2025-a-boost-for-global-health/122247247#:~:text=the%20pharma%20industry-,Pharma%20Industry,cent%20of%20total%20pharma%20exports."
+Link_3,https://www.youtube.com/watch?v=i4W89gHABeY
+Link_4,https://www.expresspharma.in/indias-pharma-startups-raise-254-7-million-in-may-2025-tracxn/
+Link_5,"https://scanx.trade/stock-market-news/stocks/india-s-pharma-pli-schemes-exceed-investment-targets-despite-continued-china-dependence/17320216#:~:text=India's%20pharmaceutical%20PLI%20schemes%20have,China%20for%20crucial%20pharmaceutical%20ingredients."
+Link_6,https://www.indmoney.com/stocks/ajanta-pharma-ltd-share-price/results
+Link_7,"https://medicaldialogues.in/news/industry/pharma/ajanta-pharma-confirms-it-department-search-says-process-still-underway-153803#:~:text=Pharma%20confirms...-,Ajanta%20Pharma%20confirms%20IT%20Department%20search;%20says%20process%20still%20underway,across%20India%2C%20Asia%20&%20Africa."
+Link_8,https://www.business-standard.com/markets/ajanta-pharma-ltd-share-price-13504.html
+Link_9,"https://www.werkehealth.com/pharma/indias-drug-exports-soar-to-4-96-billion-in-early-fy-2025-26/#:~:text=1.%20Export%20Figure%20of%20May:%20In%20the,%E2%80%94%20a%20positive%20signal%20for%20the%20industry."
+Link_10,https://www.google.com/intl/en_us/googlefinance/disclaimer
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Revenue:INR 1,328.98 crore, a 13.5% year-over-year increase and an 11.82% quarterly increase.
+
+Net Profit:INR 255.34 crore, reflecting a 3.9% year-over-year growth and a 13.35% quarterly increase.
+
+Net Profit Margin:19.21%, a decrease of 8.43% year-over-year but a 1.37% increase compared to the previous quarter.
+
+EBITDA:INR 377.68 crore.
+
+India's Pharmaceutical Exports (May 2025):The sector saw a 7.38% surge, driven by strong global demand. Key export destinations included the USA, UK, Brazil, South Africa, and France.
+
+Pharmaceutical PLI Schemes:Investments exceeded targets, but reliance on Chinese APIs increased.
+
+Funding for Indian Pharma Startups (May 2025):Startups raised USD 254.7 million, signaling strong investor confidence.
+
+Domestic Pharma Market (May 2025):The Indian Pharma Market (IPM) grew by 7.2%, with some companies like Sun Pharma outperforming, showing double-digit growth.
+
+Ajanta Pharma Limited's stock performance and news from August 21, 2025 (as of approximately 04:00 PM IST) indicates a downward trend. The closing price was INR 2,650.2, a decrease of 1.25% from the previous day's close. Intraday trading saw fluctuations between INR 2,646.5 and INR 2,692.0. This decline occurred amid ongoing Income Tax Department searches at some of the company's offices and manufacturing units, which began on August 19, 2025. The company has stated it is cooperating fully with authorities and that business operations remain unaffected.
+
+First Quarter Fiscal Year 2025-26 Financial Performance (as announced on August 14, 2025)
+
+Other Key Developments Around May 1, 2025"

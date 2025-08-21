@@ -1,0 +1,26 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+INDUSTOWER,3,1523,2025-08-21 22:08:33,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://scanx.trade/stock-news/bharti-infratel-ltd#:~:text=Indus%20Towers%20Limited's%20Board%20of,2025%2C%20to%20prevent%20insider%20trading."
+Link_2,"https://www.etnownews.com/markets/indus-towers-q4-results-2025-date-gift-for-shareholders-in-quarterly-earnings-this-week-check-board-meeting-earnings-call-schedule-article-151510977#:~:text=Earnings%20Call%20is%20scheduled%20to,2025%2C%E2%80%9D%20the%20filing%20reads."
+Link_3,"https://www.moneycontrol.com/news/tags/indus-towers.html#:~:text=Dividend%20on%20hold%20as%20Indus,8%2C057.60%20crore%2C%20up%209.14%25%20Y%2Do%2DY"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Strong FY2025 Financial Performance:Indus Towers reported significant growth in the fiscal year ended March 31, 2025, with consolidated revenue up 5.3% to ₹30,123.00 crore, net profit increasing 64.5% to ₹9,932.00 crore, and EBITDA rising 41.9% to ₹20,845.00 crore.
+
+Acquisition of Passive Infrastructure Assets:The company expanded its portfolio by acquiring passive infrastructure assets from Bharti Airtel, which includes additional macro towers and lean co-locations.
+
+Shareholder Value Enhancement Plans Delayed:Indus Towers postponed plans for enhancing shareholder value, opting to form a committee to evaluate proposals. This decision, despite improved cash flow from Vodafone Idea repayments, coincided with a decline in the company's stock price.
+
+Mixed Q4 FY25 Results:Q4 FY25 saw revenue growth of 7.4% year-over-year to ₹7,727.00 crore, but net profit decreased by 4% to ₹1,779.00 crore.
+
+Earnings Call Scheduled:An earnings/conference call was scheduled for May 1, 2025, to discuss the company's financial performance for Q4 FY25 and the full fiscal year.
+
+Analyst Rating:On May 1, 2025, Motilal Oswal maintained a ""Neutral"" rating for Indus Towers with a target price of Rs 395.
+
+Here's a summary of the news and updates regarding Indus Towers on May 1, 2025:
+
+While Indus Towers reported strong full-year results and acquired additional assets, the delay in shareholder value enhancement plans and the dip in Q4 profit contributed to some investor concerns and share price fluctuations around May 1st, 2025."

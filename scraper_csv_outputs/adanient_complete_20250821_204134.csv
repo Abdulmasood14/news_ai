@@ -1,0 +1,18 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+ADANIENT,3,1295,2025-08-21 20:41:34,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,https://groww.in/blog/adani-q4fy25-net-profit-rises-752-percent
+Link_2,"https://www.businesstoday.in/markets/stocks/story/adani-enterprises-q4-results-net-profit-zooms-75x-to-rs-3845-crore-on-exceptional-gain-474363-2025-05-01#:~:text=Updated%20May%201%2C%202025%203,asset%20utilization%20of%20its%20businesses."
+Link_3,"https://www.angelone.in/news/market-updates/adani-enterprises-q1fy26-profit-income-incubating-businesses-ebitda-up-5-percent#:~:text=Despite%20a%20sharp%20YoY%20decline%20in%20profit,future%2Doriented%20platforms%20supporting%20India's%20infrastructure%20expansion%20plans."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"On May 1, 2025, Adani Enterprises Ltd (ADANIENT) reported a significant 752% year-on-year (YoY) surge in profit , reaching ₹3,845 crore, compared to ₹451 crore in the same period last year. This substantial increase was primarily attributed to an exceptional gain of ₹3,286 crore from the sale of a 13.5% stake in Adani Wilmar Ltd (AWL) .
+
+However, the company's consolidated revenue from operations saw an 8% YoY decline , falling to ₹26,966 crore. This was primarily due to lower volumes in the Integrated Resources Management (IRM) business, which experienced a 38% drop in volume to 15.3 MMT.
+
+The company also announced an interim dividend of ₹1.30 per share for FY25 , with the record date set as June 13, 2025, and payment expected on or after June 30, 2025.
+
+Adani Enterprises reported strong operational growth in key areas despite the revenue decline. The ANIL Ecosystem, Airports Business, Construction activity in the Roads segment, and Mining Services all showed significant increases. For the full fiscal year FY25, Adani Enterprises reported consolidated revenue of ₹1,00,365 crore (a 2% YoY increase) and Profit After Tax of ₹7,112 crore (a 1.2 times YoY increase). The company's EBITDA grew by 26% to ₹16,722 crore, driven by the strong performance of its incubating businesses."

@@ -1,0 +1,33 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+GODREJCP,8,1973,2025-08-21 21:42:48,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.icra.in/Rating/GetRationalReportFilePdf?id=136257#:~:text=Healthy%20financial%20profile%2C%20coverage%20metrics,robust%2C%20going%20forward%20as%20well."
+Link_2,"https://www.moneycontrol.com/news/business/stocks/godrej-consumer-products-shares-rise-2-08-among-top-gainers-on-nifty-next-50-alpha-article-13470756.html#:~:text=The%20revenue%20for%20the%20quarter,the%20quarter%20ending%20March%202025."
+Link_3,"https://www.tijorifinance.com/company/godrej-consumer-products-limited/#:~:text=Godrej%20Consumer%20Products%20aims%20to,and%20reshape%20its%20deodorant%20category.&text=Godrej%20Consumer%20Products%20reports%20strong,Please%20double%2Dcheck."
+Link_4,https://www.nseindia.com/get-quotes/equity?symbol=GODREJCP
+Link_5,"https://www.business-standard.com/topic/godrej-consumer#:~:text=FMCG%20major%20Godrej%20Consumer%20Products,market%20conditions%20remaining%20the%20same."
+Link_6,"https://www.business-standard.com/topic/godrej-consumer-products-limited#:~:text=GCPL%20reports%20%E2%82%B9412%20crore,market%20conditions%20remaining%20the%20same."
+Link_7,"https://www.moneycontrol.com/news/business/stocks/godrej-consumer-products-sees-high-volume-amid-volume-surge-alpha-article-13476571.html#:~:text=Interim%20Dividend%20of%20Rs%205.00,date%20of%20February%203%2C%202025."
+Link_8,"https://www.moneycontrol.com/news/business/stocks/godrej-consumer-products-sees-high-volume-amid-volume-surge-alpha-article-13476571.html/amp#:~:text=The%20revenue%20for%20the%20year,Total%20Income"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Q4 FY25 Results (March 2025):Godrej Consumer Products Ltd (GCPL) reported a consolidated net profit of ₹411.9 crore, a significant turnaround from the loss of ₹1,893.21 crore in the same period the previous year. This profit was driven by a 6% underlying volume growth, contributing to a 7% year-on-year organic sales growth in INR terms. The total revenue from operations for the quarter stood at ₹3,597.95 crore, compared to ₹3,385.61 crore in the corresponding period of the previous fiscal year.
+
+FY25 Performance:For the fiscal year ending March 2025, GCPL's revenue increased to ₹14,364.29 crore from ₹14,096.11 crore the previous year, with a net profit of ₹1,852.30 crore.
+
+Debt:The company's total debt stood at ₹4,004 crore as of March 31, 2025, which included lease liabilities of ₹121.9 crore. The debt increase was primarily due to the debt-funded acquisition of Raymond's FMCG business in April 2023 for ₹2,725 crore and higher dividend payouts in FY25.
+
+Interim Dividends in FY25:GCPL announced interim dividends of ₹5.00 per share on January 8, 2025 (effective February 3, 2025), April 21, 2025 (effective May 13, 2025), and July 31, 2025 (effective August 13, 2025).
+
+Raymond's FMCG Business:In April 2023, GCPL acquired Raymond's FMCG business for ₹2,725 crore, funded by short-term debt.
+
+FY26 Expectations:GCPL expects double-digit consolidated revenue and EBITDA growth in FY26.
+
+Growth Drivers:The company is focusing on scaling its liquid detergent brand Godrej Fab to achieve ₹500 crore in revenue by FY26, strengthening its rural presence, premiumizing its household insecticide portfolio, and developing its new pet care venture. GCPL also plans to introduce Indian innovations to global markets and revamp its deodorant category.
+
+Board Meeting (May 6, 2025):A board meeting was held on May 6, 2025, to consider and approve the financial results for the period ended March 31, 2025, and to discuss dividend-related matters.
+
+Financial Performance"

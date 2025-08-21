@@ -1,0 +1,12 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+HAL,1,269,2025-08-21 21:52:29,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.marketscreener.com/news/hindustan-aeronautics-notice-of-62nd-agm-ce7c51d3da8efe20#:~:text=as%20Ordinary%20Resolution:-,%22RESOLVED%20THAT%20pursuant%20to%20the%20provisions%20of%20Section%20152%2C%20160,by%20the%20Government%20of%20India.%22"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"On May 1, 2025, Hindustan Aeronautics Limited (HAL) announced the appointment of Shri M G Balasubrahmanya as Director (Human Resources).
+
+This appointment was made by the Board of Directors, with effect from May 6, 2025, following a letter from the Ministry of Defence."

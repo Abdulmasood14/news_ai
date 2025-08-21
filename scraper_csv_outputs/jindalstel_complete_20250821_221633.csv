@@ -1,0 +1,36 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+JINDALSTEL,7,1794,2025-08-21 22:16:33,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://economictimes.indiatimes.com/jindal-steel-power-ltd/stocksupdate/companyid-4355.cms#:~:text=Indian%20steelmakers%20like%20Tata%20Steel,%2C2025%2C%2006:45PM%20IST"
+Link_2,"https://m.economictimes.com/markets/stocks/news/stock-radar-jspl-stock-breaks-above-16-week-consolidation-in-may-2025-check-target-stop-loss-for-long-positions/articleshow/121185173.cms#:~:text=News-,Stock%20Radar:%20JSPL%20stock%20breaks%20above%2016%2Dweek%20consolidation%20in,stop%20loss%20for%20long%20positions&text=Jindal%20Steel%20&%20Power%20Ltd%20(JSPL,a%20resumption%20of%20its%20uptrend."
+Link_3,"https://trendlyne.com/latest-news/677/JINDALSTEL/jindal-steel-power-ltd/#:~:text=Revenue%20declined%207%25%20QoQ%20to,Q1FY26%20vs%20Rs23bn%20in..."
+Link_4,"https://economictimes.indiatimes.com/jindal-steel-power-ltd/stocksupdate/companyid-4355.cms#:~:text=Indian%20steelmakers%20like%20Tata%20Steel,%2C2025%2C%2007:31PM%20IST"
+Link_5,"https://economictimes.indiatimes.com/jindal-steel-power-ltd/stocksupdate/companyid-4355.cms#:~:text=05:28PM%20IST-,Submission%20of%20the%20Integrated%20Annual%20Report%20for%20the%20Financial%20Year,%2C2025%2C%2010:37PM%20IST"
+Link_6,"https://m.economictimes.com/markets/stocks/news/stock-radar-jspl-stock-breaks-above-16-week-consolidation-in-may-2025-check-target-stop-loss-for-long-positions/articleshow/121185173.cms#:~:text=News-,Stock%20Radar:%20JSPL%20stock%20breaks%20above%2016%2Dweek%20consolidation%20in,NEXT%20READ"
+Link_7,"https://www.kotaksecurities.com/financial-results/jindal-steel-power-ltd-q4fy25-results/#:~:text=Operating%20Metrics,tax%20liabilities%20across%20different%20periods."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Kotak Securities reported on May 1, 2025that Jindal Steel & Power Ltd. announced its Q4 FY25 results.
+
+Total Income:₹13,521.31 crores (Q4 FY25), a slight decrease of 1.4% compared to Q4 FY24 (₹13,707.69 crores) but a 14.8% increase from the previous quarter (Q3 FY25).
+
+Profit Before Tax (PBT):₹1,163.32 crores (Q4 FY25), a 44.4% YoY increase compared to Q4 FY24.
+
+Profit After Tax (PAT):₹933.46 crores (Q4 FY25), a substantial 100.5% YoY increase compared to Q4 FY24.
+
+Earnings Per Share (EPS):₹9.30 (Q4 FY25), a significant 102.2% YoY increase.
+
+The Economic Times reported on May 16, 2025that JSPL's stock broke out of a 16-week consolidation pattern in May 2025, indicating a potential uptrend.
+
+Experts suggested a buywith a target price of ₹1,160 within 2-4 months.
+
+While not specifically on May 1st, the Directorate General of Trade Remedies (DGTR) recommended a safeguard duty on steel imports.
+
+This recommendation aimed to protect domestic steel producerslike Jindal Steel & Power from a surge in imports, particularly from countries like China, Korea, and Japan.
+
+Key Highlights:Total Income:₹13,521.31 crores (Q4 FY25), a slight decrease of 1.4% compared to Q4 FY24 (₹13,707.69 crores) but a 14.8% increase from the previous quarter (Q3 FY25).Profit Before Tax (PBT):₹1,163.32 crores (Q4 FY25), a 44.4% YoY increase compared to Q4 FY24.Profit After Tax (PAT):₹933.46 crores (Q4 FY25), a substantial 100.5% YoY increase compared to Q4 FY24.Earnings Per Share (EPS):₹9.30 (Q4 FY25), a significant 102.2% YoY increase.
+
+Note: Some reports from August 2025 provide context regarding the impact of the safeguard duty recommendation and the company's Q1 FY26 results (announced August 14, 2025), which are outside the requested timeframe but may be of interest for a broader perspective."

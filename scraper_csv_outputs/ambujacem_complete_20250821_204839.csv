@@ -1,0 +1,15 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+AMBUJACEM,4,611,2025-08-21 20:48:39,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.moneycontrol.com/news/business/stocks/buy-ambuja-cements-target-of-rs-620-motilal-oswal-13009964.html#:~:text=HomeNewsBusinessStocksBuy,%2C%202025%20/%2014:43%20IST"
+Link_2,"https://economictimes.indiatimes.com/ambuja-cements-ltd/stocksupdate/companyid-13643.cms#:~:text=Copy%20of%20newspapers%20publication%20for,revenue%20exceeding%20%E2%82%B910%2C000%20crore."
+Link_3,"https://economictimes.indiatimes.com/ambuja-cements-ltd/stocksupdate/companyid-13643.cms#:~:text=Though%20PAT%20fell%20sequentially%2C%20Motilal,revenue%20exceeding%20%E2%82%B910%2C000%20crore."
+Link_4,"https://www.financialexpress.com/business/industry-ambuja-cements-q1fy26-profit-jumps-24-revenue-rises-23-5-key-highlights-3932456/#:~:text=Adani%20Group%20company%2C%20Ambuja%20Cements%20posted%20a,from%20Rs%20783.18%20crore%20in%20Q1%20FY25."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"On May 1, 2025, Ambuja Cements saw positive recommendations from analysts. Motilal Oswal recommended a buy rating for the stock with a target price of Rs 620 .
+
+The company's performance in the quarter ending June 30, 2025 (Q1 FY26), showed a strong YoY growth in net profit and revenue. This performance and the subsequent increase in target price by Motilal Oswal were reported on August 1, 2025. It's important to note that while this news was reported on August 1, 2025, it pertains to the financial results for the quarter ending June 30, 2025, and might not reflect the market situation as of May 1, 2025."

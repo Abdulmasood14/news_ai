@@ -1,0 +1,21 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+POWERINDIA,2,882,2025-08-21 21:55:31,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.tickertape.in/stocks/abb-power-products-and-systems-india-ABBW#:~:text=POWERINDIA%20Stock%20Summary%20%C2%B7%20May%202025,proactive%20approach%20to%20market%20dynamics."
+Link_2,"https://www.tickertape.in/stocks/abb-power-products-and-systems-india-ABBW#:~:text=POWERINDIA%20Stock%20Summary%20%C2%B7%20May%202025%20The,in%20orders%2C%20particularly%20in%20energy%20transition%20projects."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"The company had a record order backlog of Rs. 19,245 crores.
+
+Orders saw a year-on-year increase of 56%, particularly in energy transition projects.
+
+Power India (Hitachi Energy India Ltd.) witnessed a period of robust growth and strategic developments as of May 1, 2025 .
+
+Order Book and Growth:
+
+Operational Efficiency, Challenges, and Strategic Outlook:
+
+As of May 1, 2025, Power India prioritized operational efficiency and cost management, leading to a reduction in safety incidents and energy use. However, high internal costs posed a challenge to maintaining strong operating margins. Strategic efforts focused on investments in renewables and technology localization to boost competitiveness, alongside expanding services and export chances. Despite global uncertainties, the company had a positive outlook, supported by government policies and its adaptive market approach."

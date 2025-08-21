@@ -1,0 +1,23 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+AUROPHARMA,4,1538,2025-08-21 20:54:24,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://m.economictimes.com/markets/stocks/news/aurobindo-pharma-shares-in-focus-after-european-commission-nod-for-cancer-drug-dazublys/articleshow/122217922.cms#:~:text=%22This%20marks%20CuraTeQ's%20third%20EMA,10%20biosimilar%20launches%20by%202030."
+Link_2,"https://www.digitalhealthnews.com/aurobindo-pharma-to-acquire-lannett-for-inr-2-185-cr-to-expand-us-capacity#:~:text=Aurobindo%20Pharma%20to%20Acquire%20Lannett%20for%20INR%202%2C185%20Cr%20to%20Expand%20US%20Capacity,-Pharmaceuticals%20and%20Biotech&text=The%20acquisition%20aims%20to%20expand,per%20share%20for%20Aurobindo%20Global."
+Link_3,https://www.aurobindo.com/api/uploads/corporateannouncements/LtrToSEsANDAapproval12042025.pdf
+Link_4,"https://www.angelone.in/news/share-market/aurobindo-pharma-signs-cost-sharing-deal-for-respiratory-product-development#:~:text=Aurobindo%20Pharma%20announced%20a%20significant,enabling%20a%20broader%20market%20reach."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Acquisition of Lannett Company: OnMay 1, 2025, reports highlighted that Aurobindo Pharma was in the process of acquiring Lannett Company for INR 2,185 Cr (approximately $250 million USD). This acquisition aimed to expand Aurobindo's US manufacturing base, boost its CDMO business, and strengthen its ADHD generics portfolio.
+
+USFDA Approvals and Product Launches: Aurobindo Pharma continued its track record of securing approvals for its products from the US Food and Drug Administration (USFDA).
+
+Focus on Biosimilars: Aurobindo Pharma, through its subsidiary CuraTeQ Biologics, was actively developing and seeking approvals for biosimilar products, particularly in the oncology and immunology therapeutic areas. For instance, CuraTeQ secured European Commission approval for its trastuzumab biosimilar, Dazublys, in July 2025.
+
+Partnerships and Collaborations: Aurobindo Pharma also explored strategic partnerships and collaborations to accelerate its product development and expand its market reach.
+
+On May 1, 2025 , Aurobindo Pharma was in the news primarily for its ongoing efforts to expand its presence in the United States and its focus on developing and launching new products.
+
+In summary, Aurobindo Pharma's focus on May 1, 2025 revolved around strategic acquisitions like Lannett Company to enhance its US presence, securing USFDA approvals for new products (including generics), advancing biosimilar development and approvals (particularly in Europe), and exploring partnerships for product development and market expansion."

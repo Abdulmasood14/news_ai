@@ -1,0 +1,30 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+ABCAPITAL,9,1049,2025-08-21 20:45:27,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,https://www.adityabirlacapital.com/investor-relations/announcements-and-updates
+Link_2,"https://bahubali.in/company-profile/aditya-birla-capital#:~:text=Aditya%20Birla%20Capital%20is%20one,effect%20from%2001%20April%202025."
+Link_3,"https://www.adityabirlacapital.com/-/media/ABCL/pdf/Announcement-and-updates/2025/220525_SE-Intimation_Postal-Ballot.ashx#:~:text=2%20Appointment%20of%20Mr.,on%20Friday%2C%2020%20June%202025."
+Link_4,https://nsearchives.nseindia.com/corporate/ABCAPITAL_22072025153749_BRSR_2024_25_Signed.pdf
+Link_5,"https://www.adityabirlacapital.com/-/media/ABCL/pdf/Announcement-and-updates/2025/010225_BM_Outcome_31032025signed.ashx#:~:text=is%20enclosed%20herewith.-,Appointment%20of%20Mr.,annexed%20herewith%20as%20Annexure%2DV."
+Link_6,"https://scanx.trade/stock-news/aditya-birla-capital-ltd#:~:text=Aditya%20Birla%20Capital%20Limited%20(ABCL)%20has%20completed%20a%20significant%20corporate,assets%20under%20management%20over%20Rs."
+Link_7,https://www.adityabirla.com/media/press-releases/aditya-birla-capital-board-approves-preferential-issuance-of-rupees-1250-cr-to-its-promoter-and-promoter-group-entity/
+Link_8,"https://www.globaldata.com/company-profile/aditya-birla-capital-limited/#:~:text=Aditya%20Birla%20Capital%20Ltd%20(Aditya%20Birla%20Capital)%2C,funds%2C%20bonds%20and%20fixed%20deposit%2C%20among%20others."
+Link_9,"https://crackittoday.com/current-affairs/aditya-birla-capital-merged-with-aditya-birla-finance-ltd/#:~:text=Aditya%20Birla%20Capital%20Limited%20(ABCL,NBFC)%2C%20subject%20to%20approvals."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Amalgamation of Aditya Birla Finance Ltd.:Aditya Birla Capital completed the amalgamation of its wholly owned subsidiary, Aditya Birla Finance Ltd., with itself, effective April 1, 2025. This created a large, unified operating NBFC.
+
+Leadership Changes:Vishakha Mulye was appointed as MD & CEO, and Rakesh Singh as Executive Director & CEO (NBFC). Additionally, Deep Pal Singh was appointed as the Chief Risk Officer, effective April 1, 2025.
+
+New Products/Services:Aditya Birla Capital Digital Limited launched Digital Gold SIP in April 2025.
+
+Fundraising:The company successfully completed a fundraise of ₹3,000 Crores.
+
+Q4 and FY25 Results:Aditya Birla Capital announced its Q4FY25 and FY25 results on May 12, 2025.
+
+Postal Ballot Resolutions (June 20, 2025):Members approved the appointment of Nagesh Pinge and Sunil Srivastav as Independent Directors, effective April 1, 2025.
+
+New Borrowing Limits (May 21, 2025):The company announced an increase in borrowing limits and the issuance of Non-Convertible Debentures on a private placement basis."

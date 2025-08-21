@@ -1,0 +1,24 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+ABFRL,5,1151,2025-08-21 20:46:08,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://trendlyne.com/latest-news/all/1029/ABFRL/aditya-birla-fashion-and-retail-ltd/#:~:text=Margins%20improve;%20eyeing%20profitable%20growth&text=The%20demerger%20between%20ABFRL%20and,profitability%20across%20businesses%20in%20Q4FY25.&text=Aditya%20Birla%20Fashion%20and%20Retail%20Ltd.,-06%20Jun%202025"
+Link_2,"https://scanx.trade/stock-news/aditya-birla-fashion-ltd#:~:text=Aditya%20Birla%20Fashion%20and%20Retail%20Limited%20(ABFRL)%20has%20appointed%20Ashish,the%20fashion%20and%20lifestyle%20sector."
+Link_3,"https://www.bajajfinserv.in/investments/ablbl-share-price#:~:text=The%20MFL%20business%20of%20Aditya%20Birla%20Fashion,Scheme%20became%20effective%20on%20May%201%2C%202025."
+Link_4,https://www.adityabirla.com/media/press-releases/aditya-birla-groups-fashion-businesses-post-impressive-quarterly-performance/
+Link_5,https://trendlyne.com/research-reports/post/ABFRL/1029/aditya-birla-fashion-and-retail-ltd/
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Demerger Effective:The demerger between ABFRL and the newly formed Aditya Birla Lifestyle Brands Limited (ABLBL) became effective on May 1, 2025.
+
+Post-demerger performance:The demerged ABFRL reported high single-digit revenue growth and an improvement in profitability across its businesses for Q4FY25.
+
+Outlook:Analysts like Sharekhan have given a target price of Rs 95, citing improved margins and profitable growth opportunities for the demerged ABFRL. However, other analysts like Systematix note that the path to sustained profitability is still evolving, according to NDTV Profit.
+
+Leadership Appointments:ABFRL announced the appointment of Ashish Dikshit as Managing Director and Vishak Kumar as Deputy Managing Director and CEO of ABLBL, effective May 1, 2025, subject to regulatory approvals.
+
+Latest news and updates regarding Aditya Birla Fashion and Retail Limited (ABFRL) as on May 1, 2025:
+
+In essence, May 1, 2025, marks a significant milestone for ABFRL as the demerger took effect, creating two separate entities. The focus now shifts towards the individual growth trajectories and profitability of both the demerged ABFRL and ABLBL."

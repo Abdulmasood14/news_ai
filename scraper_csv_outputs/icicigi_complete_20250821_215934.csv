@@ -1,0 +1,19 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+ICICIGI,4,771,2025-08-21 21:59:34,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.livemint.com/market/stock-market-news/stock-market-holiday-are-bse-nse-closed-today-on-1-may-for-maharashtra-day-check-full-list-of-trading-holidays-11746062190594.html#:~:text=Photo:%20Reuters),2025%20for%20Maharashtra%20Day%202025."
+Link_2,"https://www.business-standard.com/finance/insurance/non-life-insurance-premium-growth-may-2025-yoy-6-3-per-cent-125061001134_1.html#:~:text=Home%20/%20Finance%20/%20Insurance%20/%20Non,premium%20to%20%E2%82%B92%2C944.6%20crore."
+Link_3,"https://www.editorji.com/business-news/markets/indian-stock-market-sectorwise-performance-which-sector-is-performed-well-today-may-01-2025-1746095825814#:~:text=Highlights,by%20investors%20following%20previous%20gains."
+Link_4,https://www.google.com/intl/en_us/googlefinance/disclaimer
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Market Holiday: The Indian stock market, including NSE and BSE, was closed on May 1, 2025, for Maharashtra Day.
+
+Sector Performance: On May 1, 2025, the BSE Sensex showed a marginal drop, while the auto index closed above its 50 EMA, indicating potential strength. The energy and bank indices declined but remained above their 50 EMAs, suggesting a bullish outlook.
+
+ICICI Lombard's Performance: ICICI Lombard's premium grew by 2.41% year-on-year in May 2025, reaching ₹2,155.2 crore. The company's performance was part of a broader trend where non-life insurers' premium rose by 6.3% in May, led by health insurance.
+
+ICICI Lombard General Insurance Company's stock experienced fluctuations on May 1, 2025, amidst the backdrop of Maharashtra Day, a stock market holiday."

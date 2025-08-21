@@ -1,0 +1,36 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+ESCORTS,9,1563,2025-08-21 21:31:42,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.autocarpro.in/news/after-strong-march-escorts-kubota-sees-decline-in-april-tractor-sales-126189#:~:text=April%20Tractor%20Sales-,After%20Strong%20March%2C%20Escorts%20Kubota%20Sees%20Decline%20in%20April%20Tractor,primarily%20in%20March%20this%20year."
+Link_2,"https://www.cmv360.com/tractors/news/escorts-kubota-to-increase-tractor-prices-starting-may-1-2025#:~:text=Escorts%20Kubota%20to%20hike%20tractor,tractors%20under%20the%20Kubota%20brand."
+Link_3,"https://khetigaadi.com/news/escorts-kubota-to-hike-tractor-prices/#:~:text=Escorts%20Tractor%20Price%20Hike%20Effective,mechanisation%20industry%20for%2085%20years."
+Link_4,"https://www.autocarpro.in/news/escorts-kubota-limited-to-raise-tractor-prices-from-may-1-126090#:~:text=Indian%20engineering%20conglomerate%20Escorts%20Kubota,sector%20for%20over%20eight%20decades."
+Link_5,"https://auto.economictimes.indiatimes.com/news/automotive/escorts-kubota-sales-decline-4-1-in-april-2025/120785633#:~:text=Exports%20of%20tractors%2C%20however%2C%20showed%20significant%20growth%2C,anticipates%20a%20positive%20outlook%20for%20future%20demand."
+Link_6,"https://agritimes.co.in/amp/farm-equipment/escorts-kubota-tractor-sales-up-2-2-in-june-2025/#:~:text=Looking%20ahead%2C%20Escorts%20Kubota%20(%20Escorts%20Kubota,record%20Kharif%20(%20Kharif%20crops%20)%20harvest."
+Link_7,"https://www.business-standard.com/industry/auto/auto-retail-sales-rise-3-per-cent-in-april-after-two-month-dip-125050500830_1.html#:~:text=Auto%20retail%20sales%20see%203%25%20rise%20in,April%2C%20CV%20sales%20see%20decline%2C%20says%20Fada"
+Link_8,https://www.sharekhan.com/stock/escorts-kubota-ltd
+Link_9,"https://simplehai.axisdirect.in/app/index.php/insights/reports/downloadReport/file/Q4FY25+Earnings+Preview+-+Auto+-+09042025_11-04-2025_11.pdf/type/fundamental#:~:text=We%20expect%20the%20Tractor%20segment%20to%20perform,in%20earnings%20visibility%20in%20FY26%20and%20beyond."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"EKL announced a price increase for its non-Kubota branded tractors, effective May 1, 2025.
+
+The price adjustments would vary based on the specific model, variant, and geographical region.
+
+The announcement, made through regulatory filings with the Bombay Stock Exchange (BSE) and National Stock Exchange of India (NSE) on April 25, 2025, did not specify the exact percentage or amount of the price hike or the reasons behind it. However, some sources suggest that rising input and logistics costs may be a contributing factor.
+
+This price revision was specifically applied to the company's non-Kubota branded tractors, suggesting a targeted strategic approach to product positioning.
+
+EKL also reported a modest decline in tractor sales in April 2025, with 8,729 tractors sold, a 1.2% decrease compared to April 2024 (8,839 units).
+
+Domestic tractor sales in April 2025 were 8,148 units, down 4.1% from April 2024 (8,492 units).
+
+The company attributed this decline to the preponement of festivals to March 2025, which typically drive seasonal demand.
+
+However, export tractor sales demonstrated a positive trend, increasing by 67.4% to 581 units in April 2025 compared to 347 units in April 2024.
+
+On May 1, 2025, Escorts Kubota Limited (EKL) announced a significant decision concerning its pricing strategy:
+
+Despite the April sales decline, EKL anticipates that the recovery in rural demand will continue. This optimism is supported by favorable macroeconomic conditions, successful Rabi harvests, higher crop prices, and sufficient water levels in reservoirs."

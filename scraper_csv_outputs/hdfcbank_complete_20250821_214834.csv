@@ -1,0 +1,25 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+HDFCBANK,4,2290,2025-08-21 21:48:34,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://m.economictimes.com/wealth/spend/new-rbi-atm-transaction-rules-from-may-1-2025-hdfc-bank-pnb-indusind-notify-new-charges/articleshow/120690272.cms#:~:text=Spend-,New%20RBI%20ATM%20transaction%20rules%20from%20May%201%2C%202025:%20HDFC,effect%20from%20May%201%2C%202025."
+Link_2,"https://www.hdfcbank.com/personal/save/accounts/current-accounts/activ-current-account#:~:text=ATM%20Usage&text=Note:%20With%20effect%20from%201st,23%20+%20taxes%2C%20wherever%20applicable."
+Link_3,"https://www.enkash.com/resources/blog/enfin-your-fresh-source-to-fintech-updates-june-edition/#:~:text=Starting%20May%201%2C%202025%2C%20RBI's%20new%20ATM,highlight%20rising%20costs%20for%20frequent%20ATM%20usage."
+Link_4,"https://www.paisabazaar.com/debit-card/#:~:text=Private%20and%20public%20sector%20banks%20have%20different,the%20free%20transaction%20limit%2C%20bank%20charges%20Rs."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Revised ATM transaction charges:Effective from May 1, 2025, the Reserve Bank of India (RBI) updated the framework for ATM charges, and HDFC Bank communicated these changes to its customers. The revised guidelines include updates to free transaction limits, charges for exceeding those limits, and the structure of interchange fees.
+
+Free transaction limits:Metro city users receive three free transactions per month, while those in non-metro areas get five free transactions monthly.
+
+Charges beyond the free limit:Exceeding the free limit allows banks to charge up to Rs. 23 per transaction, plus taxes.
+
+HDFC Bank charges:HDFC Bank's website indicates a charge of Rs. 23 + taxes for transactions exceeding the free limit. At HDFC Bank ATMs, only cash withdrawals are counted towards the charge after the free limit is reached. At other bank ATMs, both financial (cash withdrawals) and non-financial (balance inquiries, mini statements, PIN changes) transactions contribute to exceeding the free limit.
+
+Revised ATM transaction charges:Effective from May 1, 2025, the Reserve Bank of India (RBI) updated the framework for ATM charges, and HDFC Bank communicated these changes to its customers. The revised guidelines include updates to free transaction limits, charges for exceeding those limits, and the structure of interchange fees.Free transaction limits:Metro city users receive three free transactions per month, while those in non-metro areas get five free transactions monthly.Charges beyond the free limit:Exceeding the free limit allows banks to charge up to Rs. 23 per transaction, plus taxes.HDFC Bank charges:HDFC Bank's website indicates a charge of Rs. 23 + taxes for transactions exceeding the free limit. At HDFC Bank ATMs, only cash withdrawals are counted towards the charge after the free limit is reached. At other bank ATMs, both financial (cash withdrawals) and non-financial (balance inquiries, mini statements, PIN changes) transactions contribute to exceeding the free limit.
+
+As of May 1, 2025, a significant update for HDFC Bank customers involved new RBI guidelines regarding ATM transaction charges.
+
+This change likely encouraged HDFC Bank customers to monitor their ATM usage, especially at other banks' ATMs in metro areas, to potentially avoid extra fees."

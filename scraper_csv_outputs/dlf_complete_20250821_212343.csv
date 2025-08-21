@@ -1,0 +1,19 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+DLF,6,763,2025-08-21 21:23:43,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.bajajbroking.in/blog/dlf-limited-q4-results#:~:text=Tax,by%20several%20key%20market%20trends."
+Link_2,https://www.dlf.in/dhdl/pdf-corporate-dhdl/q4_01_may_2025.pdf
+Link_3,https://www.livemint.com/market/market-stats/dlf-q4-results-s0003034
+Link_4,"https://timesofindia.indiatimes.com/business/india-business/dlf-to-launch-housing-projects-worth-over-rs-17000-crore-in-fy25-amid-luxury-demand-surge/articleshow/121291865.cms#:~:text=DLF%20Housing%20Projects-,DLF%20to%20launch%20housing%20projects%20worth%20over%20Rs%2017%2C000%20crore,year%2C%20fetching%20Rs%2019%2C344%20crore."
+Link_5,"https://www.magicbricks.com/news/dlf-eyes-sales-of-inr-20000-to-22000-crores-during-2025-26-new-launches-in-goa-and-mumbai-in-pipeline/140151.html#:~:text=Taking%20into%20account%20the%20pre,were%20around%20INR%2014%2C778%20Crore."
+Link_6,"https://www.dlf.in/investor#:~:text=SINGH%20(RETD.)-,CHAIRMAN%20Independent%20Director,MAHENDER%20SINGH%20Member%20Independent%20Director"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"DLF Home Developers Limited Regulatory Filing:DLF Home Developers Limited submitted a revised Compliance Report on Corporate Governance to NSE in accordance with SEBI regulations. This update includes details on committee positions and reflects the appointments of Mr. Mahender Singh as an Additional Director (Independent) and Mr. Badal Bagri as an Additional Director (Non-Executive) effective March 27, 2025.
+
+Latest news and updates for DLF as of May 1, 2025:
+
+Note: While some news sources might mention events close to May 1st, 2025, the above information directly relates to the specific date requested. Other news around that period includes DLF's strong Q4 FY25 results (declared later in May) and their plans for significant project launches in FY25-26."

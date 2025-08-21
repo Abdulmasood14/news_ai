@@ -1,0 +1,49 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+INDHOTEL,8,2617,2025-08-21 22:04:05,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,https://investor.ihcltata.com/files/IHCL_Analyst_Earnings_Call_Transcript-Q4_FY_2024-25.pdf
+Link_2,https://www.capitalmarket.com/markets/news/corporate-news/indian-hotels-co-extends-its-partnership-with-cg-hospitality/1506738
+Link_3,"https://www.ihcltata.com/press-room/ihcl-increases-its-footprint-with-100-new-locations-in-fy2025-with-74-signings-and-26-hotel-openings/#:~:text=Room%201-,IHCL%20INCREASES%20ITS%20FOOTPRINT%20WITH%20100%20NEW%20LOCATIONS%20IN%20FY2025,our%20footprint%20in%20the%20region.%E2%80%9D"
+Link_4,"https://www.ihcltata.com/#:~:text=of%20Leadership&text=Taj%20is%20the%20World's%20Strongest,4th%20year%20in%20a%20row.&text=IHCL%20announced%20the%20launch%20of,with%20Claridges%20Hotels%20Pvt.%20Ltd.&text=2025-,Taj%20is%20the%20World's%20Strongest%20Hotel%20Brand%202025%20%E2%80%94%20our%204th,4th%20year%20in%20a%20row.&text=2025-,IHCL%20announced%20the%20launch%20of%20Claridges%20Collection,with%20Claridges%20Hotels%20Pvt.%20Ltd.&text=2025-,Taj%20is%20the%20World's%20Strongest%20Hotel%20Brand%202025%20%E2%80%94%20our%204th,4th%20year%20in%20a%20row."
+Link_5,"https://www.hotelierindia.com/development/ihcl-adds-100-new-locations-in-fy2025-74-signings-26-openings#:~:text=Takes%20total%20portfolio%20to%20380,Bahrain%20and%20Ras%20Al%20Khaimah."
+Link_6,"https://www.bwhotelier.com/article/ihcl-expands-with-100-new-locations-in-fy2025-553663#:~:text=%23%20IHCL,and%20Midscale%20segments%20in%20India."
+Link_7,"https://www.financialexpress.com/market/tata-power-shares-plunge-more-than-2-find-out-why-3901444/#:~:text=Also%2C%20the%20company's%20board%20recommended%20a%20final,Rs%202.25%20per%20equity%20share%20for%20FY25."
+Link_8,https://www.icicidirect.com/research/equity/trending-news/indian-hotels-launched-the-claridges-collection-on-friday-in-partnership-with-taking-claridge-hotels
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"100 New Locations in FY2025:IHCL announced a significant expansion, adding 100 new locations to its portfolio in FY2025 (ending March 31, 2025), bringing the total to 380 hotels. This includes 74 new hotel signings and 26 hotel openings.
+
+Focus on Upscale and Midscale Segments:A large portion of the new signings were for the Gateway and Ginger brands, reflecting IHCL's strategy to capitalize on the fast-growing upscale and midscale hotel segments in India.
+
+Ginger Brand Expansion:Notably, the Ginger brand surpassed the 100-hotel milestone.
+
+New Hotel Openings in FY2025:The 26 new hotel openings included Ginger hotels in various locations like Nagpur, Coimbatore, Jamshedpur, Srinagar, Udaipur, Diu, New Delhi, and Goa. IHCL also opened a Taj hotel at Cochin International Airport and expanded the Taj brand to Dehradun and Patna.
+
+Strong Revenue Growth:IHCL reported a strong revenue growth of 23% and a 140 basis points margin expansion on a consolidated basis in FY2025.
+
+EBITDA Margin:The company achieved an EBITDA margin of 35% in FY2025.
+
+Growth in New Businesses:New business ventures, including Ginger, Qmin, Ama Stays & Trails, and Tree of Life, delivered a 40% growth in FY2025, contributing significantly to the company's performance.
+
+Final Dividend Recommendation:The Board of Directors recommended a final dividend of ₹2.25 per share.
+
+Strong Industry Fundamentals:IHCL highlighted strong industry fundamentals, driven by robust domestic demand, limited supply additions, and favorable demographics. The hospitality sector was experiencing an upcycle.
+
+Positive Outlook for FY2026:IHCL expressed confidence in delivering double-digit revenue growth in FY2026, supported by strong domestic demand, potential recovery in foreign arrivals, and numerous auspicious wedding dates. The company also noted a strong start to April 2025, with consolidated revenue growing by approximately 17% compared to April 2024.
+
+Partnership with Claridges Hotels:IHCL announced the launch of Claridges Collection in partnership with Claridges Hotels Pvt. Ltd.
+
+Focus on ESG:IHCL highlighted its commitment to sustainability, with 51 hotels drawing power from clean energy sources, including 13 operating on 100% renewable energy.
+
+1. Expansion and New Hotel Openings:
+
+2. Financial Performance (FY2025):
+
+3. Dividend Announcement:
+
+5. Other Notable Developments:
+
+Note: This information is based on reports and announcements made by the company and various media outlets around May 1, 2025. It's important to refer to official company releases and financial reports for the most accurate and up-to-date information."

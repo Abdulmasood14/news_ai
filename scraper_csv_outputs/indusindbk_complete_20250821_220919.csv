@@ -1,0 +1,37 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+INDUSINDBK,12,2248,2025-08-21 22:09:19,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://m.economictimes.com/wealth/spend/new-rbi-atm-transaction-rules-from-may-1-2025-hdfc-bank-pnb-indusind-notify-new-charges/articleshow/120690272.cms#:~:text=Revised%20charges%20for%20exceeding%20free%20limits%20from%20May%201%2C%202025,)%E2%80%94excluding%20cash%20deposit%20transactions."
+Link_2,"https://m.economictimes.com/wealth/spend/new-rbi-atm-transaction-rules-from-may-1-2025-hdfc-bank-pnb-indusind-notify-new-charges/articleshow/120690272.cms#:~:text=PNB%20ATM%20charges%20from%20May,%2C%20effective%201st%20May%202025.%E2%80%9D"
+Link_3,"https://m.economictimes.com/markets/stocks/news/indusind-bank-shares-in-focus-after-legacy-issue-resolutions-new-leadership-appointment/articleshow/123421925.cms#:~:text=In%20a%20key%20development%2C%20the,IndusInd%20Bank"
+Link_4,"https://www.caalley.com/news-updates/indian-news/rbis-new-atm-transaction-rules-take-effect-from-may-1#:~:text=IndusInd%20Bank%2C%20too%2C%20has%20updated,%2C%20effective%201st%20May%202025.%22&text=The%20RBI's%20move%20aims%20to,deposits%2C%20and%20international%20ATM%20operations."
+Link_5,"https://economictimes.indiatimes.com/topic/indusind-news#:~:text=Can%20India%20thrive%20purely%20on,Apr%2C%202025%2C%2008.59%20PM%20IST"
+Link_6,"https://www.cnbctv18.com/market/indusind-bank-q1-results-live-updates-profitability-asset-quality-loss-core-income-slippages-new-md-ceo-funds-share-price-liveblog-19644418.htm#:~:text=IndusInd%20Bank%20Q1%20Results%20Live%20Updates:%20What%20Happened%20In%20May,2025%202:19%20PM%20IST"
+Link_7,"https://www.angelone.in/news/share-market/indusind-bank-share-price-dips-on-july-2-nears-ceo-appointment-amid-audit-irregularities#:~:text=The%20leadership%20crisis%20was%20triggered,previous%20close%20of%20%E2%82%B9879.10."
+Link_8,"https://scanx.trade/stock-market-news/stocks/indusind-bank-ceo-resigns-interim-leadership-committee-formed/7520178#:~:text=IndusInd%20Bank%20CEO%20Resigns%2C%20Interim%20Committee%20Formed%20Amid%20Profitability%20Challenges&text=IndusInd%20Bank%20has%20established%20an,was%20anticipated%20by%20the%20market."
+Link_9,"https://www.anytimeinvest.com/blog/when-compliance-fails-the-indusind-bank-forex-fiasco-and-its-repercussions#:~:text=In%20early%202025%2C%20the%20Reserve,the%20bank%20to%20sudden%20losses."
+Link_10,"https://m.economictimes.com/industry/banking/finance/banking/indusind-bank-constitutes-committee-of-executives-to-run-bank-following-ceos-resignation/articleshow/120756752.cms#:~:text=Kathpalia%20resigned%20from%20services%20of,amount%20disclosed%20on%20April%2015.&text=1."
+Link_11,"https://www.youtube.com/watch?v=kRLl5I4u6aM#:~:text=IndusInd%20Bank%20is%20likely%20to%20come%20under,operations%20amid%20concerns%20around%20compliance%20and%20oversight."
+Link_12,"https://www.angelone.in/news/indusind-bank-accelerates-ceo-hunt-ahead-of-rbi-s-june-30-deadline#:~:text=Conclusion%20IndusInd%20Bank%20is%20navigating%20a%20critical,actively%20progressing%20in%20appointing%20a%20new%20CEO."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"ATM Charges Revised:IndusInd Bank, along with other major banks like HDFC Bank and PNB, implemented revised ATM transaction charges as per new RBI guidelines. Beyond the free monthly limit, withdrawals at other banks' ATMs now incur a charge of ₹23 per transaction.
+
+CEO's Resignation:Sumant Kathpalia resigned as MD & CEO, taking ""moral responsibility"" for accounting discrepancies discovered in the bank's derivatives portfolio.Reports indicatethat this issue involved miscalculated derivative deals potentially leading to a misstatement of earnings.
+
+Interim Leadership:Following Kathpalia's resignation, the bank established a ""Committee of Executives"" (comprising Soumitra Sen and Anil Rao) to oversee operations for a maximum of three months or until a new CEO is appointed. This committee was approved by the RBI and is under the guidance of a Board Oversight Committee.
+
+Additional Irregularities Uncovered:IndusInd Bank's Internal Audit Department identified further irregularities amounting to ₹1,269 crore. This included incorrectly recorded interest income and unsubstantiated balances in the ""other assets"" category.
+
+RBI Approval for CEO Reappointment Limited:Prior to the full scope of the accounting issues being revealed, the RBI had approved Kathpalia's reappointment as MD & CEO for a reduced term of only one year, instead of the three years requested by the board.
+
+Microfinance Scrutiny:Concerns within the bank's microfinance (MFI) book were also under scrutiny. An Internal Audit Department report submitted on May 8, 2025, revealed that ₹674 crore had been incorrectly recorded as interest over three quarters of FY25. This amount was subsequently reversed on January 10, 2025.
+
+Leadership Transition:The bank was actively seeking a new CEO to navigate these challenges and rebuild investor and customer confidence. Rajiv Anand waslater appointed as MD & CEO on August 25, 2025.
+
+IndsInd Bank news as on May 1, 2025:
+
+In summary, May 1, 2025, marked a period of significant change and challenge for IndusInd Bank, primarily stemming from the CEO's resignation and the emergence of accounting discrepancies. The bank was navigating a leadership transition while simultaneously addressing operational and regulatory concerns."

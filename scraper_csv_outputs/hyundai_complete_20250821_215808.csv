@@ -1,0 +1,52 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+HYUNDAI,15,2036,2025-08-21 21:58:08,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.ndtv.com/auto/hyundai-records-7-63-yoy-decline-in-may25-sells-58-701-units-8566772#:~:text=Commenting%20on%20HMIL%20sales%2C%20Mr,Related%20Stories"
+Link_2,"https://www.hyundainews.com/releases?category_ids=437,1269,1272#:~:text=Hyundai%20Motor%20and%20LACMA%20Announce,between%20Hyundai%20Motor%20and%20LACMA."
+Link_3,"https://caronphone.com/news/hyundai-sales-may-2025-export-growth-amid-maintenance-shutdown/#:~:text=Hyundai%20Sales%20May%202025%20%E2%80%93%20Export%20Growth%20Amid%20Maintenance%20Shutdown,-Bijesh%20Nagesh&text=Hyundai%20Vehicle%20Sales%20in%20May,Shutdown%20at%20the%20Chennai%20facility."
+Link_4,"https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-reports-may-2025-global-sales-0000000959#:~:text=The%20company%20sold%20292%2C208%20units,to%20sustain%20sales%20growth%20momentum."
+Link_5,"https://www.hyundai.com/worldwide/en/newsroom/detail/0000000998#:~:text=Hyundai%20Motor%20showcases%20its%20hydrogen,The%20all%2Dnew%20NEXO"
+Link_6,"https://ackodrive.com/news/hyundai-india-may-2025-sales-analysis-creta-holds-strong-entry-hatchbacks-under-pressure/#:~:text=Hyundai's%20subcompact%20SUV%20Venue%20recorded,stronger%20competition%20from%20newer%20rivals."
+Link_7,"https://hdfcsky.com/news/hyundai-posts-resilient-may-sales-despite-plant-shutdown#:~:text=What's%20Driving%20Hyundai's%20May%20Sales,&%20COO%2C%20Hyundai%20Motor%20India."
+Link_8,"https://www.businesstoday.in/markets/stocks/story/hyundai-motor-india-sells-58701-units-in-may-2025-amid-maintenance-shutdown-stock-down-478604-2025-06-02#:~:text=Hyundai%20Motor%20India%20Ltd%20reported,and%20exports%20totalling%2014%2C840%20units.&text=HMIL's%20Chennai%20manufacturing%20plant%20underwent,temporary%20effect%20on%20production%20numbers.&text=Hyundai%20Motor%20India%20Ltd%20(HMIL,sales%20figures%20for%20the%20month."
+Link_9,"https://www.hyundainews.com/releases/4532#:~:text=It%20is%20anticipated%20to%20form,software%2Dfirst%20mobility%20tech%20company.&text=Hyundai%20Motor%20Group%20is%20a,a%20better%20future%20for%20all.&text=%5B1%5D%20CODA:%20A%20design,computers%20and%20domain%2Dspecific%20controllers."
+Link_10,https://www.timesdrive.in/car-news/hyundai-car-sales-continue-to-plummet-in-india-may-2025-sales-insight-article-151773249
+Link_11,"https://www.hyundai.com/worldwide/en/newsroom/detail/hyundai-motor-reports-may-2025-global-sales-0000000959#:~:text=SEOUL%2C%20June%202%2C%202025%20%E2%80%93%20Hyundai%20Motor,May%202025%2C%20a%201.7%20percent%20year%2Dover%2Dyear%20decrease."
+Link_12,"https://www.equinix.com/newsroom/press-releases/2025/05/hyundai-motor-group-delivers-enhanced-in-car-experience-through-equinix-data-centers-globally#:~:text=REDWOOD%20CITY%2C%20Calif.%2C%20and%20SEOUL%2C%20Korea%2C%20May,than%2010%20million%20connected%20car%20service%20subscribers."
+Link_13,"https://www.prnewswire.com/news-releases/hyundai-motor-group-hosts-pleos-sdv-standard-forum-to-drive-software-defined-vehicle-era-through-collaboration-302534373.html#:~:text=Share%20this%20article%20SEOUL%2C%20South%20Korea%2C%20Aug.,key%20partners%2C%20strengthening%20the%20foundation%20for%20collaboration."
+Link_14,"https://www.greencarcongress.com/2025/05/20250526-hyundai.html#:~:text=Hyundai%20Motor%20Group%20launched%20ZER01NE%20Fund%20III%2C,in%20future%20technologies%20through%20early%2Dstage%20startup%20investments."
+Link_15,"https://climateinsider.com/2025/05/26/hyundai-launches-fund-to-finance-ai-hydrogen-energy-startups/#:~:text=Hyundai%20launches%20fund%20to%20finance%20AI%2C%20hydrogen%2C,in%20AI%2C%20robotics%2C%20cybersecurity%2C%20hydrogen%2C%20and%20energy."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Global Sales:Totaled 351,174 units, representing a 1.7% decrease compared to May 2024.
+
+Outside Korea:292,208 units were sold, a 0.9% decrease year-on-year.
+
+Korean Market:Sales reached 58,966 units, a 5.2% decline compared to the previous year.
+
+India:Domestic sales for May 2025 stood at 43,861 units, a 10.76% decrease compared to May 2024. Exports showed a positive trend, reaching 14,840 units, a 3.05% increase year-on-year, according to Times Drive. Total sales (domestic + exports) were 58,701 units, a 7.63% decrease year-on-year.
+
+Hyundai Creta:Continued to be a strong performer in India, leading the company's sales charts with 14,860 units sold in May 2025.
+
+Hyundai anticipates a recovery in demand for both domestic and international markets, citing reduced geopolitical uncertainty and an improved macroeconomic environment.
+
+Key strategies include stabilizing domestic sales and boosting export growth.
+
+Refreshed models, including the Hyundai Venue, are expected to drive consumer interest.
+
+Hyundai is investing in advanced production technologies to keep pace with vehicle technical advancements. These include automated assembly, enhanced sensors, and real-time quality control.
+
+Hyundai Motor Group is utilizing its private cloud, HCloud, in Equinix data centers globally to enhance services for connected car users.
+
+The company is also developing a software ecosystem for Software-Defined Vehicles (SDV), according to the Hyundai Newsroom.
+
+Hyundai Motor Group launched ZER01NE Fund III to invest in early-stage startups focused on future technologies.
+
+Hyundai Motor is demonstrating its hydrogen mobility solutions and hydrogen society vision at the World Hydrogen Summit 2025.
+
+Hyundai Motor India announced leadership changes to support global product alignment and manufacturing improvements in North America.
+
+In May 2025, Hyundai Motor Company's operations were impacted by a routine, week-long maintenance shutdown at its Chennai manufacturing facility, affecting the availability of several key models ."

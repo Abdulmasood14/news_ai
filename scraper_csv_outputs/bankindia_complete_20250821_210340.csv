@@ -1,0 +1,24 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+BANKINDIA,7,1511,2025-08-21 21:03:40,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://bankofindia.co.in/#:~:text=STQC%20Certification,digital%20accessibility%20and%20inclusive%20banking."
+Link_2,"https://bankofindia.co.in/media-center#:~:text=Bank%20of%20India%20has%20become,digital%20accessibility%20and%20inclusive%20banking."
+Link_3,"https://www.caalley.com/news-updates/indian-news/rbis-new-atm-transaction-rules-take-effect-from-may-1#:~:text=Starting%20May%201%2C%202025%2C%20the,CRMs)%2C%20excluding%20cash%20deposits."
+Link_4,"https://www.angelone.in/news/market-updates/rbi-mandates-use-of-pravaah-portal-for-all-regulatory-applications-from-may-1-2025#:~:text=The%20Reserve%20Bank%20of%20India,uniformity%20across%20the%20financial%20system."
+Link_5,"https://m.economictimes.com/industry/banking/finance/banking/rbi-instructs-all-banks-financial-companies-and-other-regulated-entities-to-use-pravaah-portal-from-1st-may/articleshow/120714735.cms#:~:text=Banking-,RBI%20instructs%20all%20banks%2C%20financial%20companies%2C%20and%20other%20regulated%20entities,already%20available%20in%20the%20portal.%22"
+Link_6,"https://upstox.com/news/personal-finance/latest-updates/new-atm-cash-withdrawal-rule-banks-can-charge-up-to-23-beyond-free-transactions-from-may-1-2025/article-156598/#:~:text=May%201%2C%202025-,New%20ATM%20cash%20withdrawal%20rule:%20Banks%20can%20charge%20up%20to,transactions%20from%20May%201%2C%202025&text=RBI%20says%20a%20bank%20customer,monthly%20limits%20provided%20by%20banks.&text=ATM%20cash%20withdrawals%20beyond%20the,transactions%20in%20non%2Dmetro%20centres."
+Link_7,"https://bankofindia.co.in/media-center#:~:text=News%20Bank%20of%20India%20has%20become%20the,Ministry%20of%20Electronics%20and%20Information%20Technology%2C%20Govt."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"RBI Mandates PRAVAAH Portal: As of May 1st, 2025, the Reserve Bank of India (RBI) mandated the use of the PRAVAAH portal for all regulatory applications. This platform is for submitting applications related to licenses, authorizations, and approvals.
+
+New ATM Transaction Rules: Also effective May 1st, 2025, the RBI implemented a revised framework for ATM transaction charges. This framework stipulates that customers are entitled to three free ATM transactions in metro areas and five in non-metro areas per month. Beyond these free transactions, a fee of up to Rs 23 per transaction may be levied by banks.
+
+BOI Website Receives STQC Certification: Bank of India was the first bank in the country to receive the Standardization Testing and Quality Certification (STQC) for its official website from the STQC Directorate, Ministry of Electronics and Information Technology, Government of India. This certification highlights the bank's commitment to digital accessibility.
+
+There have been several significant developments related to Bank of India (BANKINDIA) leading up to and including May 1st, 2025. These include:
+
+In conclusion, as of May 1st, 2025, Bank of India, along with all other regulated financial entities, was required to use the PRAVAAH portal for regulatory applications, and customers saw the implementation of the new RBI rules for ATM transactions. Additionally, the bank's achievement in receiving STQC certification for its website signals progress in its digital transformation efforts."

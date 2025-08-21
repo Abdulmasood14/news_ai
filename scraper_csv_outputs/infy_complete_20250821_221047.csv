@@ -1,0 +1,30 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+INFY,7,1620,2025-08-21 22:10:47,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://groww.in/blog/infosys-fy25-q4-results-profit-decline-dividend-announced-fy26-growth-guidance#:~:text=Infosys%20FY25%20Q4%20Earnings%20Update,Constant%E2%80%91Currency%20Revenue%20&%20Margin%20Outlook"
+Link_2,"https://m.economictimes.com/markets/stocks/live-blog/infosys-ltd-q4-results-infy-q4-fy25-tata-elxsi-hdfc-life-revenue-earning-profit-loss-dividend-today-report-date-time-17-april-2025/liveblog/120368592.cms#:~:text=1%20New%20Update,terms%20grew%20by%204.2%25%20YoY"
+Link_3,"https://www.moneycontrol.com/news/business/earnings/infosys-q4-results-2025-live-it-giant-set-to-announce-its-results-for-the-march-quarter-today-liveblog-12997118.html#:~:text=Infosys%20Q4%20Results%202025%20Live:%20'Seeing%20an%20increase%20in%20the,in%20some%20projects%2C'%20says%20CEO"
+Link_4,"https://www.infosys.com/newsroom/press-releases.html#:~:text=Infosys%20to%20Acquire%20Leading%20Energy,Press%20Release"
+Link_5,"https://timesofindia.indiatimes.com/technology/tech-news/infosys-salary-hike-increment-letters-to-be-issued-by-this-month-end/articleshow/118209795.cms#:~:text=Infosys%20is%20set%20to%20issue,optimistic%20outlook%20for%20the%20future."
+Link_6,"https://timesofindia.indiatimes.com/business/india-business/infosys-hands-out-significantly-higher-bonus-employees-get-average-80-payout-big-hike-over-previous-one/articleshow/123406441.cms#:~:text=Infosys%2C%20India's%20second%20largest%20IT,to%20the%20financial%20daily's%20report."
+Link_7,"https://inshorts.com/en/news/infosys-employees-to-get-5-8--salary-hike--effective-april-2025-1739422749759#:~:text=Infosys%20will%20issue%20salary%20increment,practices%20and%20security%20personnel%20involvement."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Q4 FY25 Results:Infosys' Q4 FY25 results, announced on April 17, 2025, showed a 4.8% YoY revenue growth in constant currency, with net profit declining 11.8% YoY but increasing 3.3% QoQ. The operating margin for Q4 was 21%. Notably, the company achieved its highest-ever free cash flow in FY25, rising 44.8% YoY.
+
+FY26 Guidance:The company provided guidance for FY26, projecting 0-3% CC revenue growth and an operating margin between 20-22%.
+
+Dividend:A final dividend of ₹22 per share for FY25 was recommended, with a record date of May 30, 2025, and payment expected on June 30, 2025.
+
+Acquisition:Infosys is set to acquire MRE Consulting Ltd, a UK-based energy sector consulting provider, to strengthen its energy trading and risk management capabilities.
+
+Employee Related:Salary increments were effective from April 2025, with a higher average bonus payout expected for Q1FY26. The company noted an increase in employees working from the office.
+
+Partnerships and Recognition:Infosys expanded its collaboration with DNB Bank ASA and strengthened its presence in Japan through an investment in a joint venture by Mitsubishi Heavy Industries. The company was recognized as a leader in cloud and infrastructure services and modern application development, and launched enterprise AI agents with Google Cloud.
+
+Analyst Outlook:Despite the conservative FY26 guidance, analysts maintain a largely positive long-term view on Infosys, anticipating potential improvements in EBIT margins.
+
+Note: This information is based on news and updates available as of May 1, 2025. Events and updates may have occurred after this date."

@@ -1,0 +1,32 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+BRITANNIA,7,1549,2025-08-21 21:13:48,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.whatpackaging.co.in/news/britannia-the-laughing-cow-cheese-now-made-in-india-with-new-packaging-58717#:~:text=Britannia%20The%20Laughing%20Cow%20cheese,recipes%20tailored%20to%20Indian%20preferences."
+Link_2,"https://indifoodbev.com/product-launch/britannia-the-laughing-cow/#:~:text=Britannia%20The%20Laughing%20Cow%20introduces,Uniquely%20Crafted%20with%20French%20Expertise."
+Link_3,"https://www.instagram.com/reel/DI_gYaLpNl3/#:~:text=Britannia%20has%20launched%20the%20'One,viralvault.india"
+Link_4,"https://www.thehindu.com/business/britannia-unveils-pilot-to-enhance-retail-experience-for-visually-impaired/article69416995.ece#:~:text=Business-,Britannia%20unveils%20pilot%20to%20enhance%20retail%20experience%20for%20visually%20impaired,on%20external%20assistance%2C%20it%20said."
+Link_5,"https://www.just-food.com/tag/britannia-industries/#:~:text=Britannia%20Bel%20Foods%2C%20a%20joint%20venture%20between,has%20opened%20its%20cheese%20factory%20in%20the%E2%80%A6"
+Link_6,"https://www.britannia.co.in/search?q=inves#:~:text=Britannia%20(%20Britannia%20Industries%20Limited%20)%20&,cheese%20factory%20in%20India%20in%20Ranjangaon%2C%20Maharashtra."
+Link_7,"https://www.britannia.co.in/article/britannia-the-laughing-cow-cheese-launches-a-one-of-a-kind-content-hub-cheeseitup-in#:~:text=It%20(%20The%20Laughing%20Cow%20Cheese%20),Britannia%20Industries%20)%20The%20Laughing%20Cow%20Cheese."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Focus on Local Manufacturing:The cheese range is now manufactured locally at Britannia Bel Foods' new facility in Ranjangaon, Maharashtra, according to whatpackaging.co.in. This move aims to combine French cheese-making expertise with recipes tailored to Indian tastes.
+
+Improved Product Quality:The refreshed range offers a creamier taste, smoother texture, and enhanced quality.
+
+Nutritional Enhancement:The new recipe incorporates five key nutrients: protein, calcium, and vitamins A, D, and B12.
+
+Wider Product Availability:The Laughing Cow Cheese is available in a full range of products, including slices, cubes, blocks, spread, diced, triangles, and sachets.
+
+Affordability:The company also announced that the new range comes at a more affordable price.
+
+New Advertising Campaign:A campaign titled ""One More Please,"" conceptualized by Schbang, was launched to highlight the improved taste and texture and the irresistibility of the product.
+
+On May 1, 2025, Britannia Industries, in a joint venture with Bel Group (Britannia Bel Foods), launched a revamped range of its Britannia The Laughing Cow cheese products.
+
+Here's a breakdown of the key updates:
+
+Additionally, a pilot program to enhance the retail experience for visually impaired shoppers was launched on April 5, 2025, leveraging Google Astra's capabilities . The program, in partnership with MORE Retail and Mithra Jyoti (an NGO), uses a smartphone app called ""Britannia A-Eye"" to guide visually impaired shoppers through stores and provide voice-based information about products."

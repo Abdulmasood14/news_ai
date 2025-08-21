@@ -1,0 +1,24 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+FORTIS,5,1002,2025-08-21 21:35:24,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.nseindia.com/get-quotes/equity?symbol=FORTIS#:~:text=English,26%2DAug%2D2025%20%7C%2087.2200"
+Link_2,"https://www.fortishealthcare.com/investor/investor%20presentations%20&%20transcripts/earnings%20call%20transcript%20for%20the%20quarter%20and%20year%20ended%20march%202025#:~:text=As%20part%20of%20company's%20inorganic,to%20be%20consummated%20very%20shortly."
+Link_3,"https://www.nseindia.com/get-quotes/equity?symbol=FORTIS#:~:text=Board%20Meetings%20Purpose%20Meeting%20Date%20Fortis%20Healthcare,held%20on%2020%2DMay%2D2025%20to%20consider%20and%20approv&text=Read%20More%2020%2DMay%2D2025%20To%20consider%20and%20approve,ended%20March%2031%2C%202025%20and%20dividend%2020%2DMay%2D2025"
+Link_4,"https://hdfcsky.com/news/kretto-syscon-hits-rs-2-05-on-dividend-buzz#:~:text=This%20rally%20came%20after%20the%20company%20informed,a%20final%20dividend%20and%20bonus%20share%20issue."
+Link_5,"https://www.fortishealthcare.com/investor/investor%20presentations%20&%20transcripts/fhl%20-%20q4fy25%20and%20fy25%20press%20release#:~:text=Key%20Financial%20Highlights,Cr%20with%20a%20Net%20Debt"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Board Meeting on May 20, 2025:A board meeting was scheduled to consider and approve the financial results for the period ended March 31, 2025, and potentially declare a dividend.
+
+Expected discussion of Q4 FY25 and full-year FY25 results:The results for the fourth quarter and full year ending March 31, 2025 were to be reviewed in the May 20th board meeting.
+
+Dividend declaration:There was a possibility of the Board recommending a dividend based on the FY25 financial performance.
+
+Acquisition/expansion updates:It's likely that updates regarding the acquisition of Shrimann Superspecialty Hospital in Jalandhar and the associated capacity expansion would be provided around this time,according to Fortis Healthcare.
+
+Based on the information available as of May 1, 2025, here's a summary of news and updates related to Fortis Healthcare:
+
+Note: This information is limited to the search results available as of May 1, 2025. Further news and updates would likely have emerged following these events."

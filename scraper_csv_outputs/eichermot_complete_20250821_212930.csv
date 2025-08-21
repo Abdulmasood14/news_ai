@@ -1,0 +1,30 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+EICHERMOT,7,1312,2025-08-21 21:29:30,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,https://eicher.in/content/dam/eicher-motors/investor/notifications/board---committee-meetings/Press-Release-may-14-2025.pdf
+Link_2,https://www.marketscreener.com/quote/stock/EICHER-MOTORS-LIMITED-6493334/news/Eicher-Motors-Press-Release-May-14-2025-49948865/
+Link_3,"https://www.livemint.com/market/stock-market-news/eicher-motors-declares-record-date-for-rs-70-share-dividend-issue-details-here-11751895359172.html#:~:text=This%20will%20mark%20the%20final,BSE%20in%20an%20exchange%20filing."
+Link_4,"https://www.capitalmarket.com/markets/news/Corporate-News/eicher-motors-records-26-yoy-increase-in-may25-motorcycle-sales/1610027#:~:text=%2C%2012:25)-,Eicher%20Motors%20records%2026%25%20YoY%20increase%20in%20May'25%20motorcycle,Aug%2D2025%2009:41)"
+Link_5,"https://www.capitalmarket.com/markets/news/results/eicher-motors-records-26-yoy-increase-in-may25-motorcycle-sales/1610027#:~:text=Eicher%20Motors%20has%20reported%2026,Rs%205354.75%20on%20the%20BSE."
+Link_6,"https://www.share.market/buzz/news/maruti-suzuki-eicher-rec-united-spirits-and-varun-beverages-dividend/#:~:text=The%20company%20delivered%20its%20(%20Eicher%20Motors,and%20PAT%20growing%2018.3%25%20to%20%E2%82%B94%2C734%20crore."
+Link_7,"https://motoring-trends.com/cover-story/eicher-motors-reports-record-financials-for-fy2025-royal-enfield-crosses-million-annual-motorcycle-sales#:~:text=Royal%20Enfield%20registered%20its%20highest%2Dever%20quarterly%20sales,280%2C801%20motorcycles%20sold%2C%20up%2023.2%20percent%20YoY."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Financial Highlights (FY25): Revenue from operations reached ₹18,870 crore, up 14.1% YoY. EBITDA stood at ₹4,712 crore (up 8.9%), and Profit After Tax was ₹4,734 crore (up 18.3%).
+
+Royal Enfield Sales: The company achieved its highest-ever quarterly sales with 280,801 motorcycles in Q4 FY25, a 23.2% YoY growth. Royal Enfield also crossed one million annual sales for the first time, with total volumes at 1,002,893 units (up 10.0% YoY).
+
+Dividend: The Board of Directors recommended a final dividend of ₹70 per share for FY25, a 34% increase over the previous year.
+
+VE Commercial Vehicles (VECV): VECV reported revenue from operations of ₹23,548 crore (up 7.7% YoY) and sold 90,000 units in FY25, a 5.4% growth over FY24.
+
+Motorcycle Sales: Eicher Motors reported a 26% YoY increase in motorcycle sales, totaling 89,429 units.
+
+VECV Sales: VE Commercial Vehicles recorded a 7.3% rise in total commercial vehicle sales, reaching 7,402 units.
+
+On May 1, 2025, Eicher Motors saw no specific announcements. However, recent updates highlight a strong financial performance in FY25, including crossing one million annual motorcycle sales.
+
+Stock Performance (July 7, 2025) : Eicher Motors shares closed at ₹5,672.25. The 52-week high was ₹5,907.85 (April 22, 2025), and the 52-week low was ₹4,500 (October 8, 2024)."

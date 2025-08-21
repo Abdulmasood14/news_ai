@@ -1,0 +1,39 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+NAUKRI,10,2420,2025-08-21 22:10:02,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.naukri.com/blog/understanding-hiring-trends-with-naukri-jobspeak-report-may-2025/#:~:text=Professionals%20with%2016+%20years%20of,Real%20Estate%20led%20fresher%20hiring"
+Link_2,"https://www.naukri.com/blog/understanding-hiring-trends-with-naukri-jobspeak-report-january-2025/#:~:text=a%20cracking%202025.%22-,Hiring%20Trends%20Across%20Industries,particularly%20on%20mid%2Dlevel%20expertise."
+Link_3,"https://www.storyboard18.com/how-it-works/media-entertainment-sector-sees-18-hiring-surge-in-may-naukri-68339.htm#:~:text=Media%20&%20Entertainment%20sector%20sees%2018,as%20OTTs'%20'Originals'%20boom"
+Link_4,"https://m.economictimes.com/markets/stocks/news/info-edge-announces-15-stock-split-may-7-set-as-record-date/articleshow/120275666.cms#:~:text=ETtech,closing%20higher%20on%20the%20BSE."
+Link_5,"https://www.livemint.com/market/stock-market-news/info-edge-board-fixes-record-date-for-1-5-stock-split-check-details-here-11744607056991.html#:~:text=Stock%20Split:%20Info%20Edge's%20board,%2C%20with%20a%207%25%20rise.&text=Sanjeev%20Bikhchandani%2C%20founder%20and%20executive,pari%2Dpassu%20in%20all%20respects."
+Link_6,"https://www.thehindubusinessline.com/info-tech/ai-ml-hiring-grows-25-in-may-it-sector-sees-5-decline-report/article69648268.ece#:~:text=to%20the%20report.-,Hiring%20in%20Retails%2C%20Telecom/ISP%2C%20and%20Banking%2C%20Finance,%2C%20cities%2C%20and%20experience%20levels."
+Link_7,"https://www.angelone.in/news/share-market/info-edge-sets-may-7-as-record-date-for-stock-split#:~:text=Info%20Edge%20(India)%2C%20the,postal%20ballots%20on%20April%2011."
+Link_8,https://www.naukri.com/blog/understanding-hiring-trends-with-naukri-jobspeak-report-may-2025/#:~:text=Dr.%20Pawan%20Goyal%2C%20Executive%20Director%20&%20Chief%20Business%20Officer%20at%20Naukri%2C%20said%2C
+Link_9,"https://www.naukri.com/blog/understanding-hiring-trends-with-naukri-jobspeak-report-march-2025/#:~:text=Overview%20of%20the%20Hiring%20Trends,lining%20to%20the%20March%20trends.%E2%80%9D"
+Link_10,"https://www.instagram.com/p/DIlECDfStQz/#:~:text=According%20to%20Naukri.com%2C%20the%20AI/ML%20sector%20saw,the%20impact%20of%20creative%20and%20tech%2Ddriven%20sectors."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Stable White-Collar Hiring:The Naukri JobSpeak Index remained stable at 2,807 in May 2025, mirroring the levels seen in May 2024.
+
+Booming AI/ML Sector:Hiring for Artificial Intelligence and Machine Learning (AI/ML) roles experienced a 25% year-on-year (YoY) increase, driven by demand across metro cities like Delhi NCR (+35%), Chennai (+34%), and Kolkata (+33%). This growth was observed across all experience levels, including a 36% rise for professionals with 13-16 years of experience and a 22% increase in fresher hiring within the AI/ML sector.
+
+Increased Demand for Senior Professionals:Hiring for professionals with over 16 years of experience increased by 6% YoY, a trend that has been consistent throughout the past year. This was particularly evident in the Oil & Gas (+21%) and Real Estate (+17%) sectors.
+
+Growth in Non-IT Sectors for Freshers:Despite overall flat fresher hiring, non-IT industries showed positive momentum for entry-level roles. The Insurance sector led with a 26% increase, followed by Real Estate (+12%), BPO/ITES (+5%), and Hospitality (+4%).
+
+Unicorn Companies Driving Hiring:Unicorn companies demonstrated strong hiring momentum with a 25% increase, especially in Banking and Financial Services (+35%), Internet/E-commerce (+18%), and IT (+16%).
+
+Positive Hiring Trends in Certain Cities:Hyderabad and Kochi saw 7% and 8% growth respectively, largely driven by hiring for senior-level professionals (16+ years of experience). Pune also witnessed a 4% increase in hiring, boosted by a significant 26% rise in startup hiring.
+
+Challenges in the IT Sector:The IT sector, in contrast, experienced a 5% decline in hiring in May 2025.
+
+Info Edge (India) Limited, the parent company of Naukri, released its Naukri JobSpeak Report for May 2025, which highlighted several key hiring trends .
+
+Here's a summary of the findings:
+
+Dr. Pawan Goyal, Executive Director & Chief Business Officer at Naukri, commented on these trends, noting the stability of the job market and the notable growth in AI/ML hiring and demand for senior professionals. He also highlighted the positive sign of increased fresher hiring in non-tech industries.
+
+Additionally, Info Edge (India) Ltd announced a 1:5 stock split with a record date of May 7, 2025, to improve liquidity and attract more retail investors. This means each ₹10 share will be divided into five shares of ₹2 each, according to The Economic Times ."

@@ -1,0 +1,28 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+ADANIGREEN,7,1221,2025-08-21 20:42:16,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.angelone.in/live-blog/adani-green-energy-ltd-02-may-2025-541450#:~:text=11:00%20AM-,Live%20Updates:%20Adani%20Green%20Energy%20Ltd%20Stock%20Falls%20Today,2%2C%202025%2010:45%20AM"
+Link_2,"https://www.adanigreenenergy.com/newsroom/media-releases#:~:text=4%2C518%20crores%2C%20up%20by%2020,2%2C374%20crore%2C%20up%20by%2023%25"
+Link_3,"https://www.angelone.in/live-blog/adani-green-energy-ltd-05-may-2025-541450#:~:text=Live%20Market%20Data:%20Adani%20Green,5%2C%202025%2010:45%20AM"
+Link_4,"https://www.ndtvprofit.com/business/adani-green-energy-arm-enters-pact-with-uttar-pradesh-power-corp-for-400-mw-solar-power#:~:text=Newsroom%20Reviewed-,Adani%20Green%20Energy%20Ltd.,by%20any%20renewable%20energy%20firm."
+Link_5,"https://money.rediff.com/news/market/adani-green-energy-operationalizes-50mw-solar-project/26815020250514#:~:text=Adani%20Green%20Energy%20Operationalizes%2050MW,accuracy%2C%20views%20&%20content%20ownership."
+Link_6,https://www.adanigreenenergy.com/newsroom
+Link_7,https://www.adanigreenenergy.com/newsroom/media-releases/adani-greens-energy-sales-increases-42-yoy-with-consistent-strong-financial-performance-in-q1-fy26
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Financial Results (FY25):Adani Green Energy announced that its EBITDA for the fiscal year 2025 had surpassed USD 1 billion, indicating strong performance.
+
+Capacity Expansion:The company's total operational renewable generation capacity reached 14,200 MW in FY25, a 30% increase year-on-year. This included a 3.3 GW greenfield addition, which the company stated was the highest ever by a renewable energy firm in India.
+
+Solar Project Operationalization:An incremental 50 MW solar power project at Khavda, Gujarat, was operationalized by a subsidiary, increasing total operational capacity.
+
+Power Purchase Agreement:A subsidiary signed a Power Purchase Agreement with Uttar Pradesh Power Corp for the supply of 400 MW of solar power from a project in Rajasthan.
+
+Analyst Reports/Updates:Updates from early May 2025 noted a decline in share price, with investors watching for turnaround signs. Information on share price movements was available on various platforms.
+
+As of May 1, 2025, Adani Green Energy Limited (ADANIGREEN) had several notable updates:
+
+These updates highlight Adani Green Energy's continued focus on expanding its renewable energy portfolio and securing long-term power supply agreements in May 2025."

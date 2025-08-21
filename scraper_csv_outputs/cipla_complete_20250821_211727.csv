@@ -1,0 +1,31 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+CIPLA,4,1696,2025-08-21 21:17:27,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.angelone.in/live-blog/cipla-ltd-05-may-2025-500087#:~:text=Cipla%20Ltd%20Live%20Updates:%20Stock,5%2C%202025%203:30%20PM"
+Link_2,"https://www.business-standard.com/markets/cipla-ltd-share-price-114/news#:~:text=Cipla%20to%20enter%20weight%20management,a%20priority%20area%20for%20Cipla."
+Link_3,"https://economictimes.indiatimes.com/cipla-ltd/stocks/companyid-13917.cms#:~:text=Intraday%20fact%20check,last%20traded%20price%20is%201%2C565.90"
+Link_4,"https://news.futunn.com/en/post/59516440/sinomach-heavy-equipment-group-601399-sh-has-normal-internal-production#:~:text=Given%20the%20recent%20significant%20fluctuations%20in%20the,this%20announcement%2C%20its%20daily%20operations%20are%20normal."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Stock price performance:Cipla's stock experienced some fluctuations, showing both minor increases and decreases in trading. For instance, on May 5th,Angel One reportedan increase of 0.13%, with the stock trading at ₹1,544.90 per share. However, another report from the same day mentions a decrease of -0.01%, trading at ₹1,538.40. The Economic Times reported on August 21st that Cipla's share price moved up by 1.29% from its previous close, reaching 1,565.90.
+
+Company delivered a Return on Equity (ROE) of 16.9% in the year ending March 31, 2025, outperforming its 5-year average of 13.54%.
+
+Debt to Equity ratio is low at 0.0163.
+
+The company has spent less than 1% of its operating revenues towards interest expenses and 17.54% towards employee cost in the year ending Mar 31, 2025.
+
+Sell signal: A 5-day moving crossover appeared recently, historically followed by an average price decline of -1.73% within 7 days in the last 5 years.
+
+Cipla is expected to enter the weight management segment in India.
+
+The company is expanding its presence in the central nervous system (CNS) therapeutic area.
+
+News and updates regarding Cipla on May 1, 2025, primarily focused on its stock price movements and related analyses, with some insights into potential future developments.
+
+Key takeaways as of May 1, 2025:
+
+Please note: The provided information primarily focuses on stock performance and some potential future business ventures, but doesn't detail any specific major news announcements or events that occurred precisely on May 1, 2025. It's likely that on any given day, routine stock fluctuations are observed, and information about them might be published shortly after the close of trading."

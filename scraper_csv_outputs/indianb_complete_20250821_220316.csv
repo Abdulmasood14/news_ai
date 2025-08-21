@@ -1,0 +1,41 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+INDIANB,10,2216,2025-08-21 22:03:16,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://cleartax.in/s/atm-withdrawal-charges#:~:text=The%20Reserve%20Bank%20of%20India,managing%20your%20banking%20costs%20effectively."
+Link_2,"https://cleartax.in/s/atm-withdrawal-charges#:~:text=Starting%20May%201%2C%202025%2C%20ATM,smartly%20and%20save%20unnecessary%20costs."
+Link_3,"https://blog.readyaccountant.com/New_Rules_for_RBI_From_May_1,_2025.#:~:text=As%20of%20May%201%2C%202025,Indian%20banking%20with%20global%20standards."
+Link_4,"https://www.indiatoday.in/business/personal-finance/story/rbi-raises-atm-charges-rs-23-from-may-1-know-the-details-here-2717434-2025-04-30#:~:text=In%20Short,five%20free%20transactions%20per%20month."
+Link_5,"https://m.economictimes.com/industry/banking/finance/banking/rbi-hikes-transaction-fee-from-rs-2-to-rs-23-starting-may-2025/articleshow/119652898.cms#:~:text=RBI%20to%20hike%20ATM%20transaction,May%202025%20%2D%20The%20Economic%20Times"
+Link_6,https://www.timesnownews.com/business-economy/economy/major-financial-and-policy-changes-effective-may-1-2025-what-you-need-to-know-article-151543503
+Link_7,"https://www.editorji.com/business-news/markets/indian-stock-market-sectorwise-performance-which-sector-is-performed-well-today-may-01-2025-1746095825814#:~:text=Highlights,launches%20or%20positive%20industry%20forecasts."
+Link_8,"https://zeenews.india.com/photos/business/7-banking-and-financial-rules-effective-from-today-1-may-2025-atm-fees-taxation-and-more-2893761#:~:text=Starting%20on%20May%201%2C%202025,3/7"
+Link_9,https://www.angelone.in/news/market-updates/rbi-revises-atm-rules-know-free-transaction-limits-and-new-rs-23-charge-effective-may-2025
+Link_10,"https://www.angelone.in/news/market-updates/rbi-mandates-use-of-pravaah-portal-for-all-regulatory-applications-from-may-1-2025#:~:text=single%20unified%20system.-,Scope%20and%20Applicability,Credit%20Information%20Companies"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"ATM withdrawal charges:The Reserve Bank of India (RBI) revised ATM withdrawal charges, effective from May 1, 2025. After exhausting the free monthly limit, customers will now have to pay ₹23 per transaction at ATMs.
+
+RBI's PRAVAAH portal:All regulated entities, including Indian Bank, were instructed to use the RBI's PRAVAAH portal from May 1, 2025, for submitting applications for regulatory authorizations, licenses, and approvals.
+
+Regional Rural Banks (RRBs) merger:The Department of Financial Services (DFS) notified the amalgamation of 26 Regional Rural Banks (RRBs) on the principle of ""One State One RRB"" which came into effect from May 1, 2025. This is the fourth phase of amalgamation of RRBs, aiming to improve scale efficiency and cost rationalization.
+
+Stock market performance:On May 1, 2025, the Nifty Bank index, which includes Indian Bank, opened at 55,382.4 and closed at 55,087.1, marking a decrease of approximately 0.55%.
+
+Other news relevant to the banking sector:
+
+Revised limits for free ATM transactions: Customers get 5 free transactions at their own bank ATMs and 3 to 5 at other bank ATMs, depending on whether it's a metro or non-metro area.
+
+ATM transaction charges for exceeding free limits revised from ₹21 to ₹23.
+
+Changes to railway ticket booking rules.
+
+New income tax return forms (ITR-1 and ITR-4) were notified for the financial year 2024-25 and assessment year 2025-26.
+
+Other news relevant to the banking sector:Revised limits for free ATM transactions: Customers get 5 free transactions at their own bank ATMs and 3 to 5 at other bank ATMs, depending on whether it's a metro or non-metro area.ATM transaction charges for exceeding free limits revised from ₹21 to ₹23.Changes to railway ticket booking rules.New income tax return forms (ITR-1 and ITR-4) were notified for the financial year 2024-25 and assessment year 2025-26.
+
+Information about Indian Bank (INDIANB) on May 1, 2025:
+
+It is important to note that some sources may provide information from different perspectives or with slightly varying details. For example, regarding ATM charges, one source mentions a fee of ₹25 (plus GST) per transaction beyond the free limit, while others specify ₹23 per transaction."

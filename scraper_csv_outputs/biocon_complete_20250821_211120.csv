@@ -1,0 +1,19 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+BIOCON,2,656,2025-08-21 21:11:20,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://ehealth.eletsonline.com/2025/05/biocon-biologics-achieves-major-u-s-market-access-for-yesintek-strengthening-indias-global-biopharma-footprint/#:~:text=The%20biosimilar%20will%20be%20covered,formularies%20effective%20July%201%2C%202025."
+Link_2,https://ehealth.eletsonline.com/2025/05/biocon-biologics-achieves-major-u-s-market-access-for-yesintek-strengthening-indias-global-biopharma-footprint/
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"This biosimilar is now covered underUnitedHealthcare's commercial plans, which began onMay 1, 2025.
+
+Further expansion of coverage to Managed Medicaid and Medicare plans is planned for later in 2025.
+
+Other major Pharmacy Benefit Managers likeCVS Health and Optum Rxhave also added Yesintek™ to their formularies, effective July 1, 2025.
+
+As of May 1, 2025, there was news regarding Biocon's market access for its biosimilar, Yesintek™ (ustekinumab-kfce), in the United States .
+
+This expanded market access strengthens Biocon's presence in the US biosimilars market and is considered a significant development for the company's global biopharma footprint."

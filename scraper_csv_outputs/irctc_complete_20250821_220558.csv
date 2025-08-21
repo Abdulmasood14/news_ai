@@ -1,0 +1,44 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+IRCTC,7,2392,2025-08-21 22:05:58,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.indiatoday.in/information/story/irctc-new-rules-from-may-1-waiting-list-passengers-banned-from-traveling-in-these-train-coaches-check-full-details-2718105-2025-05-01#:~:text=Starting%20May%201%2C%202025%2C%20Indian,experience%20of%20confirmed%20ticket%20holders."
+Link_2,"https://www.kotaksecurities.com/financial-results/indian-railway-catering-tourism-corporation-ltd-q1fy2025-26-results/#:~:text=2025%2D26%20results?-,Key%20highlights%20of%20IRCTC%20(Indian%20Railway%20Catering%20&%20Tourism%20Corporation),in%20Q1%20FY%202025%2D26."
+Link_3,"https://english.mathrubhumi.com/news/india/fines-otp-booking-rule-waiting-list-restrictions-what-railway-changes-coming-from-may-1-raqdx4pe#:~:text=IRCTC-,IRCTC's%20new%20fines%2C%20OTP%20booking%20rule%2C%20waiting%20list%20restrictions:,the%20previous%204%2Dmonth%20window."
+Link_4,"https://www.yatrirestro.com/blog/indian-railways-fine-rules#:~:text=Starting%20May%201%2C%202025%2C%20if,Fine%20for%20Sleeper:%20%E2%82%B9250"
+Link_5,"https://www.efiletax.in/blog/irctc-new-rules-2025-no-sleeper-or-ac-travel-with-waiting-list-tickets/#:~:text=IRCTC%20New%20Rules%202025:%20No,Travel%20with%20Waiting%20List%20Tickets&text=Starting%20May%201%2C%202025%2C%20Indian,how%20you%20can%20stay%20compliant."
+Link_6,"https://timesofindia.indiatimes.com/life-style/travel/news/irctcs-new-rule-waiting-list-passengers-no-longer-allowed-in-these-coaches-key-details/articleshow/120813044.cms#:~:text=Pyramid%20of%20Giza-,IRCTC's%20new%20rule:%20Waiting%20list%20passengers%20no%20longer%20allowed%20in,the%20AC%20or%20sleeper%20cabins."
+Link_7,"https://www.kotaksecurities.com/financial-results/speciality-restaurants-ltd-q1fy2025-26-results/#:~:text=The%20profit%20after%20tax%20(PAT)%20stood%20at,26.7%25%20YoY%20decrease%20from%20%E2%82%B91.50%20in%20Q1FY25."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Waiting List Restrictions:Passengers with waiting list tickets are no longer allowed to travel in Sleeper or AC coaches. These tickets are now only valid for travel in general (unreserved) coaches.
+
+Fines for Violations:Passengers found travelling in reserved coaches with a waiting list ticket will face fines of ₹250 for Sleeper class and ₹440 for AC class. Additionally, they may be charged the fare from the train's starting point to where they were caught.
+
+Reduced Advance Reservation Period (ARP):The period for booking tickets in advance has been reduced from 120 days to 60 days.
+
+Mandatory OTP Verification for Online Bookings:One-Time Password (OTP) verification via mobile number is now compulsory for all online ticket bookings made through the IRCTC website or app.
+
+Increased Smoking Fine:The fine for smoking on trains has increased from ₹200 to ₹500.
+
+Stricter Luggage Rules:Carrying luggage exceeding the allowed limits without booking it will incur a penalty of six times the regular fee for the excess weight.
+
+Late Cancellation Charges:Canceling a ticket less than 4 hours before departure will now result in a forfeiture of 25% of the ticket fare.
+
+Limited Tatkal Ticket Refunds:No refund will be given on confirmed Tatkal tickets unless the train is canceled or delayed by more than 3 hours.
+
+AI-Based Seat Allocation:Indian Railways is now using Artificial Intelligence to assign seats more efficiently, aiming to reduce waiting list numbers and improve the booking experience.
+
+Revenue:The company reported a consolidated revenue of ₹1220.87 crore, showing a 2.8% increase quarter-on-quarter (QoQ) and a 4.2% year-over-year (YoY) increase.
+
+Profit After Tax:Profit after tax stood at ₹330.70 crore, a 16.4% QoQ rise and a 7.5% YoY rise.
+
+Earnings Per Share (EPS):The EPS for Q1FY26 was ₹4.10, representing a 17.1% increase from the previous quarter and a 5.1% increase from the same period last year.
+
+On May 1, 2025, Indian Railways, managed by the Indian Railway Catering and Tourism Corporation (IRCTC), implemented new rules impacting train passengers:
+
+IRCTC announced its financial results for the first quarter (Q1) of the 2025-26 fiscal year on August 14, 2025.
+
+Note: The changes were implemented as per an Indian Railways notification (effective May 1, 2025) and aim to enhance passenger comfort and safety by reducing overcrowding in reserved compartments."

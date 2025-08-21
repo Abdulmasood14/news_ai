@@ -1,0 +1,31 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+IOC,6,1692,2025-08-21 22:05:13,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://iocl.com/intimation-stock-exchange#:~:text=08%2D05%2D2025%20Announcement%20under,quarter%20ended%2031st%20March%202025"
+Link_2,"https://iocl.com/#:~:text=What's%20New,Assistant%20Quality%20Control%20Officers%2D2025"
+Link_3,"https://iocl.com/News-Release-Archives#:~:text=In%20a%20landmark%20development%2C%20Indian,%2D%20Redefining%20the%20Future'%20today."
+Link_4,"https://powerline.net.in/2025/05/02/iocl-approves-rs-10-86-billion-equity-infusion-in-terra-clean/#:~:text=Indian%20Oil%20(%20Indian%20Oil%20Corporation%20Limited,additional%204.3%20GW%20of%20renewable%20energy%20capacity."
+Link_5,"https://scanx.trade/stock-market-news/global/indian-state-refiners-resume-russian-oil-purchases-amid-us-tariff-threats/17234582#:~:text=Management%20Changes%20at%20IOC%20Recent%20LODR%20data,potentially%20influencing%20the%20company's%20future%20market%20decisions."
+Link_6,"https://www.marketsmojo.com/news/result-analysis/indian-oil-corporation-reports-q3-fy-2024-25-financial-results-with-negative-performance-score-337219#:~:text=Indian%20Oil%20(%20Indian%20Oil%20Corporation%20),)%20's%20operational%20context%20and%20current%20standing."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Financial Results:Investor handouts were released regarding financial results, along with disclosures concerning deviations in the use of proceeds from listed non-convertible unsecured debentures for the quarter ending March 2025.
+
+Green Energy:IOC finalized the Levelized Cost of Hydrogen (LCoH) for India's largest green hydrogen project at Panipat, targeting 10,000 tonnes per annum of Green Hydrogen.According to Indian Oil Corporation Ltd.this was announced on May 30, 2025.
+
+Expansion Projects:IOC disclosed revisions in the project cost of the Barauni Refinery and announced equity investment in Terra Clean (WoS).
+
+Recruitment:Multiple apprenticeship engagement notifications were released for various regions and refineries, along with recruitment drives for Non-Executive Personnel and Assistant Quality Control Officers for the year 2025.
+
+Stock Exchange:Intimations were sent to the stock exchange regarding an Earnings Call Transcript (May 8, 2025) and a Conference Call to discuss Q4 (2024-25) financial performance (April 28, 2025),according to Indian Oil Corporation Ltd..
+
+Apprenticeship:A notification was released for the engagement of 475 Trade/Technician/Graduate Apprentices in the Southern Region,according to Indian Oil Corporation Ltd..
+
+On May 1, 2025, Indian Oil Corporation (IOC) announced a change in its Senior Management (one level below the Board of Directors).
+
+Other recent news and updates (not necessarily released on May 1st but relevant to the period) include:
+
+This information provides a snapshot of IOC's activities around May 1, 2025, highlighting changes in management, ongoing project developments, financial reporting, and recruitment initiatives."

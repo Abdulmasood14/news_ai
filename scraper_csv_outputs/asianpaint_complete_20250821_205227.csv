@@ -1,0 +1,26 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+ASIANPAINT,5,843,2025-08-21 20:52:27,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.angelone.in/live-blog/asian-paints-ltd-08-may-2025-500820#:~:text=Live%20Market%20Data:%20Asian%20Paints%20Ltd%20Share%20Price%20Drops%20%2D0.76,to%20equity%20ratio%20of%200.1396."
+Link_2,"https://m.economictimes.com/markets/stocks/stock-liveblog/asian-paints-stock-price-livestock-price-today-live-updates-02-may-2025/liveblog/120808167.cms#:~:text=The%20price%20of%20Asian%20Paints,reflecting%20a%20challenging%20market%20environment."
+Link_3,"https://www.angelone.in/live-blog/asian-paints-ltd-06-may-2025-500820#:~:text=Live%20Updates:%20Asian%20Paints%20Ltd%20Stock%20Rallies%200.16%25,attention%20from%20the%20investment%20community."
+Link_4,"https://www.capitalmarket.com/markets/news/corporate-news/Board-of-Asian-Paints-recommends-Final-Dividend/1597584#:~:text=Of%20Rs.20.55%20per%20share,the%20approval%20of%20the%20shareholders."
+Link_5,"https://www.cnbctv18.com/market/earnings/asian-paints-amit-syngle-targets-modest-fy26-growth-banks-on-premium-focus-brand-strength-19602181.htm#:~:text=That%20gives%20us%20more%20muscle,100%25."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"May 2, 2025:Asian Paints stock closed at ₹2409.8, a fall of 0.66%.
+
+May 6, 2025:Asian Paints share price surged by 0.16% to ₹2398.75 per share.
+
+May 8, 2025:The Board of Directors of Asian Paints recommended a final dividend of ₹20.55 per share (2055%) for the financial year ended March 31, 2025, subject to shareholder approval.
+
+May 8, 2025:The stock experienced a -0.42% downturn, trading at ₹2302.35.
+
+May 9, 2025:CNBC TV18 reported a muted FY26 outlook for Asian Paints, but the company expected margin stability.
+
+Based on the provided information, here are the updates related to Asian Paints as on May 1, 2025 (and surrounding dates within May 2025):
+
+Note: Some search results included updates from other dates in 2025 and 2024, but this response focuses only on information as close as possible to the requested date of May 1, 2025."

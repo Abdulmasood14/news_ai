@@ -1,0 +1,33 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+DIVISLAB,6,1751,2025-08-21 21:26:50,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.moneycontrol.com/news/business/stocks/divis-laboratories-shares-fall-2-01-among-top-losers-on-nifty-next-50-alpha-article-13470824.html#:~:text=The%20Earnings%20Per%20Share%20(EPS)%20increased%20to%2082.53%20in%202025,indicating%20a%20debt%2Dfree%20status.&text=The%20total%20income%20for%20the,profit%20was%20Rs%202%2C191%20Crore.&text=The%20cash%20flow%20from%20operating,stood%20at%20Rs%2050%20Crore.&text=As%20of%20March%202025%2C%20the,liabilities%20of%20Rs%2016%2C932%20Crore."
+Link_2,https://finance.yahoo.com/news/divis-laboratories-ltd-bom-532488-150152132.html
+Link_3,"https://www.niftytrader.in/content/divis-labs-signs-long-term-deal-announces-%E2%82%B9700-crore-expansion-plan/#:~:text=Divi's%20Labs%20Signs%20Long%2DTerm,on%20mutually%20agreed%20commercial%20parameters."
+Link_4,"https://www.cnbctv18.com/business/companies/divis-labs-signs-long-term-supply-deal-with-global-pharma-major-19590879.htm#:~:text=Divi's%20Laboratories%20announced%20today%20that,Live%20on%2Dthe%2Dgo!"
+Link_5,"https://www.thehindu.com/business/divis-labs-inks-long-term-pact-with-global-pharma-firm-to-make-supply-advanced-intermediates/article69465352.ece#:~:text=Business-,Divi's%20Labs%20inks%20long%2Dterm%20pact%20with%20global%20pharma%20firm,Read%20Comments"
+Link_6,https://www.google.com/intl/en_us/googlefinance/disclaimer
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Revenue:Rs 9,360.00 Crore (up from Rs 7,845.00 Crore in 2024)
+
+Net Profit:Rs 2,191.00 Crore (up from Rs 1,600.00 Crore in 2024)
+
+Earnings Per Share (EPS):82.53 (up from 60.27 in 2024)
+
+On May 1, 2025, Divi's Laboratories Ltd. (DIVISLAB) saw its share price fluctuate within a relatively narrow range. There were no major announcements or events specific to Divi's Laboratories on this particular day that would have significantly impacted the stock. However, it's worth noting some key developments around this period:
+
+April 18, 2025: Divi's Labs announced it had entered into a long-term manufacturing and supply agreement with a global pharmaceutical company for advanced intermediates. The company also announced plans for capacity expansion at its manufacturing facilities, with an estimated investment between ₹650 crore and ₹700 crore, to be funded from internal accruals.
+
+May 19, 2025: Divi's Laboratories announced a final dividend of Rs 30 per share (1500%).
+
+May 20, 2025: Yahoo Finance reported on Divi's Laboratories' Q4 2025 earnings call, highlighting a strong financial performance and a long-term manufacturing and supply agreement for an advanced intermediate with a leading global pharmaceutical company. The company also noted the peptide business gaining significant traction.
+
+Key Financial Highlights (as of March 2025):
+
+Market Sentiment: Moneycontrol analysis indicated a very bearish sentiment on the stock as of August 20, 2025, with the stock price declining during that trading session.
+
+Please note: While the agreement announced on April 18, 2025, was a significant development, its financial impact was not expected to be immediate. Manufacturing operations under the agreement were slated to commence by January 2027."

@@ -1,0 +1,20 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+DALBHARAT,7,1337,2025-08-21 21:25:34,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,https://groww.in/blog/dalmia-bharat-q4-net-profit-rises-37-percent-despite-revenue-dip-announces-5-percent-dividend-eyes-expansion
+Link_2,https://www.dalmiabharat.com/press_release/dalmia-bharat-q4-results-profit-rises-37-to-rs-439-cr/
+Link_3,"https://simplywall.st/stocks/in/materials/nse-dalbharat/dalmia-bharat-shares/future#:~:text=Apr%2024-,Full%20year%202025%20earnings:%20EPS%20exceeds%20analyst%20expectations%20while%20revenues,Oct%2026"
+Link_4,"https://www.dalmiacement.com/media/press-release/dalmia-bharat-q4-results-profit-rises-37-to-rs-439-cr#:~:text=Dalmia%20Bharat%20Q4%20results:%20Profit%20rises%2037%25,EBITDA%20(Rs/T)%20926%20743%20PAT%20439%20320"
+Link_5,"https://www.indiainfoline.com/company/dalmia-bharat-ltd-historical-data#:~:text=Dalmia%20Bharat%20logs%2037%25%20growth%20in%20Q4,%E2%82%B94%2C091%20Crore%20as%20compared%20to%20%E2%82%B94%2C154%20Crore."
+Link_6,"https://www.tradingview.com/news/moneycontrol:3c1adf94e094b:0-dalmia-bharat-share-price-falls-4-26-among-top-losers-on-nifty-midcap-150/#:~:text=Dalmia%20Bharat%20has%20announced%20dividend%20details.%20A,sentiment%20in%20the%20Nifty%20Midcap%20150%20index."
+Link_7,"https://economictimes.indiatimes.com/dalmia-bharat-ltd/stocks/companyid-1846307.cms#:~:text=Intraday%20fact%20check,last%20traded%20price%20is%202%2C345.20"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"As of April 23, 2025, Dalmia Bharat released its Q4 FY25 financial results. The company reported a 37% year-on-year increase in net profit, reaching ₹439 crore. However, revenue from operations saw a 5% decline to ₹4,091 crore. Sales volume for the quarter decreased by 3% year-on-year, primarily due to ending JP tolling volumes, but the company noted improved sales quality from higher trade sales and premium product contributions. A final dividend of ₹5 per share (250%) for FY25 was recommended by the Board of Directors.
+
+Key financial figures from Q4 FY25 include a net profit of ₹439 crore (up 37% YoY), revenue of ₹4,091 crore (down 5% YoY), and EBITDA of ₹793 crore (up 21.3% YoY). Sales volume was 8.6 million tonnes, a 3% decrease from the previous year.
+
+Dalmia Bharat also announced significant capacity expansions, including commissioning 2.4 MnT in Lanka, Assam, and 0.5 MnT in Rohtas, Bihar, bringing the total installed capacity to 49.5 MnT. A strategic investment of approximately ₹3,520 crore is planned for further expansion, including new clinker and grinding units. The company also increased its renewable energy capacity by commissioning a 2.2 MW solar plant and adding 13 MW through Group Captive agreements, totaling 267 MW. Total operational renewable capacity is projected to reach 595 MW by the end of FY26."

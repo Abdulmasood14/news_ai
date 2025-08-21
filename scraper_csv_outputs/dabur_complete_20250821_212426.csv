@@ -1,0 +1,24 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+DABUR,7,1138,2025-08-21 21:24:26,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://siam.in/forecast2025/Dabur-India-Limited-(500096)-to-Launch-New-Product-Line#:~:text=for%20the%20City%22.-,Dabur%20India%20Limited%20(500096)%20to%20Launch%20New%20Product%20Line%20%E2%9C%8C%EF%B8%8F,that%20at%20around%205%20a.m."
+Link_2,"https://siam.in/forecast2025/Dabur-India-Limited-(500096)-to-Launch-New-Product-Line#:~:text=(0)-,Dabur%20India%20Limited%20(500096)%20to%20Launch%20New%20Product%20Line%20%2D,Description"
+Link_3,https://doonlawmentor.com/dabur-india-ltd-v-state-of-maharashtra-2025-bombay-hc-label-change-ordered-for-fake-claims/
+Link_4,"https://tta.in/tta-advised-dabur-india-limited-in-its-proposed-acquisition-of-sesa-care-private-limited-through-merger/#:~:text=TT&A%20advised%20Dabur%20India%20Limited%20(%E2%80%9CDabur%E2%80%9D)%20in%20its,of%20INR%20315%20%E2%80%93%20325%20crore."
+Link_5,"https://scanx.trade/stock-market-news/orders-deals/dabur-shares-worth-76-84-crore-traded-in-nse-block-deal/17213322#:~:text=Dabur%20India%20Foresees%20Gradual%20Recovery,UK%20Subsidiary%20Apr%2016%2C%202025"
+Link_6,"https://in.marketscreener.com/quote/stock/DABUR-INDIA-LIMITED-9058822/news/Dabur-India-Limited-Announces-Senior-Management-Changes-49563086/#:~:text=Dabur%20India%20Limited%20announced%20the,etc."
+Link_7,"http://citrusinteractive.in/News/OpenNewsContent.aspx?SecId=12&SubSecID=51&NewsID=1127340#:~:text=Citrus%20Interactive&text=Dabur%20India%20has%20entered%20into,largest%20FMCG%20Company%20in%20India."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"FSSAI Challenges ""100% Fruit Juice"" Claim:The Food Safety and Standards Authority of India (FSSAI) challenged Dabur's ""100% Fruit Juice"" claim in the Delhi High Court.
+
+Labeling Changes Ordered by Bombay High Court:Dabur was ordered by the Bombay High Court to remove certain terms, such as ""anti-inflammatory"" and ""anti-bacterial,"" from labels of some toothpastes by June 2025. Dabur voluntarily agreed to make these changes and was permitted to sell existing stock with the old labels until May 31, 2025. The court did not impose penalties, relying on Dabur's voluntary compliance.
+
+Potential New Product Launch:There were rumors of Dabur India Limited potentially launching a new product line.
+
+Potential Amalgamation with Sesa Care:Dabur India was considering a merger with Sesa Care, including its subsidiary in Bangladesh, to expand in the Ayurvedic hair oil market. This process was projected to take 15-18 months.
+
+Shift in Management:Mr. Sriram Padmanabhan was appointed as the new Head of Health Care Business, Senior Management, effective April 7, 2025, succeeding Philipe Joseph hlaydon, who was set to retire on July 1, 2025."

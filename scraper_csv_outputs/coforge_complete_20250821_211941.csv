@@ -1,0 +1,26 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+COFORGE,7,1158,2025-08-21 21:19:41,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.nseindia.com/get-quotes/equity?symbol=COFORGE#:~:text=05%2DMay%2D2025-,COFORGE%20LIMITED%20has%20informed%20the%20Exchange%20about%20Board%20Meeting%20to,2025%20to%20consider%20Stock%20split."
+Link_2,"https://www.nseindia.com/get-quotes/equity?symbol=COFORGE#:~:text=05%2DMay%2D2025-,To%20consider%20and%20approve%20the%20financial%20results%20for%20the%20period,2025%20to%20consider%20Stock%20split."
+Link_3,https://www.etnownews.com/markets/coforge-share-split-2025-record-date-fixed-for-1st-ever-stock-split-by-it-company-article-151581429
+Link_4,"https://www.etnownews.com/markets/coforge-share-split-2025-record-date-fixed-for-1st-ever-stock-split-by-it-company-article-151581429#:~:text=Coforge%20Stock%20Split%202025%20Record,said%20in%20an%20exchange%20filing."
+Link_5,"https://www.coforge.com/who-we-are/newsroom/press-release/coforge-closes-an-exceptional-fy25-with-32-cc-growth#:~:text=Forward%20Looking%20Statements%20Safe%20Harbor,%2C%20contain%20forward%2Dlooking%20statements."
+Link_6,"https://m.economictimes.com/markets/stocks/news/coforge-shares-climb-2-as-stock-trades-ex-split-for-the-first-time/articleshow/121614216.cms#:~:text=Coforge%20shares:%20The%20stock%20started,value%20of%20Rs%202%20each.&text=Shares%20of%20Coforge%20climbed%20as,will%20receive%20the%20subdivided%20shares.%22&text=Want%20In%2DDepth%20Report%20&%20Analysis,make%20smarter%20buy/sell%20decisions?&text=MCap%20(%E2%82%B9%20Cr.)"
+Link_7,"https://www.motilaloswal.com/news/stocks/91236#:~:text=Coforge%20Ltd.%20has%20set%20June,per%20share%20was%20also%20declared."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Board Meeting for Financial Results and Dividend:COFORGE informed the Exchange about a Board Meeting scheduled for May 5, 2025, to consider and approve the financial results for the period ended March 31, 2025, and to discuss dividend payouts.
+
+Declaration of Interim Dividend:Coforge announced an interim dividend of ₹19 per share of face value ₹10 each for the financial year 2024-25. The record date for determining the eligibility of shareholders for this dividend payout was fixed as May 12, 2025.
+
+Stock Split Announcement:Coforge also announced its first-ever stock split in a 1:5 ratio, meaning each equity share with a face value of ₹10 would be divided into five shares with a face value of ₹2 each. The record date for this stock split was set as June 4, 2025.
+
+COFORGE news and updates specifically on May 1, 2025
+
+On May 1, 2025, Coforge made several significant announcements:
+
+In summary , May 1, 2025, was a busy day for Coforge with announcements regarding a forthcoming board meeting for financial results and dividend considerations, the declaration of an interim dividend, and the significant news of the company's first-ever stock split."
