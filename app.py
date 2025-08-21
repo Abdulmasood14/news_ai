@@ -512,14 +512,12 @@ def show_company_details(processor):
     
     summary = data.get('summary', {})
     
-    col1, col2, col3, col4 = st.columns(4)
+    col1, col2, col3 = st.columns(3)
     with col1:
         st.metric("Status", str(summary.get('status', 'Unknown')))
     with col2:
         st.metric("Total Links", summary.get('total_links', len(data.get('links', []))))
     with col3:
-        st.metric("Text Length", f"{summary.get('text_length', len(str(data.get('text_content', '')))):,}")
-    with col4:
         st.metric("Extraction Date", str(summary.get('extraction_date', 'Unknown')))
     
     # Extracted Links Section
