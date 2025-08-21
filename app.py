@@ -618,13 +618,6 @@ def show_company_details(processor):
             else:
                 st.markdown(display_text)
         
-        # Text statistics
-        col1, col2 = st.columns(2)
-        with col1:
-            st.metric("Characters", len(text_content))
-        with col2:
-            st.metric("Words", len(text_content.split()))
-        
         # Download text content
         if st.button("Download Text Content"):
             st.download_button(
