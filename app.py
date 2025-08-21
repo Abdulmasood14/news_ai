@@ -17,31 +17,28 @@ st.set_page_config(
 st.markdown("""
 <style>
     .company-card {
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        border-radius: 10px;
-        padding: 20px;
-        margin: 10px;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #ff6b9d 100%);
+        border-radius: 25px;
         color: white;
         text-align: center;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        transition: transform 0.2s;
+        box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3);
+        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        min-height: 200px;
+        font-size: 26px;
+        font-weight: 700;
+        text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+        position: relative;
+        overflow: hidden;
+        padding: 60px 20px;
         cursor: pointer;
+        border: none;
+        margin: 10px 0;
     }
     
     .company-card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
-    }
-    
-    .card-title {
-        font-size: 24px;
-        font-weight: bold;
-        margin-bottom: 10px;
-    }
-    
-    .card-stats {
-        font-size: 14px;
-        opacity: 0.9;
+        transform: translateY(-15px) scale(1.03);
+        box-shadow: 0 25px 50px rgba(102, 126, 234, 0.4);
+        background: linear-gradient(135deg, #764ba2 0%, #667eea 50%, #ff6b9d 100%);
     }
     
     .main-header {
@@ -58,14 +55,6 @@ st.markdown("""
         margin-bottom: 15px;
     }
     
-    .metric-card {
-        background: #f0f2f6;
-        border-radius: 10px;
-        padding: 15px;
-        text-align: center;
-        margin: 5px;
-    }
-    
     .status-success {
         color: #28a745;
         font-weight: bold;
@@ -79,6 +68,21 @@ st.markdown("""
     .status-error {
         color: #dc3545;
         font-weight: bold;
+    }
+    
+    /* Hide Streamlit button styling */
+    div[data-testid="stButton"] > button {
+        background: none !important;
+        border: none !important;
+        padding: 0 !important;
+        color: inherit !important;
+        text-decoration: none !important;
+        cursor: pointer !important;
+        font-family: inherit !important;
+        font-size: inherit !important;
+        margin: 0 !important;
+        width: 100% !important;
+        height: auto !important;
     }
 </style>
 """, unsafe_allow_html=True)
@@ -358,65 +362,47 @@ def show_dashboard(processor):
             with cols[j]:
                 data = processor.get_company_data(company)
                 
-                # Create clickable card using button with custom styling
-                card_key = f"card_{company}_{i}_{j}"
-                
-                # Create the card as a button with only company name
+                # Create a simple button with the company name
                 if st.button(
-                    label=f"{company}",
-                    key=card_key,
+                    company,
+                    key=f"card_{company}_{i}_{j}",
                     help=f"Click to view details for {company}",
                     use_container_width=True
                 ):
                     st.session_state.selected_company = company
                     st.rerun()
-                
-                # Modern gradient card styling similar to the image
-                st.markdown(f"""
-                <style>
-                    div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"] {{
-                        background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #ff6b9d 100%);
-                        backdrop-filter: blur(10px);
-                        border: none;
-                        border-radius: 25px;
-                        color: #ffffff;
-                        text-align: center;
-                        box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3);
-                        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
-                        min-height: 200px;
-                        font-size: 26px;
-                        font-weight: 700;
-                        text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
-                        position: relative;
-                        overflow: hidden;
-                    }}
-                    
-                    div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"]:before {{
-                        content: '';
-                        position: absolute;
-                        top: 0;
-                        left: -100%;
-                        width: 100%;
-                        height: 100%;
-                        background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
-                        transition: left 0.5s;
-                    }}
-                    
-                    div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"]:hover {{
-                        transform: translateY(-15px) scale(1.03);
-                        box-shadow: 0 25px 50px rgba(102, 126, 234, 0.4);
-                        background: linear-gradient(135deg, #764ba2 0%, #667eea 50%, #ff6b9d 100%);
-                    }}
-                    
-                    div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"]:hover:before {{
-                        left: 100%;
-                    }}
-                    
-                    div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"]:active {{
-                        transform: translateY(-8px) scale(1.01);
-                    }}
-                </style>
-                """, unsafe_allow_html=True)
+
+# Add global CSS styling for all buttons to look like gradient cards
+st.markdown("""
+<style>
+    /* Style all Streamlit buttons to look like gradient cards */
+    div[data-testid="stButton"] > button[kind="primary"] {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 50%, #ff6b9d 100%) !important;
+        border: none !important;
+        border-radius: 25px !important;
+        color: white !important;
+        text-align: center !important;
+        box-shadow: 0 15px 35px rgba(102, 126, 234, 0.3) !important;
+        transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1) !important;
+        min-height: 200px !important;
+        font-size: 26px !important;
+        font-weight: 700 !important;
+        text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2) !important;
+        width: 100% !important;
+        margin: 10px 0 !important;
+    }
+    
+    div[data-testid="stButton"] > button[kind="primary"]:hover {
+        transform: translateY(-15px) scale(1.03) !important;
+        box-shadow: 0 25px 50px rgba(102, 126, 234, 0.4) !important;
+        background: linear-gradient(135deg, #764ba2 0%, #667eea 50%, #ff6b9d 100%) !important;
+    }
+    
+    div[data-testid="stButton"] > button[kind="primary"]:active {
+        transform: translateY(-8px) scale(1.01) !important;
+    }
+</style>
+""", unsafe_allow_html=True)
 
 def show_company_details(processor):
     """Display detailed view for selected company"""
