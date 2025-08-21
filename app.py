@@ -389,49 +389,42 @@ def show_dashboard(processor):
                 else:
                     last_modified_str = 'Unknown'
                 
-                # Create clickable card using Streamlit container
-                with st.container():
-                    # Make the entire card area clickable
-                    if st.button(
-                        f"""
-                        {company}
-                        
-                        Status: {status}
-                        Links: {len(data.get('links', []))}
-                        Text Length: {len(str(data.get('text_content', ''))):,} chars
-                        Updated: {last_modified_str}
-                        """, 
-                        key=f"card_{company}",
-                        help=f"Click to view {company} details",
-                        use_container_width=True
-                    ):
-                        st.session_state.selected_company = company
-                        st.rerun()
-                    
-                    # Apply custom styling to make it look like a card
-                    st.markdown(f"""
-                    <style>
-                    div[data-testid="stButton"] > button[kind="secondary"]:has-text("{company}") {{
+                # Create clickable card using button with custom styling
+                card_key = f"card_{company}_{i}_{j}"
+                
+                # Create the card as a button with full styling
+                if st.button(
+                    label=f"{company}\n\nStatus: {status}\nLinks: {len(data.get('links', []))}\nText Length: {len(str(data.get('text_content', ''))):,} chars\nUpdated: {last_modified_str}",
+                    key=card_key,
+                    help=f"Click to view details for {company}",
+                    use_container_width=True
+                ):
+                    st.session_state.selected_company = company
+                    st.rerun()
+                
+                # Style the button to look like a card using CSS injection
+                st.markdown(f"""
+                <style>
+                    div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"] {{
                         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-                        color: white;
-                        border: none;
                         border-radius: 10px;
-                        padding: 20px;
-                        text-align: left;
+                        color: white;
+                        text-align: center;
                         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
                         transition: transform 0.2s;
-                        font-size: 16px;
-                        line-height: 1.5;
-                        height: auto;
-                        min-height: 120px;
+                        border: none;
+                        min-height: 150px;
+                        font-size: 14px;
+                        line-height: 1.4;
+                        white-space: pre-line;
                     }}
                     
-                    div[data-testid="stButton"] > button[kind="secondary"]:has-text("{company}"):hover {{
+                    div[data-testid="stButton"] > button[kind="primary"][key="{card_key}"]:hover {{
                         transform: translateY(-5px);
                         box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
                     }}
-                    </style>
-                    """, unsafe_allow_html=True)
+                </style>
+                """, unsafe_allow_html=True)
 
 def show_company_details(processor):
     """Display detailed view for selected company"""
