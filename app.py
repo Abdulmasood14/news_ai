@@ -389,25 +389,49 @@ def show_dashboard(processor):
                 else:
                     last_modified_str = 'Unknown'
                 
-                # Create card
-                card_html = f"""
-                <div class="company-card">
-                    <div class="card-title">{company}</div>
-                    <div class="card-stats">
-                        <p>Status: <span class="{status_class}">{status}</span></p>
-                        <p>Links: {len(data.get('links', []))}</p>
-                        <p>Text Length: {len(str(data.get('text_content', ''))):,} chars</p>
-                        <p>Updated: {last_modified_str}</p>
-                    </div>
-                </div>
-                """
-                
-                st.markdown(card_html, unsafe_allow_html=True)
-                
-                # Button to view details
-                if st.button(f"View Details", key=f"btn_{company}"):
-                    st.session_state.selected_company = company
-                    st.rerun()
+                # Create clickable card using Streamlit container
+                with st.container():
+                    # Make the entire card area clickable
+                    if st.button(
+                        f"""
+                        {company}
+                        
+                        Status: {status}
+                        Links: {len(data.get('links', []))}
+                        Text Length: {len(str(data.get('text_content', ''))):,} chars
+                        Updated: {last_modified_str}
+                        """, 
+                        key=f"card_{company}",
+                        help=f"Click to view {company} details",
+                        use_container_width=True
+                    ):
+                        st.session_state.selected_company = company
+                        st.rerun()
+                    
+                    # Apply custom styling to make it look like a card
+                    st.markdown(f"""
+                    <style>
+                    div[data-testid="stButton"] > button[kind="secondary"]:has-text("{company}") {{
+                        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                        color: white;
+                        border: none;
+                        border-radius: 10px;
+                        padding: 20px;
+                        text-align: left;
+                        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                        transition: transform 0.2s;
+                        font-size: 16px;
+                        line-height: 1.5;
+                        height: auto;
+                        min-height: 120px;
+                    }}
+                    
+                    div[data-testid="stButton"] > button[kind="secondary"]:has-text("{company}"):hover {{
+                        transform: translateY(-5px);
+                        box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+                    }}
+                    </style>
+                    """, unsafe_allow_html=True)
 
 def show_company_details(processor):
     """Display detailed view for selected company"""
