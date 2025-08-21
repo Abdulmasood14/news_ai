@@ -1,0 +1,33 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+PRESTIGE,8,2689,2025-08-21 23:02:11,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.prestigeconstructions.com/news/2025/may#:~:text=Table_title:%202020%20Table_content:%20header:%20%7C%20S.No%20%7C,%7C%20Date:%2006%2D05%2D2025%20%7C%20Action:%20View%20%7C"
+Link_2,"https://www.prestigesevergreen.info/new-launch.html#:~:text=Key%20Details&text=Apartments%20at%20Prestige%20Evergreen%20start,early%20investors%20and%20home%20seekers."
+Link_3,"https://m.economictimes.com/industry/services/property-/-cstruction/prestige-group-aims-59-growth-in-fy26-sales-bookings-at-rs-27k-cr-on-strong-housing-demand/articleshow/121748003.cms#:~:text=According%20to%20its%20investors%20presentation,of%20properties%20across%20major%20states."
+Link_4,"https://www.prestigessuncrest.info/prestige-group-latest-news-2025.html#:~:text=Future%20Phase%20(Mayflower):%20Will,is%20Prestige's%20Ghaziabad%20township%20performing?"
+Link_5,https://hdfcsky.com/news/prestige-estates-profit-in-march-quarter-down-by-81-91-percent#:~:text=The%20company%20holds%20a%20DA1+%20%E2%80%9CExcellent%E2%80%9D%20developer%20grading%20and%20an%20ICRA%20A+%20%E2%80%9CStable%E2%80%9D%20rating.
+Link_6,"https://m.economictimes.com/industry/services/property-/-cstruction/prestige-group-targets-rs-3350-cr-revenue-from-new-housing-project-in-chennai/articleshow/122179318.cms#:~:text=The%20group%20has%20delivered%20302,new%20housing%20project%20in%20Chennai"
+Link_7,"https://www.hindustantimes.com/cities/mumbai-news/state-signs-mous-to-attract-over-42k-crore-investment-101755632058880.html#:~:text=Among%20the%20companies%20was%20the,in%20a%20post%20on%20X."
+Link_8,"https://www.angelone.in/news/share-market/prestige-estates-q4-sales-surge-48-to-7000-crore-fy25-bookings-down-19-due-to-approval-delays#:~:text=to%20Approval%20Delays-,Prestige%20Estates%20Q4%20Sales%20Surge%2048%25%20to%20%E2%82%B97%2C000%20Crore,19%25%20Due%20to%20Approval%20Delays&text=Prestige%20Estates'%20Q4%20sales%20rose,19%25%20due%20to%20approval%20delays."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Prestige Hospitality IPO:Prestige's hotel arm, Prestige Hospitality Ventures Ltd, filed a Draft Red Herring Prospectus (DRHP) with SEBI on April 24, 2025, to raise up to ₹2,700 crore through an IPO. This includes a ₹1,700 crore fresh issue and a ₹1,000 crore offer-for-sale. The funds raised will be used to pay down debt and finance new hotel developments.
+
+Entry into NCR and Ghaziabad Project:Prestige Group entered the Delhi-NCR residential market with a significant project in Ghaziabad. The company plans to invest ₹10,000 crore in a 62-acre township project there. They aim for a Gross Development Value (GDV) of ₹12,000 crore for the entire township. This move aims to bring integrated living (homes, retail, and green areas) to Ghaziabad under the Prestige banner for the first time.
+
+Upcoming Project Launches (FY26):Prestige plans to double its residential launches in the fiscal year 2026 (FY26), targeting cities like Bangalore, Mumbai, Hyderabad, and Delhi-NCR. They aim to launch as many as 25 residential projects with a developable area of 44.8 million sq ft and an estimated GDV of ₹42,120 crore.
+
+Strong Q4 FY25 Sales:The group reported robust sales in the fourth quarter of FY25, delivering 14 million sq ft of homes with a GDV of ₹16,133.8 crore. However, their annual sales bookings for FY25 decreased by 19% to ₹17,023 crore due to delays in regulatory approvals.
+
+Investment Plans in Maharashtra:Prestige Group signed MOUs to invest ₹12,500 crore in developing a data center, a global competency center (GCC), and a logistics center near Navi Mumbai. This plan also includes building residential and commercial facilities around these projects, creating 8,700 direct jobs.
+
+Q4 FY25 Financials (as of May 30, 2025):Prestige Estates Projects Ltd reported a significant decline in profit for Q4 FY25, with net profit down 81.91% YoY. Revenue also saw a decrease of 28.81% YoY. However, sales bookings in Q4 FY25 surged by 48% YoY to ₹6957.4 crore.
+
+Prestige Evergreen Launch (EOI stage):Prestige Evergreen, part of Prestige Raintree Park Phase 2 in Bangalore, opened for Expression of Interest (EOI) bookings in May 2025. This allows early buyers to potentially save up to 9% on the final price.
+
+Here's a summary of the latest news and updates related to the Prestige Group as of May 1, 2025:
+
+In summary, as of May 1, 2025, Prestige Group was actively pursuing an IPO for its hospitality venture, expanding into the NCR real estate market with a major project in Ghaziabad, and planning for a significant increase in residential project launches in the upcoming fiscal year, despite facing some setbacks in sales bookings in the previous year due to approval delays."

@@ -1,0 +1,31 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+JIOFIN,6,1078,2025-08-21 22:17:15,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.jfs.in/corporate-announcements/#:~:text=Update%20on%20Institutional%20Investors'%20Meeting%20%2D%20Citi's%202025%20Macro%20&%20Pan,March%2019%2C%202025"
+Link_2,"https://www.tickertape.in/stocks/jio-financial-services-JIO#:~:text=JIOFIN%20Stock%20Summary%20%C2%B7%20July%202025,the%20complexities%20of%20the%20market."
+Link_3,"https://www.livemint.com/market/stock-market-news/jio-financial-q1-results-profit-jumps-3-8-yoy-to-rs-325-crore-revenue-surges-47-11752753338749.html#:~:text=and%20cookie%20settings-,Jio%20Financial%20Q1%20Results:%20Profit%20jumps%203.8%25%20YoY%20to%20%E2%82%B9,325%20crore;%20revenue%20surges%2047%25"
+Link_4,"https://www.jfs.in/notices/#:~:text=Extract%20of%20Audited%20Financial%20Results,Aug%2009%2C%202024"
+Link_5,"https://www.business-standard.com/markets/prithvi-exchange-india-ltd-share-price-14864/announcements/bse-exchange-48264502#:~:text=Prithvi%20Exchange%20(India)%20Ltdhas%20informed%20BSE%20that,June%2030%202025%20and%20approval%20of%20ESOP."
+Link_6,"https://www.jiofinance.in/#:~:text=Jio%20Finance%20Platform%20and%20Service%20Limited%20(JFPSL),distributing%20various%20financial%20products%20and%20allied%20services."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"May 2025:Jio Blackrock Asset Management Private Limited received approval to start operations.
+
+May 23, 2025:Jio Financial Services announced SEBI's grant of a Certificate of Registration to Jio Blackrock Mutual Fund and provided prior intimation of an Analyst Meet at Citi's 2025 Macro & Pan-Asia Investor Conference.
+
+May 27, 2025:An update on the Institutional Investors' Meeting at Citi's 2025 Macro & Pan-Asia Investor Conference was provided.
+
+April 17, 2025:Jio Financial Services announced audited financial results for the financial year ended March 31, 2025, including a dividend update and Q4 results.
+
+April 18, 2025:Prior intimation of an Analyst Meet at Bank of America's 2025 India Conference was given.
+
+April 8, 2025:The outcome of a Board Meeting was announced.
+
+April 3, 2025:Jio Finance Limited, a subsidiary, announced its entry into Digital Loan Against Securities.
+
+March 2025:Jio Financial Services launched its New Fund Offering.
+
+Here are some key updates regarding Jio Financial Services (JIOFIN) from May 1, 2025, and relevant dates around that time:"

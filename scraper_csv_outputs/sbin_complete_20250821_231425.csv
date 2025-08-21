@@ -1,0 +1,44 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+SBIN,11,2525,2025-08-21 23:14:25,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.livemint.com/market/stock-market-news/sbi-sets-board-meeting-date-to-consider-raising-of-funds-q4-results-2025-details-here-11745984869944.html#:~:text=Vaamanaa%20Sethi,%22%E2%80%A6"
+Link_2,"https://scanx.trade/stock-market-news/stocks/sbi-card-announces-changes-to-reward-points-and-card-protection-benefits/17317036#:~:text=SBI%20Cards%20Unveils%20Bank%20of,Credit%20Card%20for%20Domestic%20Market&text=SBI%20Cards%20and%20Payment%20Services,exchanges%20on%20August%2018%2C%202025."
+Link_3,"https://www.angelone.in/news/market-updates/are-banks-and-stock-market-open-today-on-may-1-2025#:~:text=Home%20Page%20%E2%80%BA,to%2011:55%20pm)."
+Link_4,"https://www.scribd.com/document/883772193/Sbi-in-News-May-2025-Edition-Compiled-by-the-r-h-a#:~:text=SBI%20Signed%20MoU%20with%20LPAI,trillion%20by%202030."
+Link_5,https://www.pib.gov.in/PressReleseDetail.aspx?PRID=2158408
+Link_6,"https://zeenews.india.com/photos/business/7-banking-and-financial-rules-effective-from-today-1-may-2025-atm-fees-taxation-and-more-2893761#:~:text=Starting%20on%20May%201%2C%202025,3/7"
+Link_7,"https://www.enkash.com/resources/blog/enfin-your-fresh-source-to-fintech-updates-june-edition/#:~:text=Starting%20May%201%2C%202025%2C%20RBI's%20new%20ATM,highlight%20rising%20costs%20for%20frequent%20ATM%20usage."
+Link_8,https://www.angelone.in/news/economy/page/42
+Link_9,"https://www.nseindia.com/companies-listing/corporate-filings-announcements?symbol=SBIN&tabIndex=equity#:~:text=State%20Bank%20Of%20India%20has%20informed%20the,held%20on%20May%2003%2C%202025%20fund%20raising."
+Link_10,"https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2158408#:~:text=The%20Ministry%20of%20Home%20Affairs%20has%20formed,technologies%20and%20similar%20concerns%20against%20national%20security."
+Link_11,"https://www.pib.gov.in/PressReleasePage.aspx?PRID=2158408#:~:text=The%20Ministry%20of%20Home%20Affairs%20has%20formed,technologies%20and%20similar%20concerns%20against%20national%20security."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Market Holiday:Stock markets and banks in Maharashtra (where SBI is headquartered) wereclosedonMay 1, 2025, for Maharashtra Day and Labour Day. This means no trading of SBI shares occurred on this day.
+
+RBI Revised ATM Charges:The Reserve Bank of India's (RBI) revised framework for ATM transaction charges came into effect fromMay 1, 2025, impacting SBI customers as well. This involved changes in free transaction limits and charges for additional transactions.
+
+RRB Amalgamation:The fourth phase of Regional Rural Bank (RRB) amalgamation, based on the ""One State One RRB"" principle, was effective fromMay 1, 2025. This involved the amalgamation of 26 RRBs in 10 states and 1 Union Territory.
+
+Q4 FY25 Results Announcement:The SBI board was scheduled to meet onMay 3, 2025, to consider the financial results for the quarter and year ended March 31, 2025. The results and related announcements (like dividend declaration) were therefore madeafter May 1, 2025.
+
+Fundraising Proposal:The board was also scheduled to consider a proposal for raising equity in the new financial year 2025-26 (FY26) during the May 3rd meeting.
+
+SBI Card Co-branded Credit Card:SBI Cards and Payment Services Limited announced the launch of a new co-branded credit card with Bank of Maharashtra onAugust 18, 2025, which isafterthe date requested in the prompt. This aimed to enhance financial services for customers.
+
+Cybercrime Initiatives:The Ministry of Home Affairs' Cyber Multi Agency Centre (CyMAC) was formed onJanuary 22, 2025, to address cybersecurity threats, which isbeforethe date requested in the prompt. This highlights ongoing efforts to combat cybercrime.
+
+SBI-LPAI Partnership:SBI signed a Memorandum of Understanding (MoU) with the Land Ports Authority of India (LPAI) sometime inMay 2025to enhance banking services at land ports along India's borders. This aimed to increase annual border trade volumes.
+
+Based on available information as of May 1, 2025 , here's a summary of updates related to State Bank of India (SBI):
+
+1. Banking and Market Operations
+
+2. Financial Performance (Note: Q4 FY25 results were announced after May 1, 2025)
+
+3. Other Notable Updates
+
+Important Note: Some news and announcements regarding SBI's Q4 FY25 results, including dividend declaration and fundraising plans, were made after May 1, 2025 , specifically on May 3, 2025 . Therefore, the information available on May 1, 2025 , regarding these aspects would have been limited to the anticipation of the board meeting and potential announcements."

@@ -1,0 +1,26 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+POWERGRID,5,2479,2025-08-21 23:00:40,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.newsip.in/powergrid-approves-investment-for-three-major-projects#:~:text=By%20News%20IP,%2C%20by%20May%2024%2C%202026."
+Link_2,"https://m.economictimes.com/markets/stocks/earnings/power-grid-q4-results-cons-pat-falls-marginally-yoy-to-rs-4143-crore-revenue-up-2-5/articleshow/121272314.cms#:~:text=11%20PM%20IST-,Power%20Grid%20Corporation%20of%20India%20on%20Monday%20announced%20its%20Q4FY25,by%20the%20company%20in%20FY24."
+Link_3,"https://money.rediff.com/news/market/power-grid-q4-profit-flat-at-rs-4-143-cr-pti/27132820250519#:~:text=The%20consolidated%20net%20profit%20stood,of%20rediff.com%20India%20Limited."
+Link_4,"https://www.business-standard.com/markets/capital-market-news/power-grid-q4-pat-declines-to-rs-4-143-crore-in-fy25-125052000742_1.html#:~:text=Home%20/%20Markets%20/%20Capital%20Market%20News,Rs%2015%2C573.16%20crore%20in%20FY24."
+Link_5,"https://www.newsip.in/powergrid-corporation-of-india-limited-to-issue-rs-5000-crore-bonds#:~:text=New%20Delhi:Investment%20approval%20for,to%20be%20commissioned%20within%20%5B%E2%80%A6%5D"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Project Approvals:POWERGRID's 'Committee of Directors on Investment on Projects' approved investment for three major projects on May 1, 2025.
+
+Transmission System Strengthening for Bhadla/Bikaner Complex:This project, estimated to cost ₹212.81 crore, is aimed at facilitating the evacuation of power, particularly renewable energy, from the Bhadla/Bikaner complex. The commissioning is scheduled for within 18 months, by June 9, 2026.
+
+Eastern Region Expansion Scheme-43 (ERES-43):This project, with an estimated cost of ₹342.69 crore, will enhance transmission infrastructure in Eastern India. It is targeted for completion within 18 months, with a best-effort target of 15 months, by March 1, 2026.
+
+Eastern Region Expansion Scheme-44 (ERES-44):This project, also aimed at improving transmission capacity in the eastern region, has an estimated cost of ₹408.94 crore. It is scheduled for completion within 18 months, with a best-effort target of 15 months, by May 24, 2026.
+
+Financial Details:Although not directly announced on May 1, it's worth noting that the company's consolidated net profit marginally declined in Q4 FY25 (ending March 31, 2025) to ₹4,142.87 crore,according to Business Standard. For the entire FY25, the consolidated net profit also saw a marginal dip to ₹15,521.44 crore. The Board recommended a final dividend of ₹1.25 per equity share for FY25.
+
+Project Approvals:POWERGRID's 'Committee of Directors on Investment on Projects' approved investment for three major projects on May 1, 2025.Transmission System Strengthening for Bhadla/Bikaner Complex:This project, estimated to cost ₹212.81 crore, is aimed at facilitating the evacuation of power, particularly renewable energy, from the Bhadla/Bikaner complex. The commissioning is scheduled for within 18 months, by June 9, 2026.Eastern Region Expansion Scheme-43 (ERES-43):This project, with an estimated cost of ₹342.69 crore, will enhance transmission infrastructure in Eastern India. It is targeted for completion within 18 months, with a best-effort target of 15 months, by March 1, 2026.Eastern Region Expansion Scheme-44 (ERES-44):This project, also aimed at improving transmission capacity in the eastern region, has an estimated cost of ₹408.94 crore. It is scheduled for completion within 18 months, with a best-effort target of 15 months, by May 24, 2026.
+
+Based on the information available as of May 1, 2025, the key update regarding POWERGRID (Power Grid Corporation of India Limited) is:"

@@ -1,0 +1,28 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+UBL,3,928,2025-08-21 23:38:41,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.unitedbreweries.com/investors#:~:text=Corporate%20Presentations,2022"
+Link_2,"https://simplywall.st/stocks/in/food-beverage-tobacco/nse-ubl/united-breweries-shares/future#:~:text=United%20Breweries%20Limited%20Launches%20Amstel,Results%20on%20Feb%2013%2C%202025"
+Link_3,"https://simplywall.st/stocks/in/food-beverage-tobacco/nse-ubl/united-breweries-shares/news/united-breweries-full-year-2025-earnings-eps-misses-expectat#:~:text=Risk%20Analysis,you%20should%20be%20aware%20of."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"May 11, 2025:Simply Wall Street reportsthat UBL's full-year 2025 earnings per share missed analyst expectations.
+
+May 10, 2025:UBL announced board changes.
+
+May 9, 2025:UBL declared a dividend of ₹10.00.
+
+UBL is scheduled to hold its Annual General Meeting on August 7, 2025.
+
+Some confidence is lacking in United Breweries Limited's (NSE:UBL) P/S according to Simply Wall Street.
+
+UBL is expected to release its Q4 FY24-25 earnings results.
+
+May 8, 2025:UBL is scheduled to hold its Annual General Meeting on August 7, 2025.Some confidence is lacking in United Breweries Limited's (NSE:UBL) P/S according to Simply Wall Street.UBL is expected to release its Q4 FY24-25 earnings results.
+
+News and updates for United Breweries Limited (UBL) on or around May 1, 2025:
+
+Note: Information on the exact events of May 1, 2025 itself is limited. However, these results from around that period offer some insight into UBL's activities."

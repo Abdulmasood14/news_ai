@@ -1,0 +1,44 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+VMM,9,1564,2025-08-21 23:41:48,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,https://stockdiscovery.s3.amazonaws.com/india/company/58514/9769/ER-Mar25.pdf
+Link_2,"https://m.economictimes.com/markets/stocks/news/vishal-mega-mart-shares-may-rally-20-says-motilal-oswal-whats-driving-the-bullish-call/articleshow/122566257.cms#:~:text=Despite%20the%20stock%20having%20already,hit%20a%2052%2Dweek%20high?"
+Link_3,"https://www.tijorifinance.com/company/vishal-mega-mart-ltd/#:~:text=For%20Q1%202025%2C%20consolidated%20revenue,Summary"
+Link_4,https://bsmedia.business-standard.com/_media/bs/data/market-reports/equity-brokertips/2025-05/17461767390.58584100.pdf
+Link_5,"https://www.business-standard.com/topic/vishal-mega-mart#:~:text=The%20fire%20was%20reported%20at,be%20ascertained%20on%20the%20NSE."
+Link_6,"https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-long-term-from-bharti-airtel-to-bel-motilal-oswals-expert-suggests-10-shares-for-up-to-61-returns-11755229424247.html#:~:text=Vishal%20Mega%20Mart%20%7C%20LTP:%20%E2%82%B9,enhance%20profitability%2C%22%20said%20Poddar."
+Link_7,https://www.delistedstocks.in/shares/onix-renewables/
+Link_8,"https://www.msn.com/en-in/money/topstories/vishal-mega-mart-shares-53-upside-what-mofsl-s-bull-case-scenario-suggests/ar-AA1IGCQb?ocid=finance-verthp-feeds#:~:text=Additionally%2C%20Vishal%20Mega%20Mart%20is%20expected%20to,crore%2C%20respectively%2C%20over%20FY25%2D28%2C%20facilitating%20further%20expansion."
+Link_9,"https://upstox.com/news/market-news/stocks/vishal-mega-mart-q1-results-check-date-and-time-key-expectations-and-recent-developments-and-share-price-trend/article-179656/#:~:text=For%20FY25%2C%20the%20category%2Dwise%20revenue%20contribution%20was,contribution%20to%20revenue%20was%2073.1%25%20in%20FY25."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"VMM's revenue increased by 23.2% year-on-year (YoY), supported by new store openings and a Same Store Sales Growth (SSSG) of 13.4%.
+
+Apparel was the largest contributor to revenue at approximately 41%, while FMCG and general merchandise each contributed around 29%.
+
+Gross margin expanded by 182 basis points (bps) to 28.3%, partly due to apparel's increased revenue share.
+
+EBITDA margin also expanded by 191 bps YoY to 14.0%, primarily driven by the improved gross margin.
+
+VMM continued with its new store opening plans, supported by a strong category mix favoring apparel and a significant contribution from its own brands.
+
+A positive outlook for VMM was maintained, based on its growth trajectory, store expansion plans, category mix, and strong private label share.
+
+A ""Buy"" rating was maintained with a target price (TP) of INR 140.
+
+The company was expected to generate substantial operating and free cash flow over FY25–28 to support its expansion.
+
+Own brands contributed significantly to revenue, accounting for 73.1% in FY25.
+
+VMM expanded its quick commerce initiative to 656 stores across 429 cities, reaching 8.7 million registered users.
+
+A fire incident was reported at one of VMM's outlets.
+
+On May 1, 2025, Vishal Mega Mart (VMM) reported strong Q4FY25 results and positive financial performance, alongside expansion plans.
+
+Expansion and Future Outlook:
+
+In summary, as of May 1, 2025, Vishal Mega Mart demonstrated strong financial performance in Q4FY25 and outlined plans for continued growth through store expansion and digital initiatives."

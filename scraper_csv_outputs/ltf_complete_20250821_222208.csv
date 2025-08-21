@@ -1,0 +1,56 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+LTF,13,2290,2025-08-21 22:22:08,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://finance.yahoo.com/news/l-t-finance-ltd-bom-070032800.html#:~:text=Positive%20Points,shift%20towards%20lower%2Drisk%20customers."
+Link_2,https://www.ltfinance.com/news-room
+Link_3,https://www.ltfinance.com/docs/default-source/default-document-library/press-release/q4fy25-and-fy25-financial-results-press-release-financials.pdf
+Link_4,https://www.ltfinance.com/docs/default-source/default-document-library/press-release/q4fy25-and-fy25-financial-results-press-release-mainlines.pdf
+Link_5,"https://www.business-standard.com/markets/l-t-finance-ltd-share-price-41147/news#:~:text=L&T%20Finance%20Q4%20results:%20Profit,%22The%20..."
+Link_6,"https://www.business-standard.com/markets/news/l-t-finance-shares-plunge-8-post-q4-earnings-results-breakdown-here-125042800421_1.html#:~:text=The%20non%2Dbank%20lender%20reported,quarter%20of%20the%20previous%20year.&text=The%20lender%20intends%20to%20enter,profile%20at%20a%20favourable%20valuation."
+Link_7,https://taxpowergst.com/gstr-1-table-12-and-table-13-compliance/
+Link_8,"https://theprint.in/ani-press-releases/lt-finance-ltd-joins-the-partnership-for-carbon-accounting-financials-pcaf/2575488/#:~:text=This%20initiative%20reflects%20LTF's%20comprehensive,closely%20with%20global%20evolving%20standards."
+Link_9,https://www.rnm.in/alert/rnm-alert-may-2025.pdf
+Link_10,"https://www.etnownews.com/markets/lt-finance-dividend-cash-reward-announced-in-q4-results-2024-amount-quarterly-earnings-details-article-151495608#:~:text=%E2%80%8BL&T%20Finance%20Q4%20Results,quarter%20ended%20March%2031%2C%202025.&text=Board%20of%20directors%20of%20L&T,the%20financial%20year%202024%2D25.&text=The%20company%20has%20posted%20a,FY25%20against%20Rs%203322%20crore."
+Link_11,https://www.ltfinance.com/docs/default-source/investors/investor-presentation-q4fy25.pdf
+Link_12,https://investors.larsentoubro.com/pdf/2025/MDA%20Annexures/Overall%20Financial%20Review%202024-25.pdf
+Link_13,"https://visionias.in/current-affairs/upsc-daily-news-summary/article/2025-06-04/business-standard/economics-indian-economy/mfi-collection-efficiency-back-at-996-lt-finance-md-ceo-sudipta-roy#:~:text=Microfinance%20Sector%20Performance%20%0A%20%20%20%0A,a%20collection%20efficiency%20of%2099.6%25%2C%20excluding%20Karnataka."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Record High Profit:LTF achieved its highest-ever consolidated Profit After Tax (PAT) of ₹2,644 crore for FY25, a 14% year-on-year growth.
+
+Strong Q4FY25 Performance:The company reported a PAT of ₹636 crore for Q4FY25, up 15% year-on-year.
+
+Dividend Announcement:LTF declared a final dividend of ₹2.75 per equity share for FY25, the highest dividend declared by the company to date.
+
+Retail Book Growth:The retail loan book reached ₹95,180 crore, a 19% year-on-year increase, now constituting 97% of the total loan book.
+
+Retail Disbursements:Annual retail disbursements for FY25 were ₹60,040 crore, up 11% year-on-year.
+
+Key Business Segment Growth:Farmer Finance disbursements grew by 16% year-on-year, and Personal Loans by 42% year-on-year.
+
+Partnership for Carbon Accounting Financials (PCAF):LTF joined PCAF, demonstrating its commitment to measuring and disclosing financed emissions using the PCAF methodology.
+
+Acquisition of Gold Loan Business:LTF entered into an agreement with Paul Merchants Finance Private Limited to acquire their gold loan business, aiming to expand its secured loan portfolio.
+
+Digital Transformation:The company launched a new, customer-centric website as part of its digital transformation strategy.
+
+GSTR-1/1A Compliance:As of May 2025, the third phase of HSN code reporting in GSTR-1/1A was implemented, requiring taxpayers to select HSN codes from a dropdown list and introducing auto-populated item descriptions.
+
+GST Refund Process Changes:Key modifications to the GST refund application process were introduced for specific claim types, including export of services with tax payment and supplies to SEZ units/developers with tax payment.
+
+Strong Collection Efficiency:LTF maintained a high collection efficiency of 99.6% in Tamil Nadu.
+
+Project Cyclops Implementation:The AI-ML-based credit rating engine, Project Cyclops, was successfully implemented, reducing risk costs in the two-wheeler portfolio.
+
+L&T Finance Holdings Limited's (LTF) latest updates as of May 1, 2025, primarily revolve around its strong financial performance in Q4FY25 and FY25, strategic initiatives, and industry collaborations.
+
+Financial Performance and Achievements:
+
+Strategic Initiatives and Business Developments:
+
+Noteworthy Industry Updates:
+
+Operational Highlights:"

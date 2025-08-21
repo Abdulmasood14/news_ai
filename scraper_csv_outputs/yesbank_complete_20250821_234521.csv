@@ -1,0 +1,36 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+YESBANK,13,2013,2025-08-21 23:45:21,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.gripinvest.in/blog/yes-bank-share-price-crisis-analysis#:~:text=Yes%20Bank%20Shares-,1.,fixed%2Dincome%20options%20in%20India?"
+Link_2,"https://www.gripinvest.in/blog/yes-bank-share-price-crisis-analysis#:~:text=Yes%20Bank%20Shares-,1.,Investment"
+Link_3,"https://m.economictimes.com/wealth/save/atm-cash-withdrawal-charges-hiked-from-may-1-2025-check-latest-atm-charges-of-sbi-hdfc-bank-icici-bank-pnb-yes-bank/yes-bank-atm-charges-from-may-1-2025/slideshow/120841507.cms#:~:text=ICICI%20Bank%20has%20not%20yet,Open%20in%20App"
+Link_4,"https://m.economictimes.com/wealth/save/atm-cash-withdrawal-charges-hiked-from-may-1-2025-check-latest-atm-charges-of-sbi-hdfc-bank-icici-bank-pnb-yes-bank/yes-bank-atm-charges-from-may-1-2025/slideshow/120841507.cms#:~:text=Yes%20Bank%20ATM%20charges%20from,ETPrime"
+Link_5,"https://www.angelone.in/live-blog/yes-bank-ltd-02-may-2025-532648#:~:text=Yes%20Bank%20Ltd%20Stock%20Stagnates,2%2C%202025%203:30%20PM"
+Link_6,"https://www.angelone.in/live-blog/yes-bank-ltd-02-may-2025-532648#:~:text=Live%20Updates:%20Yes%20Bank%20Ltd,2%2C%202025%203:00%20PM"
+Link_7,"https://www.yesbank.in/about-us/investor-relations/corporate-announcement#:~:text=Investor%20presentation_%20details%20on%20%E2%80%9CSumitomo,shareholder%E2%80%9D%20May%2014%2C%202025."
+Link_8,"https://www.angelone.in/live-blog/yes-bank-ltd-05-may-2025-532648#:~:text=In%20a%20Strong%20Move%2C%20Yes,are%20closely%20watching%20this%20development."
+Link_9,"https://www.yesbank.in/about-us/investor-relations/compliance#:~:text=Reporting%20pursuant%20to%20the%20SEBI,as%20at%20September%2030%2C%202024"
+Link_10,"https://www.yesbank.in/content/published/api/v1.1/assets/CONT6FD26DD09CE3425D9C6DF58D7EA92AED/native/ybl_yes_bank_hy_isin_march31_2025_signed.pdf?download=false&channelToken=21f7ccfa2fc3401091938f541a6f8f2a#:~:text=Securities%20and%20Commercial%20Paper,Regulations%2C%202021%20is%20enclosed%20herewith."
+Link_11,"https://www.caalley.com/news-updates/indian-news/rbi-penalises-deutsche-bank-yes-bank-for-breaching-compliance-norms#:~:text=RBI-,RBI%20penalises%20Deutsche%20Bank%2C%20YES%20Bank%20for%20breaching%20compliance%20norms,annual%20financial%20statements%20for%20FY24."
+Link_12,"https://www.angelone.in/news/share-market/temporary-outage-yes-bank-digital-services-to-be-unavailable-for-6-hours-on-may-24#:~:text=by%20the%20maintenance.-,SMBC's%20Strategic%20Stake%20in%20Yes%20Bank%20Sparks%20Industry%20Debate,annual%20profits%20near%20$5%20billion."
+Link_13,"https://www.thehindu.com/business/Industry/yes-bank-board-approves-raising-16000-crore-via-mix-of-equity-debt/article69655609.ece#:~:text=India:%20Fitch%20Ratings-,The%20board%20also%20gave%20its%20nod%20to%20raising%20funds%20by,and%20a%20strong%20global%20presence."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"ATM Cash Withdrawal Charges:The Reserve Bank of India (RBI) has hiked ATM cash withdrawal charges effective May 1, 2025. Yes Bank's ATM charges will be ₹23 per financial transaction and ₹10 per non-financial transaction after the first 5 free monthly transactions.
+
+Fundraising and Shareholding:While not specifically on May 1st, news in early May revealed that Yes Bank had approved a plan to raise up to ₹16,000 crore via a mix of equity and debt, potentially involving dilution of shares by SBI and other lenders in favor of Sumitomo Mitsui Banking Corporation (SMBC). SMBC was reportedly looking to acquire a 20% stake in Yes Bank.
+
+Stock Performance:Yes Bank's stock exhibited some fluctuations around May 1st. On May 2nd, the stock saw a slight increase of 0.06% before stagnating at ₹17.70 later the same day. On May 5th, the stock saw a jump of 0.17%.
+
+Regulatory Filings:Regulatory filings related to debt securities and ISINs for the half-year ending March 31, 2025, were submitted in early April 2025.
+
+Analyst Outlook:Analyst predictions around this time indicated a potential downside for Yes Bank's stock price, citing low Return on Equity (ROE) and governance risks, despite some hope from potential investment and profit growth.
+
+Regulatory Penalty:It's important to note that a few weeks later, on May 16th, the RBI imposed a penalty of ₹29.6 lakh on Yes Bank for non-compliance with directions on financial statements and disclosure of customer complaints.
+
+Based on the provided information, here's a summary of the latest news and updates regarding Yes Bank as on May 1, 2025:
+
+Important Note: This information is accurate to the best of my ability based on the provided search results and limited to the specified date of May 1, 2025 (or immediately surrounding days where relevant and available). The actual situation of the company may have evolved since then. It is recommended to consult the company's official sources and financial news for the latest and most comprehensive information."

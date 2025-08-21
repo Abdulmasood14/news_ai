@@ -1,0 +1,30 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+SAIL,7,1313,2025-08-21 23:15:05,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,https://www.sail.co.in/en/press-release
+Link_2,"https://www.sail.co.in/en/press-release#:~:text=SAIL/PR/30/2025,Know%20More%20%E2%86%97"
+Link_3,"https://economictimes.indiatimes.com/steel-authority-of-india-sail-ltd/stocksupdate/companyid-11974.cms#:~:text=Nuvama%20downgraded%20SAIL%20to%20'Hold,Integrated%20Filing%20%2D%20Financial"
+Link_4,"https://projxnews.com/industrial/burnpurs-future-mecon-extends-epc-bid-for-key-sail-isp-expansion#:~:text=Burnpur's%20Future:%20MECON%20Extends%20EPC%20Bid%20for%20Key%20SAIL%2DISP%20Expansion&text=MECON%20has%20announced%20a%20third,News%20by%20Rahul%20Yelligetti."
+Link_5,"https://trendlyne.com/latest-news/1165/SAIL/steel-authority-of-india-sail-ltd/?page=6#:~:text=SAIL%20looks%20at%20ways%20to,the%20target%20price%20to%20130."
+Link_6,"https://www.goodreturns.in/news/sail-to-release-q4fy25-results-final-dividend-on-may-28-why-technical-setup-is-screaming-to-buy-n-1431551.html#:~:text=%22Pursuant%20to%20SEBI%20(Prohibition%20of,author%2C%20nor%20Greynium%20Information%20Technologies."
+Link_7,"https://timesofindia.indiatimes.com/business/india-business/sail-looks-to-spend-rs-7500-cr-as-capex-in-fy26-to-expand-plant-capacities/articleshow/123019265.cms#:~:text=SAIL%2C%20India's%20largest%20public%20sector,by%20end%20of%20the%20fiscal."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"May 2, 2025:Dr. Ashok Kumar Panda assumes the role of Director (Finance) at SAIL.
+
+Q4 FY25 Results:SAIL's Board meeting to consider and approve the audited financial results for the quarter and year ended March 31, 2025, and recommend a final dividend, is scheduled for May 28, 2025.
+
+Expansion Plans and Capex:SAIL plans to invest ₹7,500 crore as capital expenditure in FY26 to expand capacities across its plants, with the goal of reaching a total capacity of 35 million tonnes (MnT) by 2030,according to The Economic Times.
+
+Analyst and Investor Meet:SAIL is scheduled to hold an Analyst and Institutional Investor Meet (Group Meet) on May 29, 2025, to discuss the financial results for the quarter ended March 31, 2025.
+
+Capacity Expansion at IISCO Steel Plant (ISP):The deadline for tender submission for the selection of an EPC contractor for the SAIL-ISP project in Burnpur has been extended to May 29, 2025.
+
+Debt Reduction Efforts:SAIL is focused on reducing its debt to ₹30,000 crore in FY25 to free up cash for its expansion plans, according to Amarendu Prakash, Chairman and Managing Director, SAIL.
+
+Latest news and updates for Steel Authority of India Limited (SAIL) as of May 1, 2025:
+
+Additional information relevant to SAIL around May 1, 2025 (but not strictly as of that specific date) includes:"

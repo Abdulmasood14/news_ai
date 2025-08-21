@@ -1,0 +1,49 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+STARHEALTH,2,1826,2025-08-21 23:13:35,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://finance.yahoo.com/news/star-health-allied-insurance-co-070045098.html#:~:text=For%20the%20complete%20transcript%20of,the%20full%20earnings%20call%20transcript."
+Link_2,"https://finance.yahoo.com/news/star-health-allied-insurance-co-070045098.html#:~:text=Star%20Health%20and%20Allied%20Insurance%20Co%20Ltd%20(BOM:543412)%20Q4%202025%20Earnings%20Call%20Highlights:&text=Market%20Share:%2033%25%20in%20the%20retail%20health,Growth:%20Expanded%20by%2012%25%20to%20INR47%2C000%20crores."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Market Share:The company holds a 33% share in the retail health insurance segment.
+
+Retail Health Insurance Growth:This segment expanded by 12%, reaching INR 47,000 crores.
+
+Overall Gross Written Premium (GWP) Growth:Star Health saw a 15% increase in overall GWP for FY25.
+
+Fresh Retail GWP Growth:Fresh business grew significantly by 71%.
+
+Claim Ratio:The claim ratio stood at 70.3% for FY25.
+
+Loss Ratio in Group Segment:This ratio increased to 89.8% from 77.3% in the previous year.
+
+Combined Ratio:The combined ratio was 101.1% in FY25, compared to 97.3% in FY24.
+
+Investment Income:The company's investment income reached INR 1,260 crore in FY25, up from INR 1,171 crore in FY24.
+
+Profit Before Tax (PBT):PBT was INR 1,054 crore in FY25 versus INR 1,480 crore in FY24.
+
+Net Profit (PAT):Net profit was INR 787 crore in FY25, compared to INR 1,103 crore in FY24.
+
+Solvency Ratio:The solvency ratio as of March 31, 2025, was 2.21 times.
+
+Agent Network Expansion:Star Health added 74,000 new agents, bringing the total to INR 7.75 lakhs.
+
+Expense Ratio:The expense ratio was 30.4% in FY25, slightly down from 30.7% in FY24.
+
+Claims Net Promoter Score (NPS):The claims NPS improved to 55 in FY25 from 47 in FY24.
+
+Cashless Claims:96% of cashless claims were processed in under 3 hours in FY25.
+
+Claim Rejection Rate:The claim rejection rate decreased to 10% in FY25 from 13% in FY24.
+
+Star Health news and updates as of May 1, 2025
+
+On May 1, 2025, Star Health and Allied Insurance Company Ltd (BOM:543412) announced highlights from its Q4 2025 earnings call.
+
+Key highlights from the earnings call:
+
+This information reflects the financial performance and key operational metrics for Star Health as of May 1, 2025. It suggests a focus on expanding its market share, improving efficiency, and enhancing customer satisfaction."

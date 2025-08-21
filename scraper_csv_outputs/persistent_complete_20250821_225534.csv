@@ -1,0 +1,34 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+PERSISTENT,7,2042,2025-08-21 22:55:34,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.persistent.com/media/press-releases/persistent-wins-2025-google-cloud-infrastructure-modernization-partner-of-the-year-award-for-asia-pacific/#:~:text=News%20Summary,businesses%20across%20India's%20digital%20economy."
+Link_2,"https://www.angelone.in/live-blog/persistent-systems-ltd-12-may-2025-533179#:~:text=Today's%20Trading%20Session:%20Persistent%20Systems,12%2C%202025%201:45%20PM"
+Link_3,"https://www.business-standard.com/markets/capital-market-news/persistent-systems-wins-2025-google-cloud-infrastructure-modernization-partner-of-the-year-award-for-asia-pacific-125040900639_1.html#:~:text=for%20Asia%20Pacific-,Persistent%20Systems%20wins%202025%20Google%20Cloud%20Infrastructure%20Modernization%20Partner,Year%20Award%20for%20Asia%20Pacific&text=Persistent%20Systems%20announced%20today%20that,analytics%20to%20accelerate%20business%20growth."
+Link_4,"https://analyticsindiamag.com/ai-news-updates/persistent-systems-to-acquire-new-jersey-based-starfish-associates/#:~:text=Persistent%20Systems%2C%20a%20global%20pioneer,including%20many%20Fortune%20500%20companies."
+Link_5,"https://economictimes.indiatimes.com/persistent-systems-ltd/stocksupdate/companyid-21519.cms#:~:text=Persistent%20Systems'%20shares%20declined%20following,with%20some%20reducing%20earnings%20estimates."
+Link_6,"https://www.moneycontrol.com/news/tags/persistent-systems.html#:~:text=ICICI%20Securities%20recommended%20reduce%20rating,report%20dated%20April%2024%2C%202025."
+Link_7,"https://www.moneycontrol.com/technology/persistent-systems-to-acquire-us-based-starfish-associates-for-20-7-million-article-12761234.html#:~:text=There%20will%20also%20be%20a,Story%20continues%20below%20Advertisement"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Positive Market Sentiment:Persistent Systems' stock is experiencing increased investor interest. Shares rose by 0.36%, trading at ₹5,853.50.
+
+Analyst Recommendations:Analyst recommendations for Persistent Systems are mixed.
+
+ICICI Securities and Emkay Global Financial recommend a ""reduce"" rating with target prices of Rs 4550 and Rs 5000, respectively (reports dated April 25, 2025).
+
+Prabhudas Lilladher has a ""buy"" rating with a target price of Rs 5910 (report dated April 24, 2025).
+
+Board Meeting Scheduled:The Board of Directors of Persistent Systems will meet on July 23, 2025, to consider and approve the issuance of equity shares to the PSPL ESOP Management Trust.
+
+Google Cloud Recognition:Persistent Systems received the 2025 Google Cloud Infrastructure Modernization Partner of the Year Award for Asia Pacific,according to Business Standardand thePersistent Systems website. This recognition highlights the company's success in helping businesses migrate and optimize their operations on Google Cloud through large-scale migrations and cloud-native solutions.
+
+Acquisition News (Prior to May 1st):Persistent Systems had previously announced plans to acquire New Jersey-based Starfish Associates for around $20.7 million,according to MoneycontrolandAnalytics India Magazine, to bolster its capabilities in the Contact Centre and Unified Communications space and enhance its AI-driven business transformation offerings.
+
+Analyst Recommendations:Analyst recommendations for Persistent Systems are mixed.ICICI Securities and Emkay Global Financial recommend a ""reduce"" rating with target prices of Rs 4550 and Rs 5000, respectively (reports dated April 25, 2025).Prabhudas Lilladher has a ""buy"" rating with a target price of Rs 5910 (report dated April 24, 2025).
+
+Based on the provided information, here are the news and updates related to Persistent Systems as of May 1, 2025:
+
+Note: The information provided reflects a snapshot as of May 1, 2025, based on the search results. Further developments may have occurred since that date."

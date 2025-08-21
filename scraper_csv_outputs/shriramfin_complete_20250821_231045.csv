@@ -1,0 +1,38 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+SHRIRAMFIN,7,2039,2025-08-21 23:10:45,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,https://hemadmin.hemsecurities.com/images/Files/MarketOutlook/7325.pdf
+Link_2,https://www.msei.in/SX-Content/Circulars/2025/April/Circular-17111.pdf
+Link_3,https://master-trust-strapi.s3.ap-south-1.amazonaws.com/Daily_Market_Update_On_30_April_2025_cd0e60f91c.pdf
+Link_4,https://www.nseindia.com/bengali/?symbol=PRAXIS
+Link_5,https://www.nseindia.com/punjabi/?seqId=6362
+Link_6,"https://groww.in/blog/sebi-mandates-fixed-expiry-days-for-f-and-o-nse-and-bse-to-file-choices#:~:text=The%20Securities%20and%20Exchange%20Board%20of%20India,calendar%20of%20futures%20and%20options%20(F&O)%20contracts."
+Link_7,"https://www.business-standard.com/article/markets/sebi-issues-circular-on-extended-trading-hours-109102300173_1.html#:~:text=The%20Securities%20and%20Exchange%20Board%20of%20India,hours%20for%20both%20cash%20and%20derivaties%20segment."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Indian equity benchmarks closed positively, with key indices showing gains in three out of four trading sessions during the week.
+
+The S&P BSE Sensex rose by 1.63% to settle at 80,501.99, and the CNX Nifty was up by 1.28%, closing at 24,346.70.
+
+Mid-cap stocks also saw positive movement, while small-cap stocks experienced a slight decline.
+
+A consolidated circular regarding equity derivatives was issued by the Metropolitan Stock Exchange of India Limited (MSE) on April 30, 2025.
+
+This circular references a SEBI circular from April 20, 2023, and provides a single document outlining regulations, policies, and operational functionalities for trading in the Equity Derivatives Segment.
+
+The circular covers various aspects, including product descriptions for stock futures, contract trading cycles, trading hours, expiry details, and other important aspects related to trading and surveillance in the Futures and Options (F&O) segment.
+
+Daily market updates from April 30, 2025, and May 3, 2025, indicate ex-dates for various corporate actions, which might be relevant to Shriram Finance Ltd. if any such actions were scheduled around that time.
+
+Market turnover data from theNSEon April 30, 2025, and May 1, 2025, shows no activity for equities or other segments, suggesting a potential holiday or low trading volume.
+
+There were no specific announcements or updates for Shriram Finance Ltd. on May 1, 2025, based on the provided search results. However, there are some documents available from April 30th and May 3rd, 2025, that offer insights into the broader market context and regulatory landscape relevant to the company.
+
+Market Performance (Week ending May 2, 2025)
+
+Other Relevant Information
+
+Note: While these documents provide context about the market and regulatory environment, they don't contain specific news or updates directly related to Shriram Finance Ltd. on May 1, 2025. It's important to consult official company announcements and reliable financial news sources for the most accurate and up-to-date information."

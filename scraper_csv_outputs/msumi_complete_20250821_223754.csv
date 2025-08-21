@@ -1,0 +1,21 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+MSUMI,10,840,2025-08-21 22:37:54,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.livemint.com/market/stock-market-news/motherson-sumi-wiring-share-price-gains-4-on-record-date-for-bonus-share-issue-11752816381972.html#:~:text=The%20Board%20of%20Directors%20of,the%20fiscal%20year%202024%2D25."
+Link_2,"https://www.samco.in/knowledge-center/articles/motherson-sumi-wiring-india-share-price-gains-despite-market-crash/#:~:text=Summary,trends%20in%20the%20coming%20weeks."
+Link_3,"https://www.tradingview.com/news/moneycontrol:3162aac67094b:0-motherson-sumi-wiring-stock-jumps-6-2-on-tuesday-among-top-gainers-on-nifty-midcap-150/#:~:text=Regarding%20the%20company's%20financial%20performance,liabilities%20to%20Rs%203%2C728%20Crore."
+Link_4,"https://www.samco.in/knowledge-center/articles/motherson-sumi-wiring-india-share-price-gains-despite-market-crash/#:~:text=26%25%20rise%20in%20May%202025,Motherson%20Sumi%20Wiring%20India%20Limited"
+Link_5,"https://www.tradingview.com/news/moneycontrol:3162aac67094b:0-motherson-sumi-wiring-stock-jumps-6-2-on-tuesday-among-top-gainers-on-nifty-midcap-150/#:~:text=The%20price%2Dto%2Dearnings%20(,its%20price%20at%20Rs%2041.89."
+Link_6,"https://www.angelone.in/news/market-updates/samvardhana-motherson-shares-in-focus-announces-1-2-bonus-issue-and-final-dividend#:~:text=Msumi%20Bonus%20and%20Dividend%20Details,dividend%20is%20June%2023%2C%202025."
+Link_7,https://www.mswil.motherson.com/storage/Financial-Results/2024-25/Q4/MSWIL-Press-Release-on-Q4FY25.pdf
+Link_8,"https://www.angelone.in/news/share-market/motherson-sumi-wiring-to-issue-1-2-bonus-shares-record-date-set-for-july-18-2025#:~:text=These%20plants%20will%20support%20new,for%20premium%20features%20in%20automobiles."
+Link_9,"https://www.angelone.in/news/share-market/motherson-sumi-wiring-bonus-shares-record-date-is-today-july-18#:~:text=Record%20Date%20Set%20for%20Bonus,its%20commitment%20to%20rewarding%20shareholders."
+Link_10,https://www.angelone.in/news/share-market/motherson-sumi-wiring-bonus-issue-fixed-july-18-as-record-date
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Motherson Sumi Wiring India Ltd. (MSUMI) witnessed a 26% rise in its share price during May 2025. This surge contributed to a notable recovery from a 37% drop experienced between June 2024 and February 2025.
+
+In other news from May 2025, the company's board recommended a final dividend of ₹0.35 per share on May 9, 2025, supplementing the interim dividend of ₹0.50 for FY 2024-25. This dividend was contingent on shareholder approval at the AGM in August 2025, with a record date of June 23, 2025. Also on May 9, 2025, Motherson Sumi Wiring India Ltd. released its Q4 FY25 and full-year results, reporting record revenue and EBITDA with YoY revenue growth of 7.1% for Q4 and 8.8% for the full year. The company also announced a bonus issue of 1 equity share for every 2 existing shares on May 29, 2025, with a record date of July 18, 2025."

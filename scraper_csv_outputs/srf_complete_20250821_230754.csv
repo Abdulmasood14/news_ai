@@ -1,0 +1,27 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+SRF,6,1176,2025-08-21 23:07:54,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://scanx.trade/stock-market-news/orders-deals/srf-ltd-inks-strategic-partnership-with-chemours-for-advanced-fluoropolymer-production/17203409#:~:text=Surpasses%20Q4%20Expectations%2C%20Brokerages%20Raise,Gas%20Project%20Feb%2021%2C%202025"
+Link_2,"https://trendlyne.com/latest-news/1283/SRF/srf-ltd/?page=6&qstime=1753498544#:~:text=Company%20Update-,SRF%20Ltd%20%2D%20503806%20%2D%20Announcement%20under%20Regulation%2030%20(LODR,)%2DAnalyst%20/%20Investor%20Meet%20%2D%20Intimation&text=In%20compliance%20with%20the%20Regulation,be%20hosted%20by%20Axis%20Capital.&text=SRF%20Ltd.,-05%20May%202025"
+Link_3,"https://www.livemint.com/market/stock-market-news/srf-q4-results-net-profit-jumps-24-5-to-rs-526-crore-revenue-rises-21-yoy-11747038223236.html#:~:text=Pranati%20Deva,in%20the%20year%2Dago%20period."
+Link_4,"https://scanx.trade/stock-market-news/stocks/srf-sets-ambitious-roce-targets-for-chemicals-and-packaging-films-segments/14960017#:~:text=83%25-,SRF,SRF%20Ltd."
+Link_5,"https://m.economictimes.com/industry/indl-goods/svs/chem-/-fertilisers/srf-ltd-to-invest-nearly-rs-750-cr-to-set-up-agro-chemical-bopp-film-plants/articleshow/122900261.cms#:~:text=SRF%20Ltd%20is%20expanding%20its,film%20line%20and%20a%20metalliser."
+Link_6,"https://www.srf.com/latest-news/#:~:text=Latest%20News%20%7C%20SRF,Jan%2029%2C%202025"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Q4FY25 Financial Results:A Board meeting was scheduled for May 12, 2025, to consider and approve the audited financial results for the quarter and year ended March 31, 2025.
+
+Expansion Plans:The company is implementing an investment plan of approximately Rs. 750 crore (around $90.5 million) for setting up an agro-chemical plant in Dahej, Gujarat and a BOPP film manufacturing facility in Indore,according to The Economic Times.
+
+Agrochemical Facility Commissioned:SRF Limited completed the ₹239 Crore Agrochemical Facility in Dahej on April 10, 2025.
+
+Competition and Growth:The company faces competition from China amidst its ambitious growth plans.
+
+Belting Fabric Expansion Project Commissioned:SRF Limited successfully completed the ₹178 Crore Belting Fabric Expansion Project on March 31, 2025.
+
+Information available suggests the latest news and updates regarding SRF Ltd. (a chemical-based multi-business entity) as on May 1, 2025, primarily revolves around the upcoming announcement of its financial results.
+
+Note: Further updates regarding the Q4FY25 financial results would have been announced later in May, following the board meeting scheduled for May 12, 2025."

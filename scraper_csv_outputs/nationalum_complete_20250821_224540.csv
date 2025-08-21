@@ -1,0 +1,55 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+NATIONALUM,10,3304,2025-08-21 22:45:40,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.thehindu.com/incoming/nalco-eyeing-at-maharatna-tag-by-increasing-production-via-expansions/article69952257.ece#:~:text=Mr.%20Singh%20said%20the%20company,%2C%E2%80%9D%20the%20NALCO%20CMD%20said."
+Link_2,"https://www.thehindu.com/incoming/nalco-eyeing-at-maharatna-tag-by-increasing-production-via-expansions/article69952257.ece#:~:text=NALCO%2C%20India's%20leading%20producer%20and,%2C%E2%80%9D%20the%20NALCO%20CMD%20said."
+Link_3,"https://www.alcircle.com/news/nalco-ramps-up-expansions-in-production-to-fast-track-maharatna-status-115149#:~:text=On%20the%20sales%20side%2C%20alumina,scaling%20up%20its%20production%20targets."
+Link_4,https://nalcoindia.com/wp-content/uploads/2025/05/LetterPressRelease-1.pdf
+Link_5,https://images.assettype.com/bloombergquint/2025-05-23/utdhcggf/ICICI_Securities_NALCO_Q4FY25_Results_May25.pdf
+Link_6,"https://nalcoindia.com/company/about-us/#:~:text=Production%20&%20Financial%20Highlights,%2Don%2Dyear%20growth)."
+Link_7,https://scanx.trade/stock-market-news/corporate-actions/national-aluminium-co-unveils-ambitious-expansion-plans-including-foray-into-aluminum-foil-segment/16430102
+Link_8,"https://m.economictimes.com/industry/indl-goods/svs/metals-mining/us-tariff-will-have-no-impact-on-nalco-company-eyeing-uk-market-cmd/articleshow/123388316.cms#:~:text=Rather%2C%20we%20are%20exploring%20the,captive%20power%20plant%20at%20Angul."
+Link_9,https://www.tijorifinance.com/company/national-aluminium-company-limited/
+Link_10,https://www.google.com/intl/en_us/googlefinance/disclaimer
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Strong Profitability:NALCO achieved its highest-ever net profit of ₹5,325 crore in FY 2024-25, a 158% year-on-year increase. This was supported by the highest-ever revenue from operations of ₹16,788 crore, a 28% year-on-year growth.
+
+Q1 2025-26 Performance:The company continued its strong performance into the first quarter of FY 2025-26, reporting a 77% rise in net profit to ₹1,064 crore compared to ₹601 crore in the corresponding period of the previous year.
+
+Production Expansion:NALCO was actively pursuing expansion projects to increase its production capacity and achieve the ""Maharatna"" status.
+
+Smelter Capacity:The company planned to increase its smelter capacity by 0.5 million tonnes per annum and add 1080 MW of power generation capacity, with investments of ₹17,163 crore and ₹12,000 crore respectively.
+
+Pottangi Bauxite Mines:NALCO aimed to start operations at its Pottangi bauxite mines by June of the following year. This mine has a production capacity of 3.5 million tonnes per annum and estimated reserves of 111 million tonnes. The company planned to invest ₹1,961 crore in this project.
+
+Refinery Expansion:The 5th stream expansion of the Alumina refinery was underway.
+
+Focus on Efficiency and Cost Optimization:NALCO emphasized enhancing efficiency and optimizing costs to maintain competitive pricing.
+
+Technological Advancement:The company planned to integrate artificial intelligence into various processes to reduce reliance on manpower.
+
+Product Diversification:NALCO aimed to diversify its product range.
+
+Environmental Responsibility:NALCO implemented eco-friendly bauxite transport systems and achieved 98% blast-free mining. The company also received a 5-Star Rating for its C&N block and South block bauxite mines. Furthermore, NALCO expanded its green initiatives by planting 174,369 trees in FY25 (a 19% increase year-on-year) and rehabilitating 15.7 hectares of mined-out areas with plantations. The company operates 198 MW of wind power capacity and 1020 kWp of rooftop solar, with further expansions planned.
+
+Rising Aluminium Demand:The demand for aluminium in India was projected to grow at 1.5 times the GDP rate, reaching 7 to 8 million tonnes annually by 2030, driven by infrastructure development, power network expansion, and the transportation sector.
+
+Strong Domestic Sales:NALCO recorded its highest-ever Q1 domestic sales of alumina and aluminium. Alumina exports surged by 209%, and domestic alumina sales climbed by 190%.
+
+August 21, 2025:NALCO's stock price closed at 191.0, a slight decrease from the previous close of 192.22.
+
+Analyst Rating (May 23, 2025):ICICI Securities downgraded NALCO to ""HOLD"" with a target price of ₹190, citing expected lower alumina and aluminium prices and constrained volume growth.
+
+As of May 1, 2025, National Aluminium Company (NALCO) was in the midst of a significant expansion and demonstrated strong financial performance. Here's a detailed overview of the company's status:
+
+Financial Performance:
+
+Strategic Initiatives:
+
+Stock Performance (Later Developments):
+
+In conclusion, as of May 1, 2025, NALCO was financially strong and operationally robust, with significant expansion plans underway to capitalize on the growing aluminium market in India and achieve its aspiration of becoming a ""Maharatna"" company."

@@ -1,0 +1,30 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+NMDC,11,1546,2025-08-21 22:43:09,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,https://www.nmdc.co.in/cms-admin/Upload/Press_Realese_Documents/ad4fce0b06bc426b8bc7c20c9b425eeb_20250605174810523.pdf
+Link_2,"https://www.nmdc.co.in/cms-admin/Upload/Press_Realese_Documents/ad4fce0b06bc426b8bc7c20c9b425eeb_20250605174810523.pdf#:~:text=Hyderabad%2C%2027%20May%202025:%20NMDC%20Limited%2C%20India's,increase%20from%20Rs%2021%2C294%20crore%20in%20FY25."
+Link_3,"https://www.angelone.in/news/share-market/nmdc-share-price-rises-on-may-2-following-iron-ore-price-hike-and-interim-cfo-appointment#:~:text=The%20company%20has%20revised%20the,Rail%20(FOR)%20prices%20are:"
+Link_4,"https://www.newsip.in/nmdcs-financial-evolution-in-q1-fy26#:~:text=India's%20iron%20ore%20behemoth%2C%20NMDC,Government%20Director%20June%2012%2C%202025"
+Link_5,"https://www.business-standard.com/markets/capital-market-news/nmdc-iron-ore-production-jumps-89-yoy-in-may-25-125060200756_1.html#:~:text=NMDC%20has%20reported%20a%2089.31,and%20sale%20of%20Wind%20Power."
+Link_6,https://www.nmdc.co.in/cms-admin/Upload/Press_Realese_Documents/087b3a4feeaf4601bc43e15732be7dcf_20250503110006556.pdf
+Link_7,"https://www.thehindu.com/business/Industry/nmdc-raises-iron-ore-prices-by-440-a-tonne/article69521532.ece#:~:text=Baila%20Lump%20will%20cost%20%E2%82%B9,four%20times%20during%20the%20fiscal."
+Link_8,"https://www.bajajbroking.in/blog/nmdc-hikes-lump-ore-and-fines-prices-by-rs-440-per-tonne-from-may-1#:~:text=72.29,30%25%20of%20the%20company's%20revenues."
+Link_9,"https://www.kotaksecurities.com/financial-results/nmdc-ltd-q1fy2025-26-results/#:~:text=In%20Q1FY26%2C%20NMDC%20Ltd%20reported,in%20production%20capacity%20or%20efficiency."
+Link_10,https://www.nmdc.co.in/cms-admin/Upload/Press_Realese_Documents/6bb5f46821c949fabc5033a93c36bd7a_20250312150328553.pdf
+Link_11,"https://www.deccanherald.com/india/karnataka/new-state-law-in-karnataka-requires-nmdc-to-cough-up-rs-13975-crore-in-taxes-3689917#:~:text=Bengaluru:%20Public%20sector%20mining%20giant,of%20the%20President%20of%20India."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Whole-Time CFO:Shri K. Venkateswarlu has been appointed as the Whole-Time Chief Financial Officer (CFO) and Key Managerial Person (KMP) temporarily until a new Whole-Time Director (Finance) is appointed or his retirement on June 30, 2025. He brings 35 years of experience in finance within the metal, mining, and insurance sectors.
+
+Iron Ore Prices:NMDC revised its iron ore prices effective May 1, 2025. Baila Lump (65.5%, 10-40 mm) is priced at ₹6,440 per tonne, and Baila Fines are priced at ₹5,500 per tonne. Both prices increased by ₹440 per tonne compared to the previous revision.
+
+NMDC is involved in the exploration and production of Iron Ore, Diamond, Sponge Iron, and Wind Power generation. The company aims to achieve 100 MT mining capacity by 2030 and is exploring critical minerals. NMDC plans a capital expenditure of approximately Rs. 70,000 crores over the next five years for expansion and infrastructure development.
+
+Karnataka Mining Tax Liability:A new state law in Karnataka may result in NMDC being liable for a tax of approximately Rs 13,975.07 crore. This amount is currently disclosed as a contingent liability.
+
+As of May 1, 2025, NMDC Limited, a major Indian iron ore producer, has seen some key developments:
+
+Note: While this information is specific to May 1, 2025, NMDC's Q1 FY26 results on August 13, 2025, showed a revenue of ₹7038.97 crore and a net profit of ₹1967.69 crore. Full FY25 results on May 27, 2025, indicated a 19% increase in PAT to Rs 6,693 crore and an 11% increase in turnover to Rs 23,668 crore."

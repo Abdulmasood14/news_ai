@@ -1,0 +1,28 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+UPL,5,1411,2025-08-21 23:36:29,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.nseindia.com/get-quotes/equity?symbol=UPL#:~:text=In%20Top%2010%20today,06%2DAug%2D2025"
+Link_2,"https://www.upl-ltd.com/press-release#:~:text=UPL%20conducted%20the%20'Tenth%20Annual,to%20accurately%20assess%20the%20population."
+Link_3,"https://www.stockinsights.ai/in/UPL/announcement/company-mergers-20250602-fc9#:~:text=UPL%20Ltd%20announces%20that%20Advanta,UPL%20Ltd"
+Link_4,"https://scanx.trade/stock-market-news/corporate-actions/360-one-wam-limited-finalizes-transfer-and-assignment-agreement-with-ubs-entities/17082627#:~:text=Stakeholders%20are%20advised%20to%20refer%20to%20official,accurate%20and%20up%2Dto%2Ddate%20information%20regarding%20this%20development."
+Link_5,"https://bsmedia.business-standard.com/_media/bs/data/announcements/bse/14082025/deaa674e-b26c-43a8-8e7c-5ccb1580daa0.pdf#:~:text=Actual%20results%20may%20vary%20due%20to%20risks,for%20the%20most%20accurate%20and%20up%2Dto%2Ddate%20information."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Financial Results:While UPL Ltd was slated to hold a board meeting on May 12, 2025 to consider and approve its Q4FY25 and full year FY25 financial results and dividend, the results were not publicly available as of May 1, 2025.
+
+Other Potential Developments:It is possible that there may have been other announcements or developments related to UPL on May 1, 2025, but they were not available in the search results provided. It is important to note that financial reporting schedules and news dissemination can vary, and official company announcements or regulatory filings would be the most accurate sources for specific details.
+
+Contextual Information:
+
+UPL's board meeting on May 12, 2025 was set to consider approving the yearly financial results and dividend.
+
+UPL had previously announced that Advanta Seeds acquired key corn assets from K-Adriatica on June 2, 2025 to strengthen its European portfolio.
+
+UPL conducted its ""Tenth Annual Sarus Crane Count"" on June 21, 2025.
+
+Contextual Information:UPL's board meeting on May 12, 2025 was set to consider approving the yearly financial results and dividend.UPL had previously announced that Advanta Seeds acquired key corn assets from K-Adriatica on June 2, 2025 to strengthen its European portfolio.UPL conducted its ""Tenth Annual Sarus Crane Count"" on June 21, 2025.
+
+Here's a summary of the latest news and updates related to UPL Ltd as on May 1, 2025:"

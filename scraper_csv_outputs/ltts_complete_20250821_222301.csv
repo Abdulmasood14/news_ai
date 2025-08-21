@@ -1,0 +1,12 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+LTTS,1,323,2025-08-21 22:23:01,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://scanx.trade/stock-market-news/stocks/l-t-technology-services-unveils-plxai-a-game-changing-genai-framework-for-product-development/17300644#:~:text=L&T%20Technology%20Services%20Announces%20Rs,Final%20Dividend%20Apr%2024%2C%202025"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"On May 1, 2025, there was news regarding L&T Technology Services (LTTS) announcing a final dividend of ₹38 per share . While the company's Q4 profit dipped, its revenue witnessed a rise.
+
+However, the main highlight for LTTS around that time was their focus on setting margin improvement goals for the fiscal years 2027-28."

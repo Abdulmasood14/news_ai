@@ -1,0 +1,24 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+VOLTAS,7,895,2025-08-21 23:43:09,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.voltas.in/images/schedule-announcements/01SELetterintimationsigned_02052025.pdf#:~:text=In%20compliance%20with%20Regulation%2029%20of%20SEBI,on%20the%20website%20of%20the%20Company%20www.voltas.com."
+Link_2,"https://www.voltas.in/newsroom/resources#:~:text=modern%20Indian%20homes.-,July%202025%2C%20Mumbai,West%20Bengal%20and%20Andhra%20Pradesh"
+Link_3,"https://www.voltas.in/newsroom/resources#:~:text=May%202025%2C%20Mumbai&text=in%20Uttar%20Pradesh-,Voltas%20Limited%2C%20India's%20No.,the%20UP%20and%20Uttarakhand%20region."
+Link_4,"https://dhan.co/stocks/voltas-ltd-share-price/#:~:text=VOLTAS%20Latest%20News%20Voltas%20Limited%20has%20scheduled,48%20hours%20after%20the%20results%20are%20declared."
+Link_5,https://www.reuters.com/markets/companies/VOLT.NS
+Link_6,"https://scanx.trade/stock-market-news/earnings/kpit-technologies-reports-mixed-q1-results-revenue-up-profitability-down/15411500#:~:text=As%20always%2C%20interested%20parties%20are%20advised%20to,financial%20reports%20for%20comprehensive%20and%20accurate%20information."
+Link_7,"https://finance.yahoo.com/news/voltas-ltd-bom-500575-q4-070523114.html#:~:text=Consolidated%20Total%20Income%20(FY25):,down%20from%20INR%20206%20crores."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Board meeting scheduled for May 7, 2025: Voltas announced a Board of Directors meeting to consider and approve audited financial results for the quarter and year ended March 31, 2025, and potentially recommend a dividend.
+
+Trading window closed: The trading window for equity shares was closed from March 25, 2025, and would reopen 48 hours after the financial results are declared.
+
+New brand store opened: Voltas expanded its presence by launching a new brand store in Kasia, Kushinagar, increasing its total number of brand stores in Eastern Uttar Pradesh to 29 and across UP and Uttarakhand to 57.
+
+News and updates for Voltas Ltd. as of May 1, 2025:
+
+This summary is based on news and announcements from Voltas Ltd. on or around May 1, 2025, providing a snapshot of updates as of that date. For the most current information, refer to official company disclosures and financial news sources."

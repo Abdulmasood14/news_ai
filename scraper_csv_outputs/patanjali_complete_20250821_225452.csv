@@ -1,0 +1,22 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+PATANJALI,5,1742,2025-08-21 22:54:52,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,https://www.nseindia.com/get-quotes/equity?symbol=PATANJALI
+Link_2,"https://www.valueresearchonline.com/stories/224552/patanjali-foods-q4-fy25-earnings-preview-key-insights/#:~:text=Patanjali%20Foods%20is%20expected%20to,in%20the%20edible%20oils%20market.&text=Patanjali%20Foods%20has%20shown%20a,in%20the%20upcoming%20earnings%20report."
+Link_3,https://www.indiainfoline.com/company/patanjali-foods-ltd/results/annual-result
+Link_4,"https://m.economictimes.com/industry/cons-products/fmcg/patanjali-ayurved-under-mca-lens-for-company-law-lapses/articleshow/121524795.cms#:~:text=PTI,financial%20irregularities%20at%20the%20company."
+Link_5,"https://www.businesstoday.in/latest/corporate/story/baba-ramdevs-patanjali-facing-heat-over-suspicious-transactions-claims-report-478435-2025-05-30#:~:text=Updated%20May%2030%2C%202025%204,sources%20privy%20to%20the%20matter."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Patanjali Foods Under Scrutiny:Reports from late May 2025 indicated that Patanjali Ayurved was being investigated by the Corporate Affairs Ministry over alleged financial irregularities and company law lapses. The ministry reportedly sent a notice based on inputs from government agencies. While specific details were not disclosed as the probe was in its early stages, Patanjali had approximately two months to respond. This follows previous regulatory issues, including a tax claim and a Supreme Court restraint on misleading advertisements.
+
+Patanjali Foods Q4 FY25 Earnings Anticipation:An earnings preview from May 14, 2025, projected continued margin recovery for Patanjali Foods in Q4 FY25, driven by strong growth in its Food & FMCG segments despite challenges in edible oils. The company is shifting its focus to a broader Food & FMCG portfolio, with this segment contributing over 30% of revenues in Q4 FY24. New product launches and the success of items like Nutrela Doodh biscuits and nutraceuticals are part of this strategy to reduce reliance on volatile edible oil prices. Net profit for Q4 FY25 was anticipated to increase significantly year-over-year.
+
+Patanjali Foods Board Meeting Scheduled:Patanjali Foods had scheduled a board meeting for May 15, 2025, to review and approve its financial results for the period ending March 31, 2025, and consider a dividend.
+
+Based on the provided information, here's a summary of Patanjali news and updates as of May 1st, 2025:
+
+Note: This summary focuses specifically on information identified as being relevant to Patanjali as of or around May 1, 2025. It does not include news or updates from later dates, which may offer further details on these developments or discuss new events."

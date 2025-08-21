@@ -1,0 +1,34 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+OFSS,7,2446,2025-08-21 22:51:49,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://hdfcsky.com/news/oracle-financial-rewards-shareholders-with-10-year#:~:text=Dividend%20History%20&%20Corporate%20Action,date%20of%20May%208%2C%202025."
+Link_2,"https://hdfcsky.com/news/oracle-financial-rewards-shareholders-with-10-year#:~:text=Q4%20and%20FY25%20Financial%20Performance,as%20of%20March%2031%2C%202025)"
+Link_3,"https://www.livemint.com/market/stock-market-news/anand-rathi-stock-recommendation-this-it-services-stock-may-rise-over-13-in-one-month-11749111989774.html#:~:text=Oracle%20Financial%20Services%20Software%20shares,gain%20over%20the%20past%20year.&text=Shares%20of%20Oracle%20Financial%20Services,setup%20and%20improving%20trend%20indicators."
+Link_4,"https://www.livemint.com/market/stock-market-news/anand-rathi-stock-recommendation-this-it-services-stock-may-rise-over-13-in-one-month-11749111989774.html#:~:text=Strong%20Q4%20Earnings%20and%20Interim,per%20share%20for%20the%20year."
+Link_5,"https://www.business-standard.com/markets/news/last-day-alert-oracle-financial-services-3-others-to-go-ex-date-on-may-8-125050700265_1.html#:~:text=FOLLOW%20STOCK%20MARKET%20LIVE%20UPDATES,Stage%202)%20on%20the%20BSE."
+Link_6,https://www.business-standard.com/markets/oracle-financial-services-software-ltd-share-price-13105.html
+Link_7,"https://trendlyne.com/latest-news/964/OFSS/oracle-financial-services-software-ltd/?page=21&qstime=1742299845#:~:text=The%20ESOP%20Allotment%20Committee%20of,5/%2D%20each."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Interim Dividend Declared:OFSS announced a significant interim dividend of ₹265 per share, with an ex-dividend date of May 8, 2025. This highlights a shareholder-friendly approach and suggests strong cash flow generation.
+
+Strong Financial Performance (March 2025 Quarter & FY25):The company reported a robust financial performance for both the March 2025 quarter and the full fiscal year ended March 31, 2025.
+
+Q4 FY25:Consolidated net profit rose 19% quarter-on-quarter to ₹643.9 crore, despite a marginal 0.06% increase in revenue from operations to ₹1,716.3 crore. Year-on-year, net profit increased by 14.96% and revenue by 4.50%.
+
+FY25:Consolidated net income for the year increased by 7.22% to ₹2,379.6 crore, and net sales rose by 7.43% to ₹6,846.8 crore.
+
+Shareholding Pattern (March 31, 2025):The promoter holding in OFSS saw a slight decrease to 72.59% as of March 31, 2025, compared to September 2024, according toBusiness Standard. Meanwhile, foreign institutional investors' holding increased during this period.
+
+Analyst Outlook:Anand Rathi had a positive outlook on OFSS stock around this time, suggesting potential gains of over 13% in the next month, citing a strong technical setup and improving trend indicators.
+
+Esop Allotment:OFSS allotted 1,990 equity shares to eligible employees who exercised their stock options under the Employee Stock Option Scheme 2011 and OFSS Stock Plan 2014, according to Trendlyne.com.
+
+Strong Financial Performance (March 2025 Quarter & FY25):The company reported a robust financial performance for both the March 2025 quarter and the full fiscal year ended March 31, 2025.Q4 FY25:Consolidated net profit rose 19% quarter-on-quarter to ₹643.9 crore, despite a marginal 0.06% increase in revenue from operations to ₹1,716.3 crore. Year-on-year, net profit increased by 14.96% and revenue by 4.50%.FY25:Consolidated net income for the year increased by 7.22% to ₹2,379.6 crore, and net sales rose by 7.43% to ₹6,846.8 crore.
+
+Here are some updates related to Oracle Financial Services Software (OFSS) around May 1, 2025:
+
+In summary, around May 1, 2025, OFSS was making headlines for its generous interim dividend declaration and robust financial results for both the previous quarter and the full fiscal year. Analysts were also optimistic about the stock's future performance based on its technical indicators and strong fundamentals. There was also a minor change in the promoter shareholding."

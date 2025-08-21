@@ -1,0 +1,44 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+UNIONBANK,7,2586,2025-08-21 23:38:16,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.angelone.in/news/rbi-revises-atm-rules-know-free-transaction-limits-and-new-rs-23-charge-effective-may-2025#:~:text=Effective%20Date:%20May%201%2C%202025,and%20white%2Dlabel%20ATM%20operators"
+Link_2,"https://blog.readyaccountant.com/New_Rules_for_RBI_From_May_1,_2025.#:~:text=As%20of%20May%201%2C%202025,Indian%20banking%20with%20global%20standards."
+Link_3,"https://www.angelone.in/news/market-updates/rbi-revises-atm-rules-know-free-transaction-limits-and-new-rs-23-charge-effective-may-2025#:~:text=white%2Dlabel%20operators.-,Detailed%20Changes%20in%20ATM%20Charges%20and%20Limits,within%20the%20free%20transaction%20limit"
+Link_4,"https://m.economictimes.com/wealth/save/from-atm-fees-to-fd-rates-key-financial-changes-effective-may-1-2025/articleshow/120787364.cms#:~:text=Revised%20charges%20for%20exceeding%20free,centres%2C%20as%20per%20RBI%20guidelines."
+Link_5,"https://www.indiatoday.in/business/personal-finance/story/rbi-raises-atm-charges-rs-23-from-may-1-know-the-details-here-2717434-2025-04-30#:~:text=NEW%20CHARGES%20IF%20YOU%20CROSS,when%20you%20are%20depositing%20cash."
+Link_6,"https://zeenews.india.com/photos/business/7-banking-and-financial-rules-effective-from-today-1-may-2025-atm-fees-taxation-and-more-2893761#:~:text=The%20Reserve%20Bank%20of%20India,RBI%20said%20in%20a%20notification.&text=From%20May%201%2C%20waitlisted%20passengers,processed%20within%20just%20two%20days.&text=The%20Central%20Board%20of%20Direct,filed%20using%20the%20new%20forms."
+Link_7,"https://currentaffairs.adda247.com/rbi-circulars-notifications-may-2025/#:~:text=The%20Reserve%20Bank%20of%20India%20(RBI)%20issued%20several%20significant%20updates,Exemptions"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Revised ATM Transaction Rules:
+
+Charges:After May 1, 2025, exceeding the monthly free transaction limit at ATMs will incur a charge of up to ₹23 per transaction (up from ₹21).
+
+Free Transactions:
+
+Customers will still receive 5 free transactions per month at their own bank ATMs.
+
+Free transactions at other bank ATMs are limited to 3 per month in metro centers and 5 per month in non-metro centers.
+
+OTP for Withdrawals:Withdrawals above ₹5,000 may require OTP-based verification for added security.
+
+Cardless Withdrawals:All banks, including Union Bank, are mandated to offer cardless cash withdrawals using UPI platforms across their ATMs.
+
+RBI's PRAVAAH Portal:Union Bank, like other regulated entities, is required to submit applications for regulatory authorizations, licenses, and approvals through the RBI's PRAVAAH portal starting May 1, 2025.
+
+Digital Lending Rules:The RBI has introduced new digital lending guidelines that Union Bank will need to comply with, focusing on customer protection and transparency.
+
+Other Potential Impacts:Changes in savings account and Fixed Deposit (FD) interest rates by some banks also came into effect on May 1, 2025, which may influence Union Bank's offerings.
+
+Revised ATM Transaction Rules:Charges:After May 1, 2025, exceeding the monthly free transaction limit at ATMs will incur a charge of up to ₹23 per transaction (up from ₹21).Free Transactions:Customers will still receive 5 free transactions per month at their own bank ATMs.Free transactions at other bank ATMs are limited to 3 per month in metro centers and 5 per month in non-metro centers.OTP for Withdrawals:Withdrawals above ₹5,000 may require OTP-based verification for added security.Cardless Withdrawals:All banks, including Union Bank, are mandated to offer cardless cash withdrawals using UPI platforms across their ATMs.
+
+Free Transactions:Customers will still receive 5 free transactions per month at their own bank ATMs.Free transactions at other bank ATMs are limited to 3 per month in metro centers and 5 per month in non-metro centers.
+
+News and updates regarding Union Bank of India on May 1, 2025, focused primarily on regulatory changes announced by the Reserve Bank of India (RBI) affecting banks and customers in India, according to various news reports .
+
+Here's a summary of the key changes relevant to Union Bank and its customers:
+
+It's important to note that these are general regulations affecting all banks in India, including Union Bank. There were no specific announcements about Union Bank of India on May 1, 2025, according to the search results."

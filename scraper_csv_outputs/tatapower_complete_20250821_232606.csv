@@ -1,0 +1,45 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+TATAPOWER,6,2000,2025-08-21 23:26:06,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,https://www.tatapower.com/company-financials/analyst-call-transcript/fy-2024-25/tata-power-earnings-transcript-may14-2025.pdf
+Link_2,https://images.assettype.com/bloombergquint/2025-05-15/g3ivg58j/ICICI_Securities_Tata_Power_Q4FY25_Results_May25.pdf
+Link_3,https://www.youtube.com/watch?v=JYQWiWX05zk&t=122
+Link_4,"https://www.tatapowersolar.com/media/press-releases/#:~:text=4th%20April%2C%202025%20TP,Peak%20Demand%20with%20Clean%20Energy"
+Link_5,"https://www.moneycontrol.com/news/business/earnings/tata-power-q4-results-net-profit-rises-16-5-to-rs-1-043-crore-13025205.html#:~:text=Tata%20Power%20Q4%20results:%20Net,1%2C043%20crore%2C%20firm%20announces%20dividend"
+Link_6,"https://www.businesstoday.in/markets/stocks/story/tata-power-rvnl-pb-fintech-lic-granules-india-kvb-among-stocks-in-focus-today-heres-why-466202-2025-02-28#:~:text=Tata%20Power%20Company%20Ltd:%20TP,over%20the%20next%20few%20years."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Tata Power announced their Q4 and full-year FY25 results, reporting a 16.5% year-on-year increase in consolidated net profit to ₹1,043 crore for the quarter ended March 31, 2025.
+
+Revenue from operations for Q4 FY25 rose 8% to ₹17,096 crore.
+
+The company's board recommended a final dividend of ₹2.25 per share for FY25.
+
+They reported strong performance in the renewables segment (solar manufacturing and generation) and improved performance by Odisha distribution companies contributing to the growth in profitability.
+
+Tata Power incurred a capex of ₹4,100 crore in Q4 FY25, bringing the total capex for FY25 to ₹16,200 crore, according to a May 14, 2025 earnings transcript.
+
+They plan a capex of ₹25,000 crore for FY26, with 60% allocated to the renewable vertical and 30% to the transmission and distribution business.
+
+Tata Power commissioned 1 GW of renewable energy capacity in FY25 and plans to add 2.5-2.7 GW in FY26.
+
+The company aims to achieve nearly 70% clean and green energy by 2030, supported by renewable projects and pumped hydro projects under construction or planned.
+
+Their solar rooftop business saw a 40% rise in revenues in Q4 FY25 to ₹865 crore and a 72% increase in EBITDA to ₹132 crore.
+
+TP Solar Limited, Tata Power's solar manufacturing arm, won a ₹632 crore contract from SECI to supply 292.5 MWp DCR solar modules.
+
+Tata Power's solar cell and module manufacturing plant has been operating at over 90% utilization.
+
+The company produced 879 MW of modules and 650 MW of cells in Q4 FY25 and expects to supply 3,700 MW in FY26.
+
+They are exploring opportunities in the power distribution sector, particularly in Uttar Pradesh, where two distribution companies are slated for privatization.
+
+Tata Power is also interested in nuclear power generation in India.
+
+Discussions are ongoing with the five procurer states served by the Mundra power plant to conclude a long-term arrangement for power supply until 2038.
+
+News and updates related to Tata Power as of May 1, 2025"

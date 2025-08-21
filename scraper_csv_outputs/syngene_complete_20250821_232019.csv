@@ -1,0 +1,39 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+SYNGENE,8,2691,2025-08-21 23:20:19,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://m.economictimes.com/markets/stocks/earnings/syngene-q4-results-profit-dips-3-to-rs-183-crore-fy25-net-at-rs-496-cr/articleshow/120557009.cms#:~:text=PTI,the%202023%2D24%20fiscal%20year."
+Link_2,"https://www.angelone.in/news/share-market/syngene-shares-hit-lower-circuit-as-q4-fy25-net-profit-falls-3-percent-yoy#:~:text=Falls%203%25%20YoY-,Syngene%20Shares%20Hit%2010%25%20Lower%20Circuit%20as%20Q4%20FY25%20Net,Topics%20Covered"
+Link_3,"https://www.syngeneintl.com/#:~:text=A%20Strategic%20Advancement-,Clinical%20Development%20is%20Now%20Translational%20&%20Clinical%20Research%20Services%20(T&CR),Read%20more"
+Link_4,"https://www.samco.in/knowledge-center/articles/syngene-shares-dive-10-after-muted-q4-earnings-and-cautious-fy26-outlook/#:~:text=Cautious%20FY26%20Outlook-,Syngene%20Shares%20Dive%2010%25%20After%20Muted%20Q4%20Earnings%20and%20Cautious,when%20expectations%20were%20running%20higher."
+Link_5,"https://www.syngeneintl.com/news-room/press-releases/#:~:text=Syngene%20Results%20Q1%20FY26,Know%20More"
+Link_6,"https://www.syngeneintl.com/science-matters-edition-8.html#:~:text=Although%20the%20shift%20is%20expected,Best%20regards%2C"
+Link_7,"https://hdfcsky.com/news/syngenes-profit-up-by-14-5-percent-in-june-quarter#:~:text=The%20company%20received%20operational%20licenses,About%20Syngene%20International%20Ltd"
+Link_8,"http://test.pharmabiz.com/NewsDetails.aspx?aid=180304&sid=2#:~:text=%22We%20continued%20to%20strengthen%20and,and%20integrity%20standards%2C%20it%20added."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Q4 FY25 Results:Around April 24, 2025, Syngene released its Q4 FY25 financial results, showing a 3% year-on-year decrease in consolidated net profit to ₹183 crore, while total income increased to ₹1,037 crore compared to the same quarter last year.
+
+Share Price Reaction:Following the Q4 results and a cautious FY26 outlook, Syngene's shares dropped significantly, falling nearly 13% intraday on April 24, 2025, and closing 10% lower.
+
+FY25 Performance:For the fiscal year ending March 31, 2025, net profit was ₹496 crore, slightly down from FY24's ₹510 crore, with annual revenue reaching ₹3,714 crore compared to the previous ₹3,579 crore. The company noted a resilient performance despite a downturn in US biotech funding in the first half of the year.
+
+Outlook for FY26:Syngene expects early teens revenue growth in FY26, driven by a strong pipeline in discovery, development, and manufacturing. They anticipate that inventory balancing in large molecule commercial manufacturing may temporarily impact reported revenue, but project stronger growth when adjusted for this factor.
+
+Operational Milestones:Operational licenses were secured for a drug substance production line and a bonded warehouse at the Bengaluru biologics facility. Capital expenditures led to an increase in quarterly depreciation.
+
+Employee Incentive Plan:The Board approved the allotment of 402,439 equity shares to the Syngene Employees Welfare Trust under a Long-Term Incentive Plan.
+
+Dividend:A final dividend of ₹1.25 per equity share for FY25 was recommended by the Board, subject to shareholder approval.
+
+Sustainability Recognition:Syngene was recognized as a ""World's Most Sustainable Companies 2025"" by TIME Magazine & Statista. Their GHG emission reduction targets are validated by the Science Based Targets initiative (SBTi), and they received a ""Green"" Certification from My Green Lab.
+
+Expansion & Capabilities:A new biologics facility in the U.S. is expected to increase single-use bioreactor capacity to 50,000 Litersaccording to Syngene International Ltd. The company is expanding its scientific platform, including a dedicated peptide laboratory according to Pharmabiz.com.
+
+Regulatory Inspections:Syngene successfully underwent a US FDA Good Clinical Practices (GCP) inspection of its Human Pharmacology Unit with no observations, and its Biologics facility at Biocon Park received an Establishment Inspection Report (EIR) with a favorable outcome.
+
+Based on the information available as on May 1, 2025, here are the key updates regarding Syngene:
+
+Note: This information is based on news and updates available as of May 1, 2025, and may not reflect any developments that occurred after this date."

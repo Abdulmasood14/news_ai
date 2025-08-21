@@ -1,0 +1,41 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+NESTLEIND,6,1549,2025-08-21 22:46:27,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,https://www.nestle.in/sites/g/files/pydnoa451/files/2025-04/Final-NSEBSEOutcomew.pdf
+Link_2,https://www.nestle.in/media/pressreleases
+Link_3,"https://m.economictimes.com/markets/stocks/earnings/nestle-india-announces-rs-10-final-dividend-check-record-date-other-details/articleshow/120575710.cms#:~:text=ETMarkets.com,Key%20Metrics"
+Link_4,"https://www.cnbctv18.com/market/nestle-q4-results-2025-earnings-volume-revenue-growth-profit-loss-shares-up-down-dividend-record-date-19593497.htm#:~:text=HomeMarket%20NewsNestle%20India,in%20the%20year%2Dago%20period."
+Link_5,"https://www.angelone.in/news/share-market/nestle-share-price-in-focus-after-warning-letter-received-from-sebi#:~:text=Nestle%20received%20a%20warning%20from,by%20a%20senior%20company%20official.&text=On%20March%2010%2C%202025%2C%20Nestle,Company%20on%20account%20of%20above.%E2%80%9D"
+Link_6,"https://www.thehindu.com/business/markets/nestle-board-approves-11-bonus-share-issue-stock-up-1-in-morning-trade-on-june-26/article69739335.ece#:~:text=%22...the%20board%20of,less%20than%20five%20shares%20each.&text=The%20company%20believes%20that%20the,the%20BSE%2C%20up%200.94%25."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Nestle India announced its Q4FY25 results, reporting a net profit of ₹885 crore, a 5% decrease compared to the same quarter the previous year.
+
+Revenue for the quarter increased by 4.4% year-on-year, reaching ₹5,504 crore.
+
+The company declared a final dividend of ₹10 per equity share for the financial year 2024-25, with the record date set as July 4, 2025.
+
+The Board of Directors appointed Mr. Manish Tiwary as Key Managerial Personnel, effective April 24, 2025. This appointment was made during his transition period as Managing Director (Designate).
+
+Nestle India launched an Employees Pet Feeding Program in May 2025, with Purina offering ""paw-sitive perks"" for new pet parents.
+
+The company also launched its Automated and Paperless Distribution Center in Bhiwandi, reinforcing its commitment to sustainability and digitalization.
+
+In April 2025, Nestle India enhanced its commitment to hill stations through a new project.
+
+Nestle India partnered with gaming streamers for its NESCAFÉ Ready-to-Drink Cold Coffee range.
+
+Nestle India received an administrative warning letter from SEBI on March 7, 2025, for violation of insider trading regulations by a designated person of the Company.
+
+NESTLEIND Company-Specific News and Updates (April 2025)
+
+Q4FY25 Results and Dividend Declaration (April 24, 2025)
+
+Leadership Appointment (April 24, 2025)
+
+Operational and Marketing Activities (April 2025)
+
+Note: This information is based on news and updates available as of April 2025. For the most recent updates, please refer to the latest sources."

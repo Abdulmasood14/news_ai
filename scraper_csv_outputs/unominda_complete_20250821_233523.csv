@@ -1,0 +1,24 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+UNOMINDA,5,867,2025-08-21 23:35:23,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.unominda.com/newsroom/all-news#:~:text=How%20UNO%20Minda%20Is%20Driving,Expo%202025%20with%20PACE%20megatrend"
+Link_2,https://images.moneycontrol.com/static-mcnews/2025/05/20250527050743_UNO-Minda-27052025-de.pdf
+Link_3,"https://www.business-standard.com/markets/uno-minda-ltd-share-price-12295.html#:~:text=3.,much%20in%20Uno%20Minda%20Ltd?"
+Link_4,https://simplehai.axisdirect.in/images/2024/UNO-Minda-Ltd---Q4FY25-Result-Update---22052025-1-1.pdf
+Link_5,"https://www.moneycontrol.com/news/business/stocks/uno-minda-shares-surge-5-71-amid-volume-surge-among-top-gainers-on-nifty-midcap-150-alpha-article-13462012.html#:~:text=In%20corporate%20actions%2C%20the%20company,W%20X%20Y%20Z%20Others"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"May 1, 2025:UnoMinda and the JV board approved a project report for electric vehicle (EV) powertrain products.
+
+The company's board also approved the setting up of a greenfield plant for EV powertrain components in Khed City, Pune, with an estimated capital expenditure (capex) of ₹423 crore.
+
+There were positive analyst reports regarding Uno Minda's Q4 FY25 performance, with strong growth expected in core segments like switches, castings, and seating, along with improving visibility in premium EV-led product lines.
+
+However, some concerns were noted regarding the stock's valuation, as indicated by a high price-to-earnings (P/E) ratio and price-to-book (P/B) ratio.
+
+The overall sentiment from Moneycontrol analysis at that time indicated a neutral outlook for the stock.
+
+Uno Minda (formerly known as Minda Industries Ltd.) news and updates as of May 1, 2025:"

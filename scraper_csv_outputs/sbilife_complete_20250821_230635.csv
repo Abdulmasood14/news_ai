@@ -1,0 +1,29 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+SBILIFE,6,1774,2025-08-21 23:06:35,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.sbilife.co.in/SBI-Life-Group-News-Letter-May-2025#:~:text=The%20Investment%20strategy%20for%20equity,POLICYHOLDER"
+Link_2,"https://www.sbilife.co.in/SBI-Life-Group-News-Letter-May-2025#:~:text=Group%20Retirement%20Investment%20Strategy%20The,both%20debt%20and%20equity%20market."
+Link_3,https://groww.in/blog/sbi-life-q4-fy25-net-profit-flat-at-813-cr
+Link_4,"https://m.economictimes.com/markets/stocks/earnings/sbi-life-q4-results-pat-flat-at-rs-813-crore-net-premium-income-falls-5-yoy/articleshow/120582012.cms#:~:text=Earnings-,SBI%20Life%20Q4%20Results:%20PAT%20flat%20at%20Rs%20813%20crore,premium%20income%20falls%205%25%20YoY&text=SBI%20Life%20Q4%20Results:%20SBI,to%20Rs%204.48%20lakh%20crore.&text=SBI%20Life%20Insurance%20on%20Thursday,the%20same%20quarter%20last%20year.&text=Want%20In%2DDepth%20Report%20&%20Analysis,make%20smarter%20buy/sell%20decisions?&text=MCap%20(%E2%82%B9%20Cr.)"
+Link_5,https://www.youtube.com/watch?v=arYgQ6Q_P-c&t=318
+Link_6,"https://www.thehindubusinessline.com/money-and-banking/sbi-life-sees-a-shift-of-product-mix-more-towards-non-ulips/article69861438.ece#:~:text=At%20the%20start%20of%20this,earlier%20guidance%20with%20positive%20bias."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Financial Performance:For Q4 FY25, SBI Life reported a net profit of ₹813.5 crore, a slight increase of 0.3%. However, the company's net profit after tax for the full FY25 showed a significant rise of 27% to ₹2,413 crore. Total premium income in Q4 FY25 decreased by 5.1% to ₹23,860 crore, mainly due to lower single premiums, while first-year premiums grew by 7.3% and renewal premiums increased by 12.9%.
+
+AUM and Solvency:SBI Life's Assets Under Management (AUM) grew by 15% to ₹4,48,039 crore. The solvency ratio remained strong at 1.96, exceeding the regulatory requirement.
+
+Market Position and Persistency:The company maintained its leading position in Individual Rated Premium with a 22.8% market share in the private sector for FY25. Persistency ratios improved, with the 13th-month ratio at 86.64% and the 61st-month ratio at 61.51%.
+
+Growth and Technology Focus:SBI Life is concentrating on growth-oriented business models and using technology to streamline processes, with a high percentage of digital submissions and automated underwriting.
+
+Group News Letter May 2025:The May 2025 Group News Letter provided details on investment strategies, including a focus on fixed income and equities.
+
+Product Strategy:The company is observing a shift in its product mix, with increased emphasis on non-ULIP products.
+
+Here's a summary of the latest news and updates related to SBI Life Insurance Company (SBILIFE) as of May 1, 2025:
+
+SBI Life demonstrated strong performance over FY25, supported by growth in AUM and a robust solvency ratio, while maintaining its market leadership position. The company is strategically focusing on growth through technology and product diversification, as highlighted in its recent financial results and the May 2025 Group News Letter."

@@ -1,0 +1,18 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+OIL,5,672,2025-08-21 22:49:32,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.instagram.com/p/DJl7b6gSUyq/#:~:text=On%2011th%20May%2C%202025%2C%20Oil,the%20Indo%2DBangladesh%20International%20border."
+Link_2,"https://www.indiatodayne.in/tripura/story/oil-india-begins-first-ever-hydrocarbon-drilling-in-tripura-1213545-2025-05-14#:~:text=May%2014%2C%202025%2C,the%20Indo%2DBangladesh%20international%20border."
+Link_3,"https://blinkx.in/stocks/oil-india-ltd-board-meeting-2025-05-21#:~:text=Oil%20India%20Ltdhas%20informed%20BSE,Upgrade%20to%20BlinkX"
+Link_4,"https://www.angelone.in/news/share-market/oil-india-ltd-q4-fy25-earnings-results-reports-10-rise-in-profit-in-fy25#:~:text=Oil%20India%20Limited%20(OIL)%20announced,significantly%20to%20India's%20energy%20security."
+Link_5,"https://www.venturasecurities.com/news/stocks/hfcl-surges-over-2-after-securing-6-91-million-export-order-and-17-02-crore-domestic-contract/#:~:text=The%20company's%20board%20is%20slated%20to%20meet,HFCL%20Limited%20)%20Q4%20results%20for%20FY25."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Board meeting announced for Q4 FY25 Results:Oil India Ltd. scheduled a Board Meeting for May 21, 2025, to consider and approve the Audited Financial Results for the Quarter and Year ended March 31, 2025, and potentially recommend a final dividend.
+
+Oil India begins first-ever hydrocarbon drilling in Tripura:On May 11, 2025, Oil India Limited started its first hydrocarbon exploration and production in Tripura by spudding the Debtamura#1 well. The well is located about 120 KM from Agartala, near the Indo-Bangladesh border. This is considered a significant development for Tripura's hydrocarbon sector.
+
+Latest news and updates for Oil India Limited, as of May 1, 2025:"

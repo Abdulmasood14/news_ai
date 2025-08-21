@@ -1,0 +1,32 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+SUPREMEIND,3,1421,2025-08-21 23:18:08,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://economictimes.indiatimes.com/supreme-industries-ltd/stocks/companyid-12969.cms#:~:text=share%20price%20insights,last%20traded%20price%20is%204%2C576.40"
+Link_2,https://www.supreme.co.in/uploads/images/OxDjUOSJlPoVRebqp0P0WCKWLf5ywG6aLfD6dRtY.pdf
+Link_3,https://www.google.com/intl/en_us/googlefinance/disclaimer
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"The company was ranked 211 in the ET 500 2023 ranking.
+
+Intraday data shows that over the past 20 years, only a small percentage of trading sessions have experienced intraday declines exceeding 5%.
+
+In the year ending March 31, 2025, the company's interest expenses were less than 1% of operating revenues, while employee costs were 4.66%.
+
+A Black Spinning Top formation was noted for Supreme Industries on the preceding day.
+
+Supreme Industries Ltd.'s share price rose by 0.77% from its previous close, with the last traded price at Rs 4,576.40.
+
+An acquisition and licensing agreement, effective August 1, 2025, was set to enhance the Plastic Piping Division's capacities, market reach, and product range.
+
+Expansions in capacity for the Plastic Piping business and Protective packaging products were progressing at various locations.
+
+A new unit for material handling products was planned in Gwalior to expand the company's presence in central India.
+
+Trial production was underway for the PP silent pipe system, a result of collaboration with M/s. Poloplast Gmbh of Austria, with commercial production expected to begin the following month.
+
+The company had completed its initial order for polyethylene pipe for gas use and received DVGW Certification from Germany for Electrofusion (EF) Fittings used in water and gas applications.
+
+The Supreme Industries share price fluctuated on August 21, 2025. As of that date:"

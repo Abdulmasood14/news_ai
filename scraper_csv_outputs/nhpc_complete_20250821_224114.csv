@@ -1,0 +1,28 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+NHPC,5,968,2025-08-21 22:41:14,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.nhpcindia.com/welcome/news_list#:~:text=Hon'ble%20Chief%20Minister%2C%20Sudurpaschim,Growth%2C%20Innovation%2C%20and%20Sustainable%20Progress"
+Link_2,"https://www.nhpcindia.com/welcome/language/en/news_detail/129//#:~:text=CMD%2C%20NHPC%20shared%20NHPC's%20key,%2DIV%20Hydroelectric%20Project%20(Sikkim)"
+Link_3,"https://www.financialexpress.com/business/industry-nhpc-aims-to-have-installed-capacity-of-50-gw-by-2047-3693985/#:~:text=What%20are%20the%20company's%20upcoming,GW%20installed%20capacity%20by%202047."
+Link_4,https://www.tijorifinance.com/company/nhpc-limited/
+Link_5,"https://www.share.market/buzz/stocks/top-solar-energy-stocks-india/#:~:text=NHPC%20currently%20operates%20with%20a%20total%20installed,50%20GW%20of%20installed%20capacity%20by%202047."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"A high-level delegation from Sudurpaschim Province, Nepal, led by their Chief Minister, visited NHPC Corporate Office in Faridabad.
+
+Three units (200 MW each) of NHPC's 800 MW Parbati-II Hydroelectric Project were commissioned on April 1st, 2025, with power generation from all four units beginning on April 17th, 2025.
+
+Shri Suprakash Adhikari took over as the Director (Technical) of NHPC on April 16th, 2025.
+
+NHPC observed the 134th birth anniversary of Babasaheb Dr. Bhimrao Ambedkar on April 15th, 2025.
+
+NHPC was conferred with the CII HR Excellence Award for 2024-25 on March 28th, 2025.
+
+NHPC plans to have an installed capacity of more than 23 GW by 2032 and over 50 GW by 2047. The 2000 MW Subansiri Lower Hydroelectric Project (Assam/Arunachal Pradesh) and 800 MW Parbati-II Hydroelectric Project (Himachal Pradesh) were among the key projects mentioned by the CMD for the successful commissioning in 2025.
+
+Project Developments:
+
+Other News & Initiatives:"

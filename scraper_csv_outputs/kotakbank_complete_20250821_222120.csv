@@ -1,0 +1,21 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+KOTAKBANK,6,1099,2025-08-21 22:21:20,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://m.economictimes.com/wealth/save/kotak-mahindra-bank-hikes-atm-transaction-charges-from-may-1-2025-check-the-new-fee-maximum-free-atm-transactions/articleshow/120422165.cms#:~:text=Save-,Kotak%20Mahindra%20Bank%20hikes%20ATM%20transaction%20charges%20from%20May%201,your%20free%20ATM%20transaction%20limits."
+Link_2,"https://www.goodreturns.in/news/kotak-mahindra-bank-to-increase-atm-transaction-fees-effective-may-2025-011-1421207.html#:~:text=By%20Rahul%20Das,The%20Essence%20of%20ATM%20Transactions"
+Link_3,"https://m.economictimes.com/wealth/save/rbi-lifts-restrictions-from-kotak-mahindra-bank-now-you-can-get-new-credit-cards-and-open-account-digitally/articleshow/118178852.cms#:~:text=%E2%80%9CThe%20Reserve%20Bank%20has%20decided,restrictions%20on%20Kotak%20Mahindra%20Bank."
+Link_4,"https://www.thehindu.com/business/rbi-lifts-curbs-on-kotak-mahindra-bank/article69212578.ece#:~:text=Business,Read%20Comments"
+Link_5,"https://www.newsonair.gov.in/rbi-lifts-business-restrictions-on-kotak-mahindra-bank/#:~:text=National,View%20All"
+Link_6,"https://m.economictimes.com/wealth/save/lesser-free-cash-transactions-to-be-allowed-in-these-kotak-mahindra-bank-accounts/articleshow/119907329.cms#:~:text=Cash%20transactions%20conducted%20at%20bank,dependency%20and%20encourage%20digital%20transactions."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"ATM transaction fee hike:Effective May 1, 2025, Kotak Mahindra Bank has increased ATM transaction fees in line with RBI directives. Fees for financial transactions are now ₹23, and non-financial transactions are ₹10 after free limits are exceeded. Free transaction limits remain unchanged.
+
+Revisions to Kotak Edge Savings Account:As of May 1, 2025, changes have been made to the Kotak Edge Savings Account features. The free cash transaction limit is now a maximum of 3 transactions or ₹1 lakh per month, whichever occurs first, before charges apply.
+
+RBI lifts restrictions:The Reserve Bank of India (RBI) has lifted the business restrictions imposed on Kotak Mahindra Bank in April 2024. These restrictions had prevented the bank from digitally onboarding new customers and issuing new credit cards due to IT system deficiencies. The restrictions were lifted after the bank took steps to address the concerns. This allows the bank to resume digital customer onboarding and issuing new credit cards.
+
+Here's a summary of the latest news and updates regarding Kotak Mahindra Bank as of May 1, 2025:"

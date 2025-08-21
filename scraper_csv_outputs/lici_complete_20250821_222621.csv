@@ -1,0 +1,24 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+LICI,7,2294,2025-08-21 22:26:21,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.indiainfoline.com/blog/lic-maintains-nbp-growth-momentum-in-may-2025#:~:text=The%20growth%20in%20NBP%20(new,is%20bought%20and%20not%20sold."
+Link_2,"http://www.indiainfoline.com/blog/lic-maintains-nbp-growth-momentum-in-may-2025#:~:text=MAY%202025%20%E2%80%93%20LIC%20CONTINUES%20TO,is%20bought%20and%20not%20sold."
+Link_3,"https://licindia.in/documents/d/guest/press-release-dtd-27052025-final#:~:text=%E2%80%A2%20Expense%20Ratio%20reduces%20by,71.19%25%20in%20the%20Group%20business."
+Link_4,"https://licindia.in/documents/20121/1319704/LIC_Single+prem+Nav+Jeevan+Shree_Sales+Brochure_Eng+single.pdf/51133066-7d64-d3b4-db57-314ced65a821?t=1751616076513#:~:text=lump%20sum%20only.-,For%20all%20the%20instalment%20payment%20options%20commencing%20during%20the%2012,effective.&text=For%20exercising%20option%20to%20take,be%20made%20by%20the%20nominee.&text=Single%20Premium%20(in%20Rs.)&text=Single%20Premium%20(in%20Rs.)&text="
+Link_5,"https://m.economictimes.com/industry/banking/finance/insure/life-insurance-industrys-new-business-premiums-up-13-in-may-2025/articleshow/121732247.cms#:~:text=Insure-,Life%20insurance%20industry's%20new%20business%20premiums%20up%2013%25%20in%20May,405%20crore%2C%20the%20data%20showed."
+Link_6,"https://m.economictimes.com/industry/banking/finance/insure/life-insurance-industrys-new-business-premiums-up-13-in-may-2025/articleshow/121732247.cms#:~:text=In%20May%202025%2C%20India's%20life,while%20individual%20regular%20premiums%20declined."
+Link_7,"https://www.indiainfoline.com/blog/lic-maintains-nbp-growth-momentum-in-may-2025#:~:text=Life%20insurance%20sector%20saw%20yoy%20growth%20in,cumulative%20FY26%20also%20followed%20a%20similar%20trend."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Settlement option for maturity and death benefits:LIC clarified the revised rules for exercising the settlement option for maturity and death benefits. Policyholders need to exercise the maturity benefit option at least 3 months prior to the due date, with the first payment on the maturity date and subsequent payments based on the chosen instalment mode. The applicable interest rate for discounting future instalment payments for options commencing between May 1, 2025, and April 30, 2026, will be a maximum annual effective rate of 6.62%. The minimum applicable interest rate for calculating the instalment amount during the same period will be 4.62% p.a. effective. The death benefit settlement option can be exercised during the policy's currency, specifying the period of instalment payment and the net claim amount, and the nominee cannot alter this option.
+
+Life insurance industry performance:The overall life insurance industry saw a 12.7% year-on-year growth in New Business Premium (NBP) for May 2025, reaching ₹30,463 crore,according to India Infoline. This growth occurred despite a 10.4% decline in the number of policies sold, possibly due to new surrender value regulations introduced earlier. Private insurers demonstrated stronger growth in NBP at 16.6% compared to LIC's 10.3% increase. However, LIC maintained the largest market share in the overall Indian life insurance business with 57.05% as of March 31st, 2025.
+
+NBP trends:Analysis of the NBP data for May 2025 revealed that while the life insurance sector saw growth in first-year premiums, private insurers outperformed LIC. Private insurers' share of NBP slightly increased in May 2025 compared to previous months, while LIC's share decreased. Notably, the number of policies sold by LIC experienced a sharper contraction compared to private insurers.
+
+Here are some of the latest news and updates related to Life Insurance Corporation of India (LIC) as on May 1, 2025:
+
+In summary, as of May 1, 2025, LIC revised its settlement option policies and continued to hold the largest market share in the Indian life insurance industry. While the overall sector and LIC experienced NBP growth in May 2025, private insurers demonstrated higher growth rates in NBP and a lesser contraction in the number of policies sold."

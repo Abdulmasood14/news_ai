@@ -1,0 +1,26 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+TATAINVEST,5,1257,2025-08-21 23:24:14,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://economictimes.indiatimes.com/tata-investment-corporation-ltd/stocksupdate/companyid-13540.cms#:~:text=Tata%20Investment%20announces%20first%2Dever,%2C%202025%2C%2006:11AM%20IST"
+Link_2,"https://www.ifinltd.in/news/detailed-news/tata-investment-corporation-fixes-record-date-for-dividend/market-beat/1598496/#:~:text=Tata%20Investment%20Corporation%20has%20fixed,date%20for%20payment%20of%20dividend."
+Link_3,"https://trendlyne.com/latest-news/1360/TATAINVEST/tata-investment-corporation-ltd/#:~:text=04%20Aug%202025,Business%20Line%20%7C%2004%20Aug%202025"
+Link_4,"https://www.icicidirect.com/stocks/corporate-announcement/tata-investment-corporation-ltd/298#:~:text=Board%20of%20Tata%20Investment%20Corporation%20recommends%20final%20dividend,-%C3%97&text=Tata%20Investment%20Corporation%20announced%20that,the%20approval%20of%20the%20shareholders."
+Link_5,https://www.google.com/intl/en_us/googlefinance/disclaimer
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Current Trading Day (August 21, 2025):The stock's last traded price was ₹6,950.0, with a slight increase of 0.15% from the previous close.
+
+Intraday Performance:The stock price fluctuated throughout the trading day, with a high of ₹7,060.5 and a low of ₹6,939.0.
+
+Stock Split Proposal:On August 4, 2025, Tata Investment Corporation announced a proposal for its first-ever stock split in a 1:10 ratio. This move is intended to enhance stock liquidity and make shares more accessible to retail investors. The record date for the stock split is yet to be announced, pending shareholder approval.
+
+Q1 FY26 Results:Concurrently with the stock split announcement, the company reported its Q1 FY26 results. Standalone net profit for Q1 FY26 rose 23.5% year-on-year to ₹139.22 crore. Revenue from operations increased by 21% year-on-year for the same period.
+
+Dividend Announcement:The Board of Directors recommended a final dividend of ₹27 per equity share (270%) on April 21, 2025, subject to shareholder approval. The record date for the dividend payment was fixed as June 10, 2025.
+
+As of August 21, 2025, 11:23 PM GMT+05:30, Tata Investment Corporation Ltd's (TATAINVEST) stock performance and recent news include:
+
+Recent News and Updates (as of May 1, 2025):"

@@ -1,0 +1,16 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+MRF,3,451,2025-08-21 22:30:16,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.nseindia.com/get-quotes/equity?symbol=MRF#:~:text=MRF%20Limited%20Share%20Price%20Today%2C%20Live%20NSE,capitalisation%2C%20dividends%2C%20volume%2C%20profit%20and%20loss%20account%2C"
+Link_2,https://www.mrftyres.com/downloads/Board-Meeting-Intimation-07.05.2025.pdf
+Link_3,"https://blinkx.in/stocks/mrf-ltd-board-meeting-2025-05-07#:~:text=MRF%20Ltdhas%20informed%20BSE%20that,Upgrade%20to%20BlinkX"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"MRF's board meeting was scheduled for May 7, 2025, to approve the audited financial results for the year ended March 31, 2025 (FY25), and to consider declaring a final dividend.
+
+The company's trading window was closed from April 1, 2025, to May 9, 2025 (both days inclusive), as per their code of conduct to regulate, monitor, and report trading by designated persons and their immediate relatives.
+
+News and updates related to MRF as of May 1, 2025:"

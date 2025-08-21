@@ -1,0 +1,30 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+LUPIN,7,1340,2025-08-21 22:29:23,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://simplywall.st/stocks/in/pharmaceuticals-biotech/nse-lupin/lupin-shares#:~:text=Jun%2023,Feb%2011"
+Link_2,"https://www.lupin.com/lupin-launches-tolvaptan-tablets-in-the-u-s-with-180-day-exclusivity/#:~:text=Mumbai%2C%20Naples%2C%20May%2013%2C,distributed%20in%20over%20100%20markets."
+Link_3,"https://www.lupin.com/investors/#:~:text=Lupin%20Announces%20Presentation%20of%20Phase,May%2013%2C%202025"
+Link_4,"https://www.capitalmarket.com/markets/news/hot-pursuit-news/lupin-rises-after-launching-talvaptan-tablets-in-us-market/1598907#:~:text=Lupin%20gained%202.81%25%20to%20Rs,quarter%20ended%2031st%20March%202025."
+Link_5,"https://m.economictimes.com/industry/healthcare/biotech/pharmaceuticals/lupin-launches-generic-version-of-kidney-disorder-treatment-drug-in-us/articleshow/121132749.cms#:~:text=These%20tablets%2C%20with%20strengths%20of,180%2Dday%20generic%20drug%20exclusivity.&text=Pharma%20major%20Lupin%20Ltd%20on,to%20high%2Dquality%20treatment%20options."
+Link_6,https://www.indmoney.com/stocks/lupin-ltd-share-price
+Link_7,"https://www.moneycontrol.com/news/tags/lupin.html#:~:text=Hold%20Lupin:%20target%20of%20Rs%202%2C110:%20ICICI%20Securities,report%20dated%20May%2016%2C%202025."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"April 24, 2025:Lupin rallied following the receipt of US FDA approval for Tolvaptan Tablets.
+
+May 13, 2025:Lupin launched Tolvaptan Tablets in the US market with 180-day exclusivity,according to Capital Market. This product is a generic version of Jynarque, indicated to slow kidney function decline in adults at risk of rapidly progressing autosomal dominant polycystic kidney disease (ADPKD). The estimated annual market size for Tolvaptan Tablets in the US (fiscal year ended December 31, 2024) was $1,467 million. Lupin's CEO, Vinita Gupta, expressed the company's pleasure in launching this product to provide ADPKD patients with increased access to high-quality treatment options.
+
+May 14, 2025:Lupin declared a dividend of ₹12.00 per share, representing a dividend yield of 0.61%.
+
+May 15, 2025:Punita Lal joined Lupin's Board as an Additional Director.
+
+May 16, 2025:ICICI Securities recommended a ""hold"" rating on Lupin with a target price of Rs 2,110.
+
+May 26, 2025:Lupin announced the presentation of Phase 1 data on LNP7457 (PRMT5 inhibitor) at the American Society of Clinical Oncology – Annual Meeting 2025.
+
+May 27, 2025:Analysts updated their estimates for Lupin Limited after its annual results announcement.
+
+On May 1, 2025, Lupin received attention for successfully clearing a stock scan based on earnings growth metrics."

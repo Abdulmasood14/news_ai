@@ -1,0 +1,16 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+NTPC,1,691,2025-08-21 22:44:48,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://ntpc.co.in/index.php/investor-updates/announcement#:~:text=disclosure%20dated%2001.05.-,2025%20made%20by%20our%20subsidiary%20NTPC%20Green%20Energy%20Limited%20titled,group%20will%20become%2080%2C095%20MW.&text=Pursuant%20to%20Regulation%2030%20of,requirement%20of%20the%20Circular%20No."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Declaration of COD by NTPC Green Energy Limited:NTPC Green Energy Limited (a subsidiary of NTPC) declared the Commercial Operation Date (COD) of 75 MW capacity from a group company, bringing the total installed and commercial capacity of the NTPC group to 80,095 MW.
+
+Appointment of Additional Director:The Board of Directors of NTPC Limited approved the appointment of Shri Anil Kumar Trigunayat as an Additional Director (Independent Director) for a period of one year, effective from April 16, 2025.
+
+Latest news and updates for NTPC on May 1, 2025:
+
+This information is based on disclosures made by NTPC under the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015."

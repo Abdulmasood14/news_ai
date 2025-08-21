@@ -1,0 +1,17 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+LLOYDSME,2,1638,2025-08-21 22:27:59,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.investing.com/news/company-news/lloyds-banking-group-q1-2025-slides-lending-growth-strong-amid-mixed-financial-results-93CH-4015523#:~:text=Quarterly%20Performance%20Highlights,p%20from%20the%20previous%20quarter."
+Link_2,"https://in.investing.com/news/company-news/lloyds-banking-group-q1-2025-slides-lending-growth-strong-amid-mixed-financial-results-93CH-4802205#:~:text=Introduction%20&%20Market%20Context,cost%20pressures%20and%20prudent%20provisioning."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"On May 1, 2025, Lloyds Banking Group released its Q1 2025 Interim Management Statement, reporting a mix of strong performance areas and increased costs. While the bank saw significant lending and income growth, it also faced higher operating costs and impairment charges. Despite these challenges, Lloyds maintained its full-year guidance and expressed confidence in its strategy.
+
+Key figures from Q1 2025 included a statutory profit after tax of £1.13 billion, a net income of £4.39 billion, and operating costs of £2.55 billion. The bank's net interest margin improved to 3.03%, and tangible net asset value per share grew to 54.4p. Lending increased by 2% to £466.2 billion, with mortgages contributing significantly to this growth, while total deposits rose by 1% to £487.7 billion. The impairment charge for the quarter was £309 million, and the CET1 ratio stood at 13.5%.
+
+The bank highlighted strong lending and deposit growth as key drivers. Net interest income reached £3.29 billion, supported by the structural hedge, and other income also showed strong momentum, increasing to £1.45 billion. Although operating costs were up, Lloyds reaffirmed its full-year guidance of approximately £9.7 billion, and asset quality remained resilient.
+
+Lloyds updated its economic outlook, with a base case assuming modest UK GDP growth in the coming years. The bank reiterated its guidance for 2025, expecting net interest income of around £13.5 billion, operating costs near £9.7 billion, and RoTE of approximately 13.5%. Looking ahead to 2026, Lloyds has strategic targets including a cost-to-income ratio below 50% and RoTE exceeding 15%."

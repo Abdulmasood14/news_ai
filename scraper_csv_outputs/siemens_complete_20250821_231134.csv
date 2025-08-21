@@ -1,0 +1,74 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+SIEMENS,21,3880,2025-08-21 23:11:34,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://press.siemens.com/in/en/pressrelease/siemens-limited-reports-q2-fy-2025-results-orders-44-pat-inr-408-crore#:~:text=Siemens%20Limited%20Reports%20Q2%20FY,crore%20in%20the%20current%20quarter."
+Link_2,https://press.siemens.com/global/en/pressrelease/earnings-release-and-financial-results-q2-fy-2025
+Link_3,"https://www.siemens-energy.com/global/en/home/press-releases.html#:~:text=January%2027%2C%202025-,Ad%2Dhoc:%20Siemens%20Energy%20AG%20announces%20preliminary%20results%20for%20the,Free%20Cash%20Flow%20pre%20tax."
+Link_4,"https://hdfcsky.com/news/siemens-energy-indias-profit-in-march-quarter-up-by-36-3-percent#:~:text=Up%20by%2036.3%25-,Siemens%20Energy%20India's%20Profit%20in%20March%20Quarter%20Up%20by%2036.3,revenue%20and%20stable%20segment%20margins."
+Link_5,"https://www.varian.com/#:~:text=May%2001%2C%202025%20More%20Impact,in%20Treatment%20Planning%20and%20Delivery"
+Link_6,"https://rivalsense.co/intel/siemens-gamesa-latest-news-updates-may-01-2025-release/#:~:text=May%201%2C%202025-,Siemens%20Gamesa%20%7C%20Competitive%20Intelligence%20Insights%20%2D%20May%2001%2C%202025,tool%20for%20monitoring%20any%20company."
+Link_7,"https://www.siemens.com/in/en.html#:~:text=Siemens%20Limited%20announces%20CAPEX%20of,growing%20Metro%20Rail%20networks%20globally."
+Link_8,"https://www.siemens-energy.com/global/en/home/energy-transition/strategies.html#:~:text=Siemens%20Energy%20remains%20committed%20to,energy%20efficiency%20in%20industrial%20processes."
+Link_9,"https://press.siemens.com/global/en/pressrelease/earnings-release-and-financial-results-q1-fy-2025#:~:text=%E2%82%AC1.6%20billion-,First%2Dquarter%20revenue%20grew%203%25%20to%20%E2%82%AC18.4%20billion;,our%20leadership%20in%20industrial%20AI."
+Link_10,"https://press.siemens.com/global/en/event/first-quarter-results-fy-2025#:~:text=Earnings%20Release%20and%20Financial%20Results,bill%20ratio%20was%201.09%20..."
+Link_11,"https://www.siemens-energy.com/global/en/home/press-releases.html#:~:text=Press%20Hub%20Ad%2Dhoc:%20Siemens%20Energy%20AG%20announces,the%20first%20quarter%20of%20fiscal%20year%202025."
+Link_12,"https://scanx.trade/stock-market-news/earnings/siemens-q1-revenue-surges-24-to-46-5-billion-net-profit-dips-28/16418649#:~:text=Siemens%20(%20Siemens%20AG%20)%20Limited%20Reports,slightly%20by%203.1%25%20to%20INR%20423.00%20crore."
+Link_13,"https://assets.new.siemens.com/siemens/assets/api/uuid:f1f93085-dd53-4e72-88ce-140713c3ced5/SAG-LkSG-Policy-Statement.pdf#:~:text=Siemens%20(%20Siemens%20Aktiengesellschaft%20)%20is%20a,in%20our%20Business%20Conduct%20Guidelines%20(%20BCGs):"
+Link_14,"https://www.siemens.com/global/en/company/about/businesses/real-estate/info-center/net-zero-emissions.html#:~:text=Step%20by%20step%20to%20Net%2DZero%20(%20Net%2Dzero,by%2055%25%2C%20compared%20to%20a%202019%20baseline."
+Link_15,"https://press.siemens.com/global/en/feature/decarbonization#:~:text=What%20do%20our%20commitments%20mean?%20Siemens%20has,pathway%20to%20reduction%20that%20the%20SBTi%20advocates."
+Link_16,"https://rivalsense.co/intel/siemens-gamesa-latest-news-updates-may-01-2025-release/#:~:text=Siemens%20Gamesa%20%2D%20Latest%20News%20and%20Updates,grid%20stability%20following%20a%20blackout%20in%20Spain."
+Link_17,https://www.windpowermonthly.com/article/1919053/norwegian-wind-farm-back-online-one-year-siemens-gamesa-blade-failures
+Link_18,"https://rivalsense.co/intel/siemens-gamesa-latest-news-updates-may-01-2025-release/#:~:text=Siemens%20Gamesa%20has%20faced%20persistent%20quality%20issues,profitability%20and%20investor%20confidence%20in%20recent%20years."
+Link_19,"https://www.businesswire.com/news/home/20250430039992/en/More-Impact-Together-Varian-and-Siemens-Healthineers-Portfolios-Highlight-More-Impact-Innovations-and-More-Breakthroughs-Throughout-Cancer-Care-Journey-at-ESTRO-2025#:~:text=%2D%2D(BUSINESS%20WIRE)%2D%2DVarian%2C%20a%20Siemens%20Healthineers%20company%2C%20will,and%20Oncology%20(ESTRO)%20annual%20meeting%2C%20May%202"
+Link_20,"https://www.angelone.in/news/share-market/siemens-energy-india-share-price-rose-2-percent-q2-fy25-profit-rises#:~:text=It%20posted%20Q2%20FY25%20results%20with%20%E2%82%B918%2C795,quarter%20and%20half%2Dyear%20ended%20March%2031%2C%202025."
+Link_21,"https://www.indiainfoline.com/news/business/siemens-q2-fy25-net-profit-falls-25-yoy#:~:text=Siemens%20Q2%20FY25%20Net%20Profit%20Falls%2025%25,crore%20in%20the%20same%20quarter%20last%20year."
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Financial Results (Q1 FY25):Siemens reported promising first-quarter results for fiscal year 2025 (period ending December 31, 2024),according to Siemens press.
+
+Revenue increased 3% to €18.4 billion.
+
+Orders declined 7% to €20.1 billion, with orders rising in most industrial businesses but seeing a decrease in Mobility (which had strong orders in the previous quarter).
+
+Book-to-bill ratio was 1.09.
+
+Net income increased 52% to €3.9 billion, significantly boosted by a €2.1 billion gain (after tax) from the sale of Innomotics.
+
+Acquisitions:Siemens closed the acquisition of Altair Engineering Inc., a provider of industrial simulation and analysis software, in March 2025. They also announced an agreement to acquire Dotmatics (Insightful Science Holdings, LLC), a provider of life sciences R&D software, in April 2025.
+
+Energy Transition Strategy:Siemens Energy remains committed to the UN Global Compact and has made progress in decarbonizing its operations, reducing CO2 emissions by 55% compared to 2019 and using 100% renewable electricity in 2024. They plan to further reduce Scope 3 emissions by 28% by 2030, focusing on developing low- or zero-emission power generation, electricity transport and storage, and improving industrial process efficiency.
+
+Strong Start to FY25:Siemens Energy announced preliminary positive results for the first quarter of fiscal year 2025, including strong free cash flow before tax.
+
+Executive Changes:Nuno Dias, former Head of Quality Management Portugal, left Siemens Gamesa to join Grupo Petrotec.
+
+Focus on Grid Stability:Siemens Gamesa emphasized the importance of energy storage and grid-forming inverters in the aftermath of a blackout in Spain.
+
+Quality Issues:Siemens Gamesa continued to face challenges with quality issues in wind turbine components and cost overruns impacting profitability.
+
+ESTRO 2025:Siemens Healthineers showcased their cancer care portfolio at ESTRO 2025, highlighting innovations and breakthroughs in the field.
+
+Q2 FY25 Results:Siemens Limited reported positive Q2 FY25 results (period ending March 31, 2025),according to Siemens press.
+
+New orders increased by 44% to INR 5,305 crore.
+
+Order backlog grew by 7%.
+
+Revenue was up 3%.
+
+Profit after tax was lower at INR 408 crore, impacted by extraordinary expenses.
+
+NCLT-Approved Demerger:The energy business of Siemens Limited was officially transferred to Siemens Energy India Ltd. as of March 1, 2025, following NCLT approval. Siemens Energy India Ltd. shares were listed on BSE and NSE on June 19, 2025.
+
+Capex Expansion:Siemens Limited announced plans for a CAPEX exceeding Rs. 1,000 crore for expanding its manufacturing capabilities in Goa (Gas Insulated Switchgear and Clean Air GIS) and setting up a Metro train manufacturing facility in Aurangabad.
+
+Financial Results (Q1 FY25):Siemens reported promising first-quarter results for fiscal year 2025 (period ending December 31, 2024),according to Siemens press.Revenue increased 3% to €18.4 billion.Orders declined 7% to €20.1 billion, with orders rising in most industrial businesses but seeing a decrease in Mobility (which had strong orders in the previous quarter).Book-to-bill ratio was 1.09.Net income increased 52% to €3.9 billion, significantly boosted by a €2.1 billion gain (after tax) from the sale of Innomotics.
+
+Q2 FY25 Results:Siemens Limited reported positive Q2 FY25 results (period ending March 31, 2025),according to Siemens press.New orders increased by 44% to INR 5,305 crore.Order backlog grew by 7%.Revenue was up 3%.Profit after tax was lower at INR 408 crore, impacted by extraordinary expenses.
+
+On May 1, 2025 , Siemens (including its subsidiaries and affiliates) made several headlines and announcements:
+
+It's important to note that the provided information focuses on Siemens' global and Indian operations. Specific regional or localized news may not be included."

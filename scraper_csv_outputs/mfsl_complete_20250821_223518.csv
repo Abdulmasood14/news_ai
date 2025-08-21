@@ -1,0 +1,21 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+MFSL,2,650,2025-08-21 22:35:18,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,"https://www.bajajbroking.in/blog/m-and-m-financial-launches-rs-2996-cr-rights-issue-at-rs-194-per-share#:~:text=Synopsis:,date%20of%20May%2014%2C%202025."
+Link_2,https://groww.in/blog/mahindra-finance-to-raise-2-996-crore-via-rights-issue
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Record Date:May 14, 2025.
+
+Rights Entitlement Ratio:One rights equity share for every eight fully paid-up shares held.
+
+Issue Opening Date:May 22, 2025.
+
+Issue Closing Date:June 6, 2025.
+
+Mahindra & Mahindra Financial Services Limited (MFSL) announced a rights issue on May 8, 2025 . The company offered 15.44 crore fully paid-up equity shares at an issue price of Rs 194 each, including a premium of Rs 192 per share.
+
+This rights issue was intended to raise ₹2,996.16 crore, according to Bajaj Broking and Groww . The proceeds were aimed at strengthening the company's capital base to support future growth and meet regulatory capital requirements."

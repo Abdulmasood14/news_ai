@@ -1,0 +1,10 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+TATASTEEL,0,58,2025-08-21 23:26:57,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+No_Links,No links found for TATASTEEL
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Something went wrong, and an AI response wasn't generated."

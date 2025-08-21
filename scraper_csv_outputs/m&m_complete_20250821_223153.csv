@@ -1,0 +1,52 @@
+Company,Total_Links,Text_Length_Characters,Extraction_Date,Status
+M&M,11,1796,2025-08-21 22:31:53,Completed
+
+EXTRACTED_LINKS
+Link_Number,URL
+Link_1,https://www.mahindra.com/news-room/press-release/en/mm-results-q4-fy25-and-fy25
+Link_2,"https://www.autocarpro.in/analysis/mahindra-mg-challenge-tata-motors-ev-lead-as-indias-electric-car-market-grows-52-in-may-126737#:~:text=In%20May%202025%2C%20the%20top,shift%20among%20all%20major%20OEMs."
+Link_3,"https://humansofev.info/mahindra-be-6-and-xev-9e-drive-record-sales-in-may-2025/#:~:text=M&M%20sold%202%2C695%20EVs%20in,vehicle%20market%20during%20this%20period."
+Link_4,https://www.mahindra.com/sites/default/files/2025-05/SEIntimationMay2025PR.pdf
+Link_5,https://www.mahindra.com/news-room/press-release/en/mahindra-auto-sells-52330-SUVs-a-growth-of-28-percents-and-total-volumes-of-84170-a-growth-of-19-percents-in-april-2025
+Link_6,"https://www.autocarpro.in/news/mahindra-mg-challenge-tata-motors-ev-lead-as-indias-electric-car-market-grows-52-in-may-126737#:~:text=Mahindra%20Roars%20Ahead%2C%20Grows%20338,shift%20among%20all%20major%20OEMs."
+Link_7,"https://www.cnbctv18.com/market/mahindra-mahindra-q4-results-earning-revenue-growth-profit-market-share-auto-suv-tractor-dividend-share-price-reaction-19598973.htm#:~:text=Mahindra%20&%20Mahindra%20Q4%20Results:%20Revenue,estimate%20of%20%E2%82%B94%2C158%20crore."
+Link_8,"https://www.v3cars.com/news/2025-mahindra-xuv-3xo-updated-with-dolby-atmos-audio#:~:text=Offer%20Dolby%20Atmos-,2025%20Mahindra%20XUV%203XO%20Becomes%20World's%20Most,To%20Offer%20Dolby%20Atmos%20%7C%20V3Cars&text=Mahindra%20have%20just%20announced%20the,XUV%203XO%20with%20Dolby%20Atmos."
+Link_9,"https://www.mahindra.com/news-room/press-release/en/mahindra-be-6-batman-edition-gets-overwhelming-response-total-quantity-available-increased-to-999-units-from-300-units#:~:text=careers-,Mahindra%20BE%206%20Batman%20Edition%20gets%20overwhelming%20response%20Total%20quantity,Booking%20process"
+Link_10,"https://www.globenewswire.com/news-release/2025/06/01/3091451/0/en/XPENG-Announces-Vehicle-Delivery-Results-for-May-2025.html#:~:text=XPENG%20Announces%20Vehicle%20Delivery%20Results%20for%20May,01%2C%202025%20(GLOBE%20NEWSWIRE)%20%2D%2D%20XPeng%20Inc."
+Link_11,"https://www.ndtv.com/auto/mahindra-records-17-percent-yoy-growth-in-may25-registers-84-110-unit-sales-8560618#:~:text=Read%20Time:%202%20mins,Mahindra%20Light%20Commercial%20Vehicles"
+
+EXTRACTED_TEXT_CONTENT
+Content_Type,Content
+Complete_Text,"Mahindra's Farm Equipment Sector (FES) announced its tractor sales numbers for April 2025.
+
+Domestic sales were 38,516 units, an 8% increase compared to April 2024.
+
+Total tractor sales (Domestic + Exports) reached 40,054 units, up from 37,039 units for the same period last year.
+
+Exports for the month stood at 1,538 units, representing a 25% growth over last year.
+
+Mahindra Auto reported overall auto sales of 84,170 vehicles in April 2025, a 19% growth compared to April 2024.
+
+SUV sales reached 52,330 units, registering a 28% growth.
+
+M&M's consolidated revenue for FY25 stood at ₹1,59,211 crore, a 14% increase year-on-year (YoY).
+
+Consolidated PAT (Profit After Tax) for FY25 was ₹12,929 crore, up 20% YoY.
+
+The company declared a dividend of ₹25.3 per share for FY25.
+
+Mahindra's new electric SUVs, the BE 6 and XEV 9e, have driven record sales in May 2025.
+
+Production of the BE 6 and XEV 9e at the Chakan plant reached 3,692 units, with 4,021 units dispatched to dealerships across the country.
+
+Mahindra holds a 21% share of the electric passenger vehicle market, selling 2,695 EVs in May,according to Autocar Professional.
+
+The company is set to introduce new battery and trim combinations for the BE 6 and XEV 9e to cater to a broader range of customers.
+
+Mahindra has increased the production of the BE 6 Batman Edition from 300 units to 999 units due to overwhelming demand.
+
+Mahindra announced the inclusion of Dolby Atmos in select variants of the2025 XUV 3XO, making it the most affordable SUV globally to offer this feature.
+
+News and updates regarding Mahindra & Mahindra (M&M) as of May 1, 2025:
+
+It's important to note that some articles covering May 2025 performance were published in early June, based on the May sales figures that became available around May 31/June 1."
